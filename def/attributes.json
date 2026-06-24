@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Public health measures",
+    "name_short": "PHSM",
+    "levels": [
+      {"value": 0, "text": "Basic measures"},
+      {"value": 1, "text": "Reduced social contact"},
+      {"value": 2, "text": "Lockdown"}
+    ]
+  },
+  {
+    "name": "Duration of measures",
+    "name_short": "DURATION",
+    "levels": [
+      {"value": 3, "text": "3 months"},
+      {"value": 6, "text": "6 months"},
+      {"value": 9, "text": "9 months"}
+    ]
+  },
+  {
+    "name": "Pressure on household finances",
+    "name_short": "FINANACES",
+    "levels": [
+      {"value": 50, "text": "50% items affordable"},
+      {"value": 75, "text": "75% items affordable"},
+      {"value": 100, "text": "100% items affordable"}
+    ]
+  },
+  {
+    "name": "Long term education impact",
+    "name_short": "EDUCATION",
+    "levels": [
+      {"value": 4, "text": "1 in 25 children"},
+      {"value": 10, "text": "2.5 in 25 children"},
+      {"value": 20, "text": "5 in 25 children"},
+      {"value": 40, "text": "10 in 25 children"}
+    ]
+  },
+  {
+    "name": "Excess deaths",
+    "name_short": "DEATH",
+    "levels": [
+      {"value": 50, "text": "50 deaths per day"},
+      {"value": 100, "text": "100 deaths per day"},
+      {"value": 150, "text": "150 deaths per day"},
+      {"value": 200, "text": "200 deaths per day"}
+    ]
+  },
+  {
+    "name": "Family infection risk in the next 12 months",
+    "name_short": "INFECTION",
+    "levels": [
+      {"value": 10, "text": "10%"},
+      {"value": 25, "text": "25%"},
+      {"value": 50, "text": "50%"},
+      {"value": 90, "text": "90%"}
+    ]
+  }
+]
