@@ -9,6 +9,14 @@
     ]
   },
   {
+    "name": "Vaccine availability",
+    "name_short": "VACCINE",
+    "levels": [
+      {"value": 0, "text": "Not available"},
+      {"value": 1, "text": "Available"}
+    ]
+  },  
+  {
     "name": "Duration of measures",
     "name_short": "DURATION",
     "levels": [
