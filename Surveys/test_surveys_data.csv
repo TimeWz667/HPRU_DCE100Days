@@ -1,0 +1,97 @@
+Set,Alt,Var,value,text,name,Feature,Block
+set10,alt1,Var1,1,Reduced social contact,Public health measures,Public health measures: Reduced social contact,blk1
+set10,alt1,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk1
+set10,alt1,Var3,150,150 deaths per day,Excess deaths,Excess deaths: 150 deaths per day,blk1
+set10,alt1,Var4,25,25%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 25%,blk1
+set10,alt2,Var1,2,Lockdown,Public health measures,Public health measures: Lockdown,blk1
+set10,alt2,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk1
+set10,alt2,Var3,100,100 deaths per day,Excess deaths,Excess deaths: 100 deaths per day,blk1
+set10,alt2,Var4,10,10%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 10%,blk1
+set11,alt1,Var1,2,Lockdown,Public health measures,Public health measures: Lockdown,blk1
+set11,alt1,Var2,0,Not available,Vaccine availability,Vaccine availability: Not available,blk1
+set11,alt1,Var3,100,100 deaths per day,Excess deaths,Excess deaths: 100 deaths per day,blk1
+set11,alt1,Var4,25,25%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 25%,blk1
+set11,alt2,Var1,0,Basic measures,Public health measures,Public health measures: Basic measures,blk1
+set11,alt2,Var2,0,Not available,Vaccine availability,Vaccine availability: Not available,blk1
+set11,alt2,Var3,150,150 deaths per day,Excess deaths,Excess deaths: 150 deaths per day,blk1
+set11,alt2,Var4,50,50%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 50%,blk1
+set12,alt1,Var1,0,Basic measures,Public health measures,Public health measures: Basic measures,blk1
+set12,alt1,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk1
+set12,alt1,Var3,200,200 deaths per day,Excess deaths,Excess deaths: 200 deaths per day,blk1
+set12,alt1,Var4,90,90%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 90%,blk1
+set12,alt2,Var1,1,Reduced social contact,Public health measures,Public health measures: Reduced social contact,blk1
+set12,alt2,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk1
+set12,alt2,Var3,150,150 deaths per day,Excess deaths,Excess deaths: 150 deaths per day,blk1
+set12,alt2,Var4,50,50%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 50%,blk1
+set4,alt1,Var1,2,Lockdown,Public health measures,Public health measures: Lockdown,blk1
+set4,alt1,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk1
+set4,alt1,Var3,50,50 deaths per day,Excess deaths,Excess deaths: 50 deaths per day,blk1
+set4,alt1,Var4,10,10%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 10%,blk1
+set4,alt2,Var1,0,Basic measures,Public health measures,Public health measures: Basic measures,blk1
+set4,alt2,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk1
+set4,alt2,Var3,100,100 deaths per day,Excess deaths,Excess deaths: 100 deaths per day,blk1
+set4,alt2,Var4,90,90%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 90%,blk1
+set7,alt1,Var1,0,Basic measures,Public health measures,Public health measures: Basic measures,blk1
+set7,alt1,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk1
+set7,alt1,Var3,200,200 deaths per day,Excess deaths,Excess deaths: 200 deaths per day,blk1
+set7,alt1,Var4,90,90%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 90%,blk1
+set7,alt2,Var1,2,Lockdown,Public health measures,Public health measures: Lockdown,blk1
+set7,alt2,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk1
+set7,alt2,Var3,150,150 deaths per day,Excess deaths,Excess deaths: 150 deaths per day,blk1
+set7,alt2,Var4,10,10%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 10%,blk1
+set8,alt1,Var1,2,Lockdown,Public health measures,Public health measures: Lockdown,blk1
+set8,alt1,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk1
+set8,alt1,Var3,150,150 deaths per day,Excess deaths,Excess deaths: 150 deaths per day,blk1
+set8,alt1,Var4,10,10%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 10%,blk1
+set8,alt2,Var1,1,Reduced social contact,Public health measures,Public health measures: Reduced social contact,blk1
+set8,alt2,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk1
+set8,alt2,Var3,200,200 deaths per day,Excess deaths,Excess deaths: 200 deaths per day,blk1
+set8,alt2,Var4,90,90%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 90%,blk1
+set1,alt1,Var1,1,Reduced social contact,Public health measures,Public health measures: Reduced social contact,blk2
+set1,alt1,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk2
+set1,alt1,Var3,150,150 deaths per day,Excess deaths,Excess deaths: 150 deaths per day,blk2
+set1,alt1,Var4,90,90%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 90%,blk2
+set1,alt2,Var1,2,Lockdown,Public health measures,Public health measures: Lockdown,blk2
+set1,alt2,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk2
+set1,alt2,Var3,100,100 deaths per day,Excess deaths,Excess deaths: 100 deaths per day,blk2
+set1,alt2,Var4,10,10%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 10%,blk2
+set2,alt1,Var1,2,Lockdown,Public health measures,Public health measures: Lockdown,blk2
+set2,alt1,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk2
+set2,alt1,Var3,150,150 deaths per day,Excess deaths,Excess deaths: 150 deaths per day,blk2
+set2,alt1,Var4,25,25%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 25%,blk2
+set2,alt2,Var1,0,Basic measures,Public health measures,Public health measures: Basic measures,blk2
+set2,alt2,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk2
+set2,alt2,Var3,200,200 deaths per day,Excess deaths,Excess deaths: 200 deaths per day,blk2
+set2,alt2,Var4,50,50%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 50%,blk2
+set3,alt1,Var1,0,Basic measures,Public health measures,Public health measures: Basic measures,blk2
+set3,alt1,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk2
+set3,alt1,Var3,200,200 deaths per day,Excess deaths,Excess deaths: 200 deaths per day,blk2
+set3,alt1,Var4,90,90%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 90%,blk2
+set3,alt2,Var1,1,Reduced social contact,Public health measures,Public health measures: Reduced social contact,blk2
+set3,alt2,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk2
+set3,alt2,Var3,150,150 deaths per day,Excess deaths,Excess deaths: 150 deaths per day,blk2
+set3,alt2,Var4,25,25%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 25%,blk2
+set5,alt1,Var1,2,Lockdown,Public health measures,Public health measures: Lockdown,blk2
+set5,alt1,Var2,0,Not available,Vaccine availability,Vaccine availability: Not available,blk2
+set5,alt1,Var3,50,50 deaths per day,Excess deaths,Excess deaths: 50 deaths per day,blk2
+set5,alt1,Var4,10,10%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 10%,blk2
+set5,alt2,Var1,1,Reduced social contact,Public health measures,Public health measures: Reduced social contact,blk2
+set5,alt2,Var2,0,Not available,Vaccine availability,Vaccine availability: Not available,blk2
+set5,alt2,Var3,100,100 deaths per day,Excess deaths,Excess deaths: 100 deaths per day,blk2
+set5,alt2,Var4,90,90%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 90%,blk2
+set6,alt1,Var1,0,Basic measures,Public health measures,Public health measures: Basic measures,blk2
+set6,alt1,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk2
+set6,alt1,Var3,150,150 deaths per day,Excess deaths,Excess deaths: 150 deaths per day,blk2
+set6,alt1,Var4,90,90%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 90%,blk2
+set6,alt2,Var1,2,Lockdown,Public health measures,Public health measures: Lockdown,blk2
+set6,alt2,Var2,1,Available,Vaccine availability,Vaccine availability: Available,blk2
+set6,alt2,Var3,100,100 deaths per day,Excess deaths,Excess deaths: 100 deaths per day,blk2
+set6,alt2,Var4,10,10%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 10%,blk2
+set9,alt1,Var1,0,Basic measures,Public health measures,Public health measures: Basic measures,blk2
+set9,alt1,Var2,0,Not available,Vaccine availability,Vaccine availability: Not available,blk2
+set9,alt1,Var3,200,200 deaths per day,Excess deaths,Excess deaths: 200 deaths per day,blk2
+set9,alt1,Var4,25,25%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 25%,blk2
+set9,alt2,Var1,2,Lockdown,Public health measures,Public health measures: Lockdown,blk2
+set9,alt2,Var2,0,Not available,Vaccine availability,Vaccine availability: Not available,blk2
+set9,alt2,Var3,150,150 deaths per day,Excess deaths,Excess deaths: 150 deaths per day,blk2
+set9,alt2,Var4,10,10%,Family infection risk in the next 12 months,Family infection risk in the next 12 months: 10%,blk2

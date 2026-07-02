@@ -1,0 +1,101 @@
+participant_id,age,sex,ethnicity,region,employment_status,income_bracket,clinically_vulnerable,has_school_age_child,assigned_block,choice_string,set1_chosen,set2_chosen,set3_chosen,set4_chosen,set5_chosen,set6_chosen,set7_chosen,set8_chosen,set9_chosen,set10_chosen,set11_chosen,set12_chosen
+P001,16,Female,White British,Yorkshire,Child (secondary school),Low,No,No,blk1,121122,,,,alt1,,,alt2,alt1,,alt1,alt2,alt2
+P002,27,Male,White British,East of England,Unable to work,Low,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P003,51,Male,Mixed/Other,West Midlands,Unable to work,Medium,Yes,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P004,46,Male,White British,London,Homemaker,Medium,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P005,68,Female,White British,North West,Retired,Medium,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P006,73,Female,White British,South East,Retired,Low,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P007,53,Male,White British,East Midlands,Unable to work,High,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P008,44,Female,White British,South East,Employed,Medium,No,Yes,blk2,212121,alt2,alt1,alt2,,alt1,alt2,,,alt1,,,
+P009,61,Female,White British,West Midlands,Employed,High,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P010,10,Male,White British,West Midlands,Child (primary school),Medium,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P011,63,Male,White British,South East,Employed,Medium,No,Yes,blk1,121112,,,,alt1,,,alt2,alt1,,alt1,alt1,alt2
+P012,30,Female,Asian/Asian British,North East,Employed,Medium,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P013,25,Male,White British,North West,Homemaker,Medium,No,Yes,blk1,121122,,,,alt1,,,alt2,alt1,,alt1,alt2,alt2
+P014,18,Female,White British,North East,Student,High,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P015,9,Male,White British,East Midlands,Child (primary school),Low,No,No,blk1,112122,,,,alt1,,,alt1,alt2,,alt1,alt2,alt2
+P016,24,Male,White British,South West,Unable to work,High,Yes,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P017,32,Female,Asian/Asian British,Wales,Employed,Low,No,No,blk1,121112,,,,alt1,,,alt2,alt1,,alt1,alt1,alt2
+P018,64,Female,White British,Wales,Employed,High,No,No,blk2,212121,alt2,alt1,alt2,,alt1,alt2,,,alt1,,,
+P019,58,Male,White British,Wales,Homemaker,Low,No,Yes,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P020,53,Female,White British,London,Unable to work,Medium,No,Yes,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P021,44,Female,Asian/Asian British,Wales,Employed,Low,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P022,13,Female,Mixed/Other,North West,Child (secondary school),Medium,Yes,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P023,72,Male,White British,Yorkshire,Retired,Low,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P024,63,Male,White British,East of England,Homemaker,High,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P025,78,Female,White British,East Midlands,Employed,Low,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P026,9,Male,White British,South West,Child (primary school),Medium,No,No,blk2,212111,alt2,alt1,alt2,,alt1,alt1,,,alt1,,,
+P027,40,Female,White British,Yorkshire,Employed,High,No,No,blk1,121211,,,,alt1,,,alt2,alt1,,alt2,alt1,alt1
+P028,17,Female,White British,Wales,Child (secondary school),Medium,No,No,blk2,221121,alt2,alt2,alt1,,alt1,alt2,,,alt1,,,
+P029,55,Male,White British,Yorkshire,Employed,High,No,No,blk1,121222,,,,alt1,,,alt2,alt1,,alt2,alt2,alt2
+P030,46,Female,White British,Yorkshire,Employed,Low,Yes,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P031,40,Female,White British,South West,Employed,Low,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P032,17,Female,White British,South East,Child (secondary school),Medium,No,No,blk2,222122,alt2,alt2,alt2,,alt1,alt2,,,alt2,,,
+P033,89,Female,White British,West Midlands,Part-time employed,Low,No,No,blk1,121112,,,,alt1,,,alt2,alt1,,alt1,alt1,alt2
+P034,57,Female,White British,South East,Employed,High,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P035,32,Female,White British,South West,Employed,Medium,No,Yes,blk1,121222,,,,alt1,,,alt2,alt1,,alt2,alt2,alt2
+P036,66,Male,Black/Black British,East of England,Retired,Medium,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P037,34,Male,White British,East of England,Unemployed,Low,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P038,39,Female,White British,South West,Homemaker,Low,No,Yes,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P039,88,Male,White British,London,Retired,High,Yes,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P040,81,Female,White British,South East,Retired,Low,No,No,blk2,212121,alt2,alt1,alt2,,alt1,alt2,,,alt1,,,
+P041,78,Female,White British,East of England,Retired,High,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P042,58,Female,White British,North West,Homemaker,Medium,No,No,blk2,222122,alt2,alt2,alt2,,alt1,alt2,,,alt2,,,
+P043,38,Female,White British,South West,Employed,Medium,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P044,54,Female,White British,West Midlands,Employed,High,No,No,blk2,212121,alt2,alt1,alt2,,alt1,alt2,,,alt1,,,
+P045,39,Female,White British,West Midlands,Employed,Medium,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P046,38,Female,White British,North West,Employed,High,No,Yes,blk2,212121,alt2,alt1,alt2,,alt1,alt2,,,alt1,,,
+P047,49,Female,White British,East Midlands,Employed,High,No,Yes,blk1,121122,,,,alt1,,,alt2,alt1,,alt1,alt2,alt2
+P048,29,Female,White British,South East,Employed,Medium,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P049,20,Male,White British,London,Student,Low,No,No,blk1,121112,,,,alt1,,,alt2,alt1,,alt1,alt1,alt2
+P050,2,Male,White British,South East,Child (pre-school),Low,No,No,blk2,212221,alt2,alt1,alt2,,alt2,alt2,,,alt1,,,
+P051,45,Male,White Other,Scotland,Employed,Low,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P052,44,Male,Asian/Asian British,Scotland,Employed,Medium,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P053,13,Female,White British,South West,Child (secondary school),Medium,No,No,blk1,121122,,,,alt1,,,alt2,alt1,,alt1,alt2,alt2
+P054,6,Female,White British,Yorkshire,Child (primary school),Medium,No,No,blk2,222121,alt2,alt2,alt2,,alt1,alt2,,,alt1,,,
+P055,61,Male,White British,East Midlands,Homemaker,High,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P056,37,Male,White British,South West,Employed,Medium,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P057,49,Female,White British,South East,Employed,Medium,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P058,35,Female,Asian/Asian British,East of England,Unemployed,Low,No,No,blk2,212121,alt2,alt1,alt2,,alt1,alt2,,,alt1,,,
+P059,87,Female,White Other,London,Employed,Medium,Yes,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P060,2,Female,Black/Black British,South West,Child (pre-school),Medium,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P061,38,Male,White British,North East,Employed,High,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P062,37,Female,White British,East Midlands,Employed,High,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P063,44,Female,White British,London,Homemaker,Medium,No,No,blk1,121222,,,,alt1,,,alt2,alt1,,alt2,alt2,alt2
+P064,26,Male,Black/Black British,Wales,Unable to work,Low,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P065,40,Female,White British,South East,Unable to work,Low,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P066,75,Female,White British,Yorkshire,Retired,Low,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P067,73,Female,Black/Black British,Yorkshire,Employed,Medium,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P068,19,Male,White British,Yorkshire,Unemployed,Low,No,No,blk2,222122,alt2,alt2,alt2,,alt1,alt2,,,alt2,,,
+P069,32,Male,White British,Yorkshire,Employed,Low,No,No,blk1,121112,,,,alt1,,,alt2,alt1,,alt1,alt1,alt2
+P070,28,Male,White British,London,Homemaker,High,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P071,51,Female,White British,East of England,Unable to work,Medium,Yes,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P072,3,Male,White British,Yorkshire,Child (pre-school),Medium,No,No,blk2,212121,alt2,alt1,alt2,,alt1,alt2,,,alt1,,,
+P073,69,Female,White British,South East,Retired,Medium,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P074,3,Male,White British,London,Child (pre-school),High,No,No,blk2,222112,alt2,alt2,alt2,,alt1,alt1,,,alt2,,,
+P075,38,Female,White Other,South East,Homemaker,Low,No,No,blk1,121222,,,,alt1,,,alt2,alt1,,alt2,alt2,alt2
+P076,87,Female,White Other,East of England,Part-time employed,Low,Yes,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P077,65,Male,White British,London,Unable to work,Low,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P078,24,Male,White British,London,Unable to work,Low,No,No,blk2,222122,alt2,alt2,alt2,,alt1,alt2,,,alt2,,,
+P079,53,Male,White British,South East,Employed,Low,No,No,blk1,121122,,,,alt1,,,alt2,alt1,,alt1,alt2,alt2
+P080,33,Female,White British,Yorkshire,Employed,High,No,Yes,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P081,55,Female,Mixed/Other,London,Employed,High,No,Yes,blk1,121122,,,,alt1,,,alt2,alt1,,alt1,alt2,alt2
+P082,20,Female,White British,East of England,Unemployed,High,No,No,blk2,222122,alt2,alt2,alt2,,alt1,alt2,,,alt2,,,
+P083,21,Female,White British,South East,Student,Low,No,No,blk1,121222,,,,alt1,,,alt2,alt1,,alt2,alt2,alt2
+P084,33,Female,White British,North West,Homemaker,Low,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P085,52,Female,White British,Wales,Employed,Low,No,No,blk1,121112,,,,alt1,,,alt2,alt1,,alt1,alt1,alt2
+P086,49,Male,White British,London,Unemployed,Medium,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P087,23,Female,White British,North West,Employed,Medium,No,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P088,8,Male,White British,North West,Child (primary school),Medium,No,No,blk2,212121,alt2,alt1,alt2,,alt1,alt2,,,alt1,,,
+P089,57,Male,Asian/Asian British,London,Employed,Medium,Yes,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P090,26,Male,White British,East Midlands,Homemaker,Medium,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P091,64,Male,White British,North West,Unable to work,Low,Yes,No,blk1,121212,,,,alt1,,,alt2,alt1,,alt2,alt1,alt2
+P092,77,Female,White British,South West,Retired,Low,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P093,16,Male,White British,South West,Child (secondary school),Low,No,No,blk1,111222,,,,alt1,,,alt1,alt1,,alt2,alt2,alt2
+P094,10,Female,White British,Yorkshire,Child (primary school),Low,No,No,blk2,221121,alt2,alt2,alt1,,alt1,alt2,,,alt1,,,
+P095,7,Male,White British,West Midlands,Child (primary school),Low,No,No,blk1,121122,,,,alt1,,,alt2,alt1,,alt1,alt2,alt2
+P096,24,Female,White British,London,Unable to work,Medium,No,No,blk2,212122,alt2,alt1,alt2,,alt1,alt2,,,alt2,,,
+P097,2,Male,Black/Black British,West Midlands,Child (pre-school),Medium,No,No,blk1,121222,,,,alt1,,,alt2,alt1,,alt2,alt2,alt2
+P098,11,Male,White British,East of England,Child (primary school),Low,No,No,blk2,222121,alt2,alt2,alt2,,alt1,alt2,,,alt1,,,
+P099,58,Female,White British,London,Employed,Low,No,No,blk1,121111,,,,alt1,,,alt2,alt1,,alt1,alt1,alt1
+P100,39,Female,White British,Scotland,Self-employed,Medium,No,No,blk2,212121,alt2,alt1,alt2,,alt1,alt2,,,alt1,,,
