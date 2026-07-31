@@ -6,7 +6,7 @@ library(jsonlite)
 
 sub_sel <- c(1, 2, 6, 7)
 
-attributes <- jsonlite::read_json(here::here("def", "attributes.json"))[sub_sel]
+attributes <- jsonlite::read_json(here::here("def", "attributes.json"))
 
 
 list_features <- sapply(attributes, \(x) x$name)
@@ -30,10 +30,10 @@ tab_attr <- lapply(attributes, \(x) {
 tab_attr
 
 
-cs <- Profiles(lvls = lvls, coding = rep("C", length(lvls)), c.lvls = code)
+cs <- Profiles(lvls = lvls, coding = rep("D", length(lvls)))
 
 cs %>% head()
-
+nrow(cs)
 
 priors <- local({
   n_pars <- ncol(cs)
@@ -100,7 +100,7 @@ mf_cs <- Modfed(
   alt.cte = c(0, 0),
   par.draws = priors,
   parallel = T,
-  constraints = cnts
+#  constraints = cnts
 )
 
 

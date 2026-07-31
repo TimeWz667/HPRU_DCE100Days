@@ -6,31 +6,31 @@
 
 | Basic measures | Social distancing | Lockdown |
 |:----------------------:|:----------------------:|:----------------------:|
-| ![](Attr_PHSM_0.png){width="100"} | ![](Attr_PHSM_1.png){width="100"} | ![](Attr_PHSM_2.png){width="100"} |
+| ![](Attr_PHSM_0.png) | ![](Attr_PHSM_1.png) | ![](Attr_PHSM_2.png) |
 
 ### Duration of public health measures
 
 | 3 months | 6 months | 9 months |
 |:----------------------:|:----------------------:|:----------------------:|
-| ![](Attr_Duration_3.png){width="100"} | ![](Attr_Duration_6.png){width="100"} | ![](Attr_Duration_9.png){width="100"} |
+| ![](Attr_Duration_3.png) | ![](Attr_Duration_6.png) | ![](Attr_Duration_9.png) |
 
 ### Vaccination available at the end of the public health measures
 
 |          Probably available          |            Not available             |
 |:----------------------------------:|:----------------------------------:|
-| ![](Attr_Vaccine_1.png){width="100"} | ![](Attr_Vaccine_0.png){width="100"} |
+| ![](Attr_Vaccine_1.png) | ![](Attr_Vaccine_0.png) |
 
 ### Infection risk per family
 
 | 25% | 50% | 90% |
 |:----------------------:|:----------------------:|:----------------------:|
-| ![](Attr_Infection_25.png){width="100"} | ![](Attr_Infection_50.png){width="100"} | ![](Attr_Infection_90.png){width="100"} |
+| ![](Attr_Infection_25.png) | ![](Attr_Infection_50.png) | ![](Attr_Infection_90.png) |
 
 ### Overal mortality
 
 | Low | Mid | High |
 |:----------------------:|:----------------------:|:----------------------:|
-| ![](Attr_Death_50.png){width="100"} | ![](Attr_Death_100.png){width="100"} | ![](Attr_Death_150.png){width="100"} |
+| ![](Attr_Death_50.png) | ![](Attr_Death_100.png) | ![](Attr_Death_150.png) |
 
 ### Education
 
@@ -42,7 +42,7 @@
 
 | No impact | 1 in 5 close | 2 in 5 close |
 |:----------------------:|:----------------------:|:----------------------:|
-| ![](Attr_Finances_0.png){width="100"} | ![](Attr_Finances_1.png){width="100"} | ![](Attr_Finances_2.png){width="100"} |
+| ![](Attr_Finances_0.png) | ![](Attr_Finances_1.png) | ![](Attr_Finances_2.png) |
 
 ## Source
 
