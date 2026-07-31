@@ -26,22 +26,20 @@
     ]
   },
   {
-    "name": "Pressure on household finances",
+    "name": "Local businesses",
     "name_short": "FINANACES",
     "levels": [
-      {"value": 50, "text": "50% items affordable"},
-      {"value": 75, "text": "75% items affordable"},
-      {"value": 100, "text": "100% items affordable"}
+      {"value": 0, "text": "No businesses close"},
+      {"value": 1, "text": "One in 5 businesses close"},
+      {"value": 2, "text": "2 in 5 businesses close"}
     ]
   },
   {
     "name": "Long term education impact",
     "name_short": "EDUCATION",
     "levels": [
-      {"value": 4, "text": "1 in 25 children"},
-      {"value": 10, "text": "2.5 in 25 children"},
-      {"value": 20, "text": "5 in 25 children"},
-      {"value": 40, "text": "10 in 25 children"}
+      {"value": 5, "text": "5 falling behind in 25 children "},
+      {"value": 10, "text": "10 falling behind in 25 children"}
     ]
   },
   {
@@ -50,15 +48,13 @@
     "levels": [
       {"value": 50, "text": "50 deaths per day"},
       {"value": 100, "text": "100 deaths per day"},
-      {"value": 150, "text": "150 deaths per day"},
-      {"value": 200, "text": "200 deaths per day"}
+      {"value": 150, "text": "150 deaths per day"}
     ]
   },
   {
     "name": "Family infection risk in the next 12 months",
     "name_short": "INFECTION",
     "levels": [
-      {"value": 10, "text": "10%"},
       {"value": 25, "text": "25%"},
       {"value": 50, "text": "50%"},
       {"value": 90, "text": "90%"}
