@@ -36,7 +36,7 @@
 
 | 5 in 25 fall behind | 10 in 25 fall behind |
 |:----------------------------------:|:----------------------------------:|
-| ![](Attr_Education_5.png){width="150"} | ![](Attr_Education_10.png){width="150"} |
+| ![](Attr_Education_5.png) | ![](Attr_Education_10.png) |
 
 ### Finances
 
