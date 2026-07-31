@@ -1,4 +1,4 @@
-# Icons used for the attributes/levels
+# Icons of the attributes/levels
 
 ## Attributes
 
