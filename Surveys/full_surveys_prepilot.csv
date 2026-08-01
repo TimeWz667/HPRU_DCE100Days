@@ -1,0 +1,97 @@
+Block,Set,Alt,PHSM,VACCINE,DURATION,FINANACES,EDUCATION,DEATH,INFECTION,PHSM_C,VACCINE_C,DURATION_C,FINANACES_C,EDUCATION_C,DEATH_C,INFECTION_C
+1,set11,alt1,Lockdown,Not available,3 months,2 in 5 businesses close,5 falling behind in 25 children ,150 deaths per day,90%,2,0,3,2,5,150,90
+1,set11,alt2,Basic measures,Available,6 months,No businesses close,10 falling behind in 25 children,100 deaths per day,50%,0,1,6,0,10,100,50
+1,set16,alt1,Reduced social contact,Not available,9 months,One in 5 businesses close,10 falling behind in 25 children,150 deaths per day,25%,1,0,9,1,10,150,25
+1,set16,alt2,Lockdown,Not available,6 months,2 in 5 businesses close,5 falling behind in 25 children ,100 deaths per day,90%,2,0,6,2,5,100,90
+1,set19,alt1,Basic measures,Available,6 months,One in 5 businesses close,10 falling behind in 25 children,50 deaths per day,25%,0,1,6,1,10,50,25
+1,set19,alt2,Reduced social contact,Not available,3 months,No businesses close,5 falling behind in 25 children ,100 deaths per day,90%,1,0,3,0,5,100,90
+1,set2,alt1,Lockdown,Not available,3 months,One in 5 businesses close,5 falling behind in 25 children ,100 deaths per day,90%,2,0,3,1,5,100,90
+1,set2,alt2,Reduced social contact,Available,9 months,2 in 5 businesses close,10 falling behind in 25 children,150 deaths per day,50%,1,1,9,2,10,150,50
+1,set20,alt1,Reduced social contact,Not available,6 months,One in 5 businesses close,10 falling behind in 25 children,150 deaths per day,25%,1,0,6,1,10,150,25
+1,set20,alt2,Basic measures,Available,3 months,No businesses close,5 falling behind in 25 children ,50 deaths per day,50%,0,1,3,0,5,50,50
+1,set21,alt1,Reduced social contact,Not available,6 months,No businesses close,10 falling behind in 25 children,50 deaths per day,50%,1,0,6,0,10,50,50
+1,set21,alt2,Basic measures,Available,3 months,One in 5 businesses close,5 falling behind in 25 children ,100 deaths per day,25%,0,1,3,1,5,100,25
+1,set24,alt1,Lockdown,Not available,3 months,One in 5 businesses close,5 falling behind in 25 children ,100 deaths per day,50%,2,0,3,1,5,100,50
+1,set24,alt2,Reduced social contact,Available,9 months,2 in 5 businesses close,10 falling behind in 25 children,150 deaths per day,90%,1,1,9,2,10,150,90
+1,set25,alt1,Reduced social contact,Available,3 months,2 in 5 businesses close,5 falling behind in 25 children ,50 deaths per day,25%,1,1,3,2,5,50,25
+1,set25,alt2,Basic measures,Not available,9 months,No businesses close,10 falling behind in 25 children,100 deaths per day,50%,0,0,9,0,10,100,50
+1,set29,alt1,Reduced social contact,Available,9 months,One in 5 businesses close,5 falling behind in 25 children ,50 deaths per day,50%,1,1,9,1,5,50,50
+1,set29,alt2,Basic measures,Available,6 months,No businesses close,10 falling behind in 25 children,100 deaths per day,25%,0,1,6,0,10,100,25
+1,set3,alt1,Reduced social contact,Available,3 months,One in 5 businesses close,10 falling behind in 25 children,150 deaths per day,90%,1,1,3,1,10,150,90
+1,set3,alt2,Basic measures,Available,9 months,No businesses close,5 falling behind in 25 children ,50 deaths per day,25%,0,1,9,0,5,50,25
+1,set31,alt1,Basic measures,Available,9 months,No businesses close,5 falling behind in 25 children ,50 deaths per day,50%,0,1,9,0,5,50,50
+1,set31,alt2,Reduced social contact,Not available,3 months,One in 5 businesses close,10 falling behind in 25 children,100 deaths per day,25%,1,0,3,1,10,100,25
+1,set8,alt1,Lockdown,Available,6 months,2 in 5 businesses close,10 falling behind in 25 children,100 deaths per day,50%,2,1,6,2,10,100,50
+1,set8,alt2,Reduced social contact,Not available,9 months,No businesses close,5 falling behind in 25 children ,150 deaths per day,90%,1,0,9,0,5,150,90
+2,set1,alt1,Lockdown,Not available,6 months,2 in 5 businesses close,10 falling behind in 25 children,150 deaths per day,50%,2,0,6,2,10,150,50
+2,set1,alt2,Reduced social contact,Available,3 months,No businesses close,5 falling behind in 25 children ,100 deaths per day,90%,1,1,3,0,5,100,90
+2,set14,alt1,Reduced social contact,Not available,3 months,2 in 5 businesses close,10 falling behind in 25 children,50 deaths per day,90%,1,0,3,2,10,50,90
+2,set14,alt2,Basic measures,Available,6 months,No businesses close,5 falling behind in 25 children ,100 deaths per day,25%,0,1,6,0,5,100,25
+2,set18,alt1,Basic measures,Not available,3 months,No businesses close,10 falling behind in 25 children,50 deaths per day,25%,0,0,3,0,10,50,25
+2,set18,alt2,Reduced social contact,Available,9 months,One in 5 businesses close,5 falling behind in 25 children ,100 deaths per day,50%,1,1,9,1,5,100,50
+2,set27,alt1,Lockdown,Not available,3 months,One in 5 businesses close,5 falling behind in 25 children ,150 deaths per day,50%,2,0,3,1,5,150,50
+2,set27,alt2,Reduced social contact,Available,6 months,2 in 5 businesses close,10 falling behind in 25 children,100 deaths per day,90%,1,1,6,2,10,100,90
+2,set30,alt1,Basic measures,Available,6 months,One in 5 businesses close,5 falling behind in 25 children ,100 deaths per day,25%,0,1,6,1,5,100,25
+2,set30,alt2,Reduced social contact,Not available,3 months,No businesses close,10 falling behind in 25 children,50 deaths per day,50%,1,0,3,0,10,50,50
+2,set39,alt1,Lockdown,Available,9 months,One in 5 businesses close,10 falling behind in 25 children,150 deaths per day,90%,2,1,9,1,10,150,90
+2,set39,alt2,Basic measures,Not available,6 months,One in 5 businesses close,5 falling behind in 25 children ,100 deaths per day,50%,0,0,6,1,5,100,50
+2,set4,alt1,Reduced social contact,Available,3 months,2 in 5 businesses close,5 falling behind in 25 children ,50 deaths per day,90%,1,1,3,2,5,50,90
+2,set4,alt2,Lockdown,Not available,6 months,One in 5 businesses close,10 falling behind in 25 children,150 deaths per day,50%,2,0,6,1,10,150,50
+2,set43,alt1,Basic measures,Not available,3 months,One in 5 businesses close,10 falling behind in 25 children,50 deaths per day,25%,0,0,3,1,10,50,25
+2,set43,alt2,Reduced social contact,Available,9 months,No businesses close,5 falling behind in 25 children ,150 deaths per day,50%,1,1,9,0,5,150,50
+2,set47,alt1,Reduced social contact,Not available,6 months,2 in 5 businesses close,5 falling behind in 25 children ,150 deaths per day,90%,1,0,6,2,5,150,90
+2,set47,alt2,Lockdown,Available,9 months,One in 5 businesses close,10 falling behind in 25 children,100 deaths per day,50%,2,1,9,1,10,100,50
+2,set6,alt1,Basic measures,Not available,3 months,One in 5 businesses close,5 falling behind in 25 children ,100 deaths per day,50%,0,0,3,1,5,100,50
+2,set6,alt2,Reduced social contact,Available,9 months,No businesses close,10 falling behind in 25 children,50 deaths per day,25%,1,1,9,0,10,50,25
+2,set7,alt1,Basic measures,Not available,9 months,No businesses close,5 falling behind in 25 children ,50 deaths per day,25%,0,0,9,0,5,50,25
+2,set7,alt2,Reduced social contact,Not available,3 months,One in 5 businesses close,10 falling behind in 25 children,150 deaths per day,90%,1,0,3,1,10,150,90
+2,set9,alt1,Lockdown,Available,6 months,2 in 5 businesses close,5 falling behind in 25 children ,150 deaths per day,90%,2,1,6,2,5,150,90
+2,set9,alt2,Reduced social contact,Available,3 months,No businesses close,10 falling behind in 25 children,50 deaths per day,25%,1,1,3,0,10,50,25
+3,set10,alt1,Reduced social contact,Available,6 months,One in 5 businesses close,5 falling behind in 25 children ,50 deaths per day,25%,1,1,6,1,5,50,25
+3,set10,alt2,Basic measures,Not available,9 months,No businesses close,5 falling behind in 25 children ,100 deaths per day,50%,0,0,9,0,5,100,50
+3,set12,alt1,Reduced social contact,Not available,3 months,2 in 5 businesses close,5 falling behind in 25 children ,100 deaths per day,90%,1,0,3,2,5,100,90
+3,set12,alt2,Lockdown,Available,6 months,One in 5 businesses close,10 falling behind in 25 children,150 deaths per day,50%,2,1,6,1,10,150,50
+3,set15,alt1,Reduced social contact,Available,9 months,One in 5 businesses close,5 falling behind in 25 children ,50 deaths per day,90%,1,1,9,1,5,50,90
+3,set15,alt2,Lockdown,Available,3 months,2 in 5 businesses close,10 falling behind in 25 children,150 deaths per day,50%,2,1,3,2,10,150,50
+3,set22,alt1,Lockdown,Available,6 months,2 in 5 businesses close,10 falling behind in 25 children,150 deaths per day,90%,2,1,6,2,10,150,90
+3,set22,alt2,Reduced social contact,Not available,3 months,One in 5 businesses close,5 falling behind in 25 children ,100 deaths per day,25%,1,0,3,1,5,100,25
+3,set26,alt1,Lockdown,Not available,9 months,2 in 5 businesses close,10 falling behind in 25 children,100 deaths per day,50%,2,0,9,2,10,100,50
+3,set26,alt2,Reduced social contact,Available,3 months,No businesses close,5 falling behind in 25 children ,150 deaths per day,90%,1,1,3,0,5,150,90
+3,set28,alt1,Lockdown,Available,6 months,One in 5 businesses close,10 falling behind in 25 children,100 deaths per day,90%,2,1,6,1,10,100,90
+3,set28,alt2,Reduced social contact,Not available,3 months,2 in 5 businesses close,5 falling behind in 25 children ,150 deaths per day,25%,1,0,3,2,5,150,25
+3,set32,alt1,Basic measures,Not available,9 months,One in 5 businesses close,5 falling behind in 25 children ,50 deaths per day,25%,0,0,9,1,5,50,25
+3,set32,alt2,Reduced social contact,Available,3 months,No businesses close,10 falling behind in 25 children,100 deaths per day,50%,1,1,3,0,10,100,50
+3,set33,alt1,Basic measures,Not available,3 months,No businesses close,5 falling behind in 25 children ,50 deaths per day,25%,0,0,3,0,5,50,25
+3,set33,alt2,Reduced social contact,Available,9 months,2 in 5 businesses close,10 falling behind in 25 children,100 deaths per day,90%,1,1,9,2,10,100,90
+3,set35,alt1,Reduced social contact,Not available,6 months,No businesses close,5 falling behind in 25 children ,50 deaths per day,50%,1,0,6,0,5,50,50
+3,set35,alt2,Basic measures,Available,9 months,One in 5 businesses close,10 falling behind in 25 children,100 deaths per day,25%,0,1,9,1,10,100,25
+3,set36,alt1,Reduced social contact,Available,6 months,One in 5 businesses close,5 falling behind in 25 children ,100 deaths per day,25%,1,1,6,1,5,100,25
+3,set36,alt2,Basic measures,Not available,9 months,No businesses close,10 falling behind in 25 children,50 deaths per day,50%,0,0,9,0,10,50,50
+3,set40,alt1,Reduced social contact,Not available,6 months,One in 5 businesses close,10 falling behind in 25 children,50 deaths per day,90%,1,0,6,1,10,50,90
+3,set40,alt2,Lockdown,Available,3 months,2 in 5 businesses close,10 falling behind in 25 children,150 deaths per day,50%,2,1,3,2,10,150,50
+3,set41,alt1,Basic measures,Available,3 months,One in 5 businesses close,10 falling behind in 25 children,50 deaths per day,50%,0,1,3,1,10,50,50
+3,set41,alt2,Reduced social contact,Not available,9 months,No businesses close,10 falling behind in 25 children,100 deaths per day,25%,1,0,9,0,10,100,25
+4,set13,alt1,Lockdown,Available,9 months,2 in 5 businesses close,5 falling behind in 25 children ,150 deaths per day,90%,2,1,9,2,5,150,90
+4,set13,alt2,Basic measures,Not available,6 months,No businesses close,10 falling behind in 25 children,50 deaths per day,50%,0,0,6,0,10,50,50
+4,set17,alt1,Reduced social contact,Available,3 months,One in 5 businesses close,10 falling behind in 25 children,50 deaths per day,90%,1,1,3,1,10,50,90
+4,set17,alt2,Basic measures,Not available,9 months,No businesses close,5 falling behind in 25 children ,100 deaths per day,25%,0,0,9,0,5,100,25
+4,set23,alt1,Reduced social contact,Available,3 months,2 in 5 businesses close,5 falling behind in 25 children ,150 deaths per day,50%,1,1,3,2,5,150,50
+4,set23,alt2,Lockdown,Not available,9 months,One in 5 businesses close,10 falling behind in 25 children,100 deaths per day,90%,2,0,9,1,10,100,90
+4,set34,alt1,Basic measures,Available,3 months,One in 5 businesses close,10 falling behind in 25 children,100 deaths per day,50%,0,1,3,1,10,100,50
+4,set34,alt2,Lockdown,Not available,6 months,One in 5 businesses close,5 falling behind in 25 children ,100 deaths per day,90%,2,0,6,1,5,100,90
+4,set37,alt1,Reduced social contact,Not available,6 months,No businesses close,10 falling behind in 25 children,150 deaths per day,90%,1,0,6,0,10,150,90
+4,set37,alt2,Basic measures,Available,3 months,One in 5 businesses close,10 falling behind in 25 children,50 deaths per day,25%,0,1,3,1,10,50,25
+4,set38,alt1,Reduced social contact,Available,6 months,One in 5 businesses close,5 falling behind in 25 children ,100 deaths per day,50%,1,1,6,1,5,100,50
+4,set38,alt2,Basic measures,Not available,9 months,No businesses close,10 falling behind in 25 children,50 deaths per day,25%,0,0,9,0,10,50,25
+4,set42,alt1,Reduced social contact,Available,9 months,One in 5 businesses close,10 falling behind in 25 children,50 deaths per day,50%,1,1,9,1,10,50,50
+4,set42,alt2,Lockdown,Not available,6 months,2 in 5 businesses close,5 falling behind in 25 children ,150 deaths per day,90%,2,0,6,2,5,150,90
+4,set44,alt1,Basic measures,Available,3 months,No businesses close,10 falling behind in 25 children,50 deaths per day,25%,0,1,3,0,10,50,25
+4,set44,alt2,Reduced social contact,Not available,9 months,One in 5 businesses close,5 falling behind in 25 children ,100 deaths per day,50%,1,0,9,1,5,100,50
+4,set45,alt1,Lockdown,Available,3 months,One in 5 businesses close,5 falling behind in 25 children ,150 deaths per day,90%,2,1,3,1,5,150,90
+4,set45,alt2,Reduced social contact,Not available,6 months,2 in 5 businesses close,10 falling behind in 25 children,100 deaths per day,50%,1,0,6,2,10,100,50
+4,set46,alt1,Basic measures,Available,3 months,No businesses close,10 falling behind in 25 children,100 deaths per day,50%,0,1,3,0,10,100,50
+4,set46,alt2,Reduced social contact,Not available,6 months,2 in 5 businesses close,5 falling behind in 25 children ,50 deaths per day,25%,1,0,6,2,5,50,25
+4,set48,alt1,Lockdown,Not available,3 months,2 in 5 businesses close,10 falling behind in 25 children,100 deaths per day,90%,2,0,3,2,10,100,90
+4,set48,alt2,Reduced social contact,Available,9 months,No businesses close,5 falling behind in 25 children ,150 deaths per day,25%,1,1,9,0,5,150,25
+4,set5,alt1,Reduced social contact,Available,3 months,No businesses close,10 falling behind in 25 children,100 deaths per day,25%,1,1,3,0,10,100,25
+4,set5,alt2,Basic measures,Not available,6 months,One in 5 businesses close,5 falling behind in 25 children ,50 deaths per day,50%,0,0,6,1,5,50,50
