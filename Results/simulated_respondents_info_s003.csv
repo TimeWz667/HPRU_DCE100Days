@@ -1,0 +1,2001 @@
+respondent_id,Age,Sex,Religion,MaritalStatus,LivingWithChildren,CovidExperience,assigned_block,ideology_id,ideology_name,sampling_seed
+1,28,Female,Christian,Single,Yes,None,3,,,20260909003
+2,52,Female,Christian,Married,No,Had COVID,4,,,20260909003
+3,39,Male,Christian,Married,Yes,None,4,,,20260909003
+4,28,Male,Christian,Single,No,Had COVID,4,,,20260909003
+5,41,Male,No religion,Single,Yes,None,1,,,20260909003
+6,69,Female,No religion,Married,Yes,None,2,,,20260909003
+7,69,Female,No religion,Married,No,Had COVID,1,,,20260909003
+8,19,Male,No religion,Single,No,None,2,1,Scientific Rationalism,20260909003
+9,24,Male,Christian,Single,No,Bereaved,3,,,20260909003
+10,54,Female,No religion,Divorced,No,Had COVID,2,,,20260909003
+11,51,Female,Muslim,Married,No,None,1,,,20260909003
+12,73,Male,Christian,Single,No,None,3,,,20260909003
+13,62,Male,Christian,Divorced,No,Bereaved,3,5,Institutional Trust and Technocratic Governance,20260909003
+14,47,Male,No religion,Separated,No,Had COVID,4,,,20260909003
+15,34,Male,Hindu,Single,No,Had COVID,3,,,20260909003
+16,48,Female,Christian,Single,Yes,Had COVID,4,,,20260909003
+17,50,Female,Christian,Married,No,Bereaved,1,,,20260909003
+18,52,Female,Christian,Married,No,Had COVID,2,5,Institutional Trust and Technocratic Governance,20260909003
+19,33,Male,Christian,Married,No,Had COVID,2,,,20260909003
+20,89,Female,Christian,Married,No,None,4,,,20260909003
+21,38,Male,No religion,Married,No,Had COVID,4,,,20260909003
+22,46,Female,Christian,Single,Yes,Long COVID,2,,,20260909003
+23,38,Female,No religion,Widowed,Yes,None,4,,,20260909003
+24,34,Female,No religion,Married,Yes,None,2,,,20260909003
+25,75,Male,Christian,Single,No,Had COVID,1,,,20260909003
+26,48,Male,Christian,Divorced,No,Bereaved,4,4,Conspiracy Ideation,20260909003
+27,59,Female,No religion,Married,No,Bereaved,2,,,20260909003
+28,31,Male,No religion,Single,Yes,Had COVID,3,,,20260909003
+29,68,Male,No religion,Married,No,Had COVID,2,,,20260909003
+30,42,Female,No religion,Married,Yes,None,1,,,20260909003
+31,46,Female,Not answered,Married,No,Had COVID,1,4,Conspiracy Ideation,20260909003
+32,23,Female,No religion,Single,No,Had COVID,2,,,20260909003
+33,42,Male,No religion,Single,Yes,Had COVID,1,,,20260909003
+34,48,Female,Hindu,Married,Yes,Bereaved,4,,,20260909003
+35,36,Male,Christian,Single,No,Bereaved,2,,,20260909003
+36,31,Female,Jewish,Single,Yes,Had COVID,1,,,20260909003
+37,40,Female,No religion,Married,Yes,Had COVID,3,,,20260909003
+38,58,Female,Christian,Divorced,No,Had COVID,2,,,20260909003
+39,29,Male,Christian,Divorced,Yes,Had COVID,2,,,20260909003
+40,55,Female,Not answered,Married,No,None,4,,,20260909003
+41,73,Female,Not answered,Single,No,None,4,,,20260909003
+42,73,Female,No religion,Widowed,No,Bereaved,3,,,20260909003
+43,29,Female,Christian,Single,No,None,2,,,20260909003
+44,74,Female,Christian,Married,No,Had COVID,3,4,Conspiracy Ideation,20260909003
+45,29,Female,Christian,Married,No,None,3,,,20260909003
+46,18,Male,Christian,Single,No,None,1,,,20260909003
+47,60,Female,Muslim,Single,No,Had COVID,1,2,Libertarianism,20260909003
+48,41,Female,Not answered,Single,Yes,None,1,,,20260909003
+49,29,Female,Muslim,Single,Yes,Bereaved,1,,,20260909003
+50,50,Female,Christian,Married,No,Had COVID,2,,,20260909003
+51,36,Male,No religion,Single,Yes,Long COVID,4,,,20260909003
+52,35,Male,No religion,Married,No,None,4,,,20260909003
+53,61,Female,Christian,Married,No,None,1,,,20260909003
+54,41,Male,No religion,Married,Yes,Had COVID,2,,,20260909003
+55,67,Male,No religion,Married,No,Had COVID,3,,,20260909003
+56,35,Male,Not answered,Single,No,None,1,,,20260909003
+57,61,Female,No religion,Married,No,None,1,,,20260909003
+58,20,Female,No religion,Single,No,None,1,,,20260909003
+59,46,Male,No religion,Single,Yes,Had COVID,1,,,20260909003
+60,27,Female,Christian,Single,No,Had COVID,1,4,Conspiracy Ideation,20260909003
+61,52,Female,Christian,Married,No,None,4,,,20260909003
+62,58,Female,No religion,Married,No,Bereaved,3,1,Scientific Rationalism,20260909003
+63,53,Male,Christian,Married,No,None,3,,,20260909003
+64,61,Male,Christian,Married,No,None,1,3,Communitarianism,20260909003
+65,26,Female,Christian,Single,No,Long COVID,1,,,20260909003
+66,28,Female,No religion,Separated,Yes,None,3,,,20260909003
+67,18,Female,No religion,Single,No,Bereaved,3,3,Communitarianism,20260909003
+68,44,Female,Christian,Married,No,None,1,,,20260909003
+69,72,Female,Muslim,Widowed,No,None,2,,,20260909003
+70,19,Male,Hindu,Single,No,None,3,,,20260909003
+71,18,Male,No religion,Single,No,None,2,,,20260909003
+72,33,Female,No religion,Married,Yes,Bereaved,1,,,20260909003
+73,59,Male,Muslim,Married,No,Bereaved,2,,,20260909003
+74,54,Female,Christian,Married,Yes,None,1,,,20260909003
+75,46,Female,No religion,Single,No,Had COVID,4,,,20260909003
+76,67,Female,Christian,Widowed,No,Long COVID,2,,,20260909003
+77,90,Male,Muslim,Married,No,Had COVID,1,,,20260909003
+78,21,Female,Christian,Single,No,None,2,4,Conspiracy Ideation,20260909003
+79,52,Male,No religion,Married,No,Had COVID,3,5,Institutional Trust and Technocratic Governance,20260909003
+80,54,Female,Christian,Married,No,Had COVID,4,,,20260909003
+81,31,Male,Christian,Single,Yes,Had COVID,2,,,20260909003
+82,19,Male,No religion,Single,No,Had COVID,3,,,20260909003
+83,53,Female,Christian,Single,No,Had COVID,1,,,20260909003
+84,43,Male,Christian,Single,No,Long COVID,4,,,20260909003
+85,61,Female,No religion,Married,No,Had COVID,3,2,Libertarianism,20260909003
+86,24,Male,Christian,Single,No,None,4,,,20260909003
+87,59,Female,Christian,Single,No,Had COVID,1,,,20260909003
+88,90,Female,Christian,Divorced,No,Bereaved,3,,,20260909003
+89,67,Female,Christian,Widowed,No,Had COVID,3,,,20260909003
+90,58,Female,Not answered,Divorced,No,Bereaved,4,,,20260909003
+91,63,Male,Christian,Married,No,Had COVID,1,,,20260909003
+92,54,Female,Christian,Widowed,No,None,4,,,20260909003
+93,35,Male,Christian,Married,Yes,Bereaved,4,,,20260909003
+94,40,Male,Not answered,Married,No,Had COVID,4,2,Libertarianism,20260909003
+95,23,Male,Christian,Single,Yes,None,4,,,20260909003
+96,53,Female,Christian,Married,No,Had COVID,4,,,20260909003
+97,44,Male,Christian,Single,No,None,2,,,20260909003
+98,60,Female,Christian,Divorced,No,None,4,3,Communitarianism,20260909003
+99,29,Male,Christian,Single,No,Had COVID,1,,,20260909003
+100,31,Male,No religion,Married,No,Had COVID,4,1,Scientific Rationalism,20260909003
+101,56,Female,No religion,Married,No,Had COVID,3,,,20260909003
+102,51,Female,No religion,Divorced,No,None,2,,,20260909003
+103,62,Male,Christian,Married,No,Had COVID,4,,,20260909003
+104,75,Male,Christian,Widowed,No,None,1,,,20260909003
+105,57,Male,No religion,Married,No,Bereaved,4,2,Libertarianism,20260909003
+106,42,Female,No religion,Married,No,Had COVID,1,3,Communitarianism,20260909003
+107,85,Female,No religion,Widowed,No,None,2,,,20260909003
+108,40,Female,No religion,Married,Yes,None,3,,,20260909003
+109,52,Male,No religion,Married,No,Had COVID,3,,,20260909003
+110,80,Female,Christian,Widowed,No,Bereaved,4,,,20260909003
+111,60,Female,No religion,Married,No,Had COVID,1,,,20260909003
+112,65,Male,Christian,Married,No,Had COVID,2,,,20260909003
+113,56,Female,Christian,Married,No,Had COVID,3,,,20260909003
+114,68,Male,Christian,Married,No,Had COVID,2,,,20260909003
+115,55,Female,Christian,Divorced,No,None,2,,,20260909003
+116,25,Female,No religion,Single,No,Had COVID,3,,,20260909003
+117,19,Male,Christian,Single,No,None,1,,,20260909003
+118,63,Female,Muslim,Married,No,Had COVID,4,,,20260909003
+119,67,Female,No religion,Divorced,No,Had COVID,4,,,20260909003
+120,44,Female,No religion,Divorced,Yes,None,2,,,20260909003
+121,54,Male,Christian,Married,Yes,None,2,5,Institutional Trust and Technocratic Governance,20260909003
+122,37,Male,Christian,Married,Yes,Had COVID,4,3,Communitarianism,20260909003
+123,57,Female,Christian,Married,No,Had COVID,2,,,20260909003
+124,50,Female,Sikh,Divorced,Yes,Had COVID,3,,,20260909003
+125,79,Female,No religion,Widowed,No,None,3,,,20260909003
+126,49,Female,Christian,Married,Yes,Had COVID,2,,,20260909003
+127,41,Male,No religion,Single,Yes,Had COVID,4,,,20260909003
+128,60,Male,Christian,Divorced,No,Bereaved,4,,,20260909003
+129,90,Male,Christian,Married,No,None,4,,,20260909003
+130,68,Female,No religion,Divorced,No,Bereaved,2,,,20260909003
+131,45,Male,No religion,Married,Yes,Had COVID,4,,,20260909003
+132,36,Male,Christian,Married,No,None,4,,,20260909003
+133,65,Male,Not answered,Married,No,None,3,,,20260909003
+134,20,Male,Not answered,Single,No,None,4,,,20260909003
+135,33,Female,Muslim,Separated,Yes,Bereaved,4,,,20260909003
+136,65,Male,Muslim,Widowed,No,Had COVID,2,,,20260909003
+137,81,Female,Christian,Widowed,No,Long COVID,4,,,20260909003
+138,61,Female,Muslim,Married,No,Had COVID,2,,,20260909003
+139,42,Female,No religion,Married,Yes,Had COVID,3,,,20260909003
+140,48,Male,Christian,Married,No,Had COVID,3,3,Communitarianism,20260909003
+141,69,Male,Christian,Married,No,Had COVID,3,,,20260909003
+142,71,Female,No religion,Married,No,None,1,,,20260909003
+143,26,Male,Christian,Married,No,Had COVID,1,,,20260909003
+144,27,Male,No religion,Single,No,Had COVID,2,,,20260909003
+145,60,Female,Christian,Married,No,Had COVID,4,5,Institutional Trust and Technocratic Governance,20260909003
+146,27,Male,No religion,Single,No,Had COVID,3,,,20260909003
+147,33,Male,No religion,Single,Yes,None,4,,,20260909003
+148,40,Male,No religion,Married,No,Bereaved,2,,,20260909003
+149,66,Female,No religion,Widowed,No,Bereaved,1,,,20260909003
+150,54,Female,Christian,Married,No,Had COVID,4,,,20260909003
+151,55,Female,No religion,Single,No,Long COVID,1,,,20260909003
+152,40,Female,Christian,Single,No,Bereaved,3,,,20260909003
+153,23,Male,Christian,Single,No,Had COVID,4,,,20260909003
+154,25,Female,Christian,Single,No,None,1,,,20260909003
+155,82,Female,Christian,Divorced,No,None,3,,,20260909003
+156,30,Female,No religion,Married,Yes,Had COVID,3,,,20260909003
+157,32,Male,Christian,Single,No,None,1,,,20260909003
+158,40,Male,Christian,Widowed,Yes,Had COVID,2,4,Conspiracy Ideation,20260909003
+159,24,Female,Muslim,Single,No,Had COVID,3,,,20260909003
+160,78,Male,Christian,Separated,No,None,4,,,20260909003
+161,37,Female,No religion,Divorced,No,Had COVID,4,,,20260909003
+162,34,Female,Other religion,Married,Yes,None,3,,,20260909003
+163,26,Male,Christian,Single,No,Had COVID,4,,,20260909003
+164,50,Male,Christian,Married,Yes,Had COVID,3,5,Institutional Trust and Technocratic Governance,20260909003
+165,63,Male,Christian,Divorced,No,Had COVID,4,,,20260909003
+166,76,Female,Christian,Married,No,None,3,,,20260909003
+167,20,Female,Christian,Single,No,Bereaved,2,,,20260909003
+168,63,Female,No religion,Married,No,Bereaved,2,1,Scientific Rationalism,20260909003
+169,64,Male,No religion,Married,No,None,3,,,20260909003
+170,32,Male,Christian,Single,No,Bereaved,1,,,20260909003
+171,30,Male,Christian,Single,No,Bereaved,1,,,20260909003
+172,30,Female,Not answered,Married,Yes,Had COVID,2,,,20260909003
+173,33,Female,Christian,Single,Yes,None,1,3,Communitarianism,20260909003
+174,43,Male,Christian,Married,Yes,None,1,,,20260909003
+175,58,Female,Christian,Divorced,No,Had COVID,1,3,Communitarianism,20260909003
+176,67,Male,No religion,Single,No,Had COVID,1,,,20260909003
+177,57,Male,No religion,Divorced,Yes,Had COVID,1,1,Scientific Rationalism,20260909003
+178,74,Female,Christian,Widowed,No,Bereaved,2,,,20260909003
+179,62,Male,No religion,Married,No,Bereaved,3,,,20260909003
+180,29,Female,Muslim,Single,No,None,1,,,20260909003
+181,42,Male,Not answered,Divorced,No,None,3,,,20260909003
+182,33,Female,Christian,Divorced,No,None,4,,,20260909003
+183,84,Female,Other religion,Married,No,Bereaved,1,,,20260909003
+184,29,Male,Christian,Single,No,Bereaved,2,,,20260909003
+185,34,Female,Muslim,Single,No,None,3,,,20260909003
+186,68,Female,Christian,Married,No,None,3,,,20260909003
+187,39,Male,Christian,Married,Yes,None,1,3,Communitarianism,20260909003
+188,19,Female,No religion,Single,No,None,1,,,20260909003
+189,71,Female,No religion,Widowed,No,None,1,,,20260909003
+190,30,Female,Christian,Single,No,Bereaved,1,,,20260909003
+191,90,Male,Christian,Widowed,No,None,1,,,20260909003
+192,79,Male,Christian,Widowed,No,Had COVID,2,5,Institutional Trust and Technocratic Governance,20260909003
+193,54,Male,No religion,Married,No,Had COVID,2,4,Conspiracy Ideation,20260909003
+194,54,Female,Sikh,Married,No,Bereaved,2,,,20260909003
+195,75,Female,No religion,Widowed,No,Had COVID,3,,,20260909003
+196,66,Female,Christian,Married,No,None,2,,,20260909003
+197,23,Female,Christian,Single,No,Had COVID,4,,,20260909003
+198,40,Female,Christian,Single,Yes,None,4,3,Communitarianism,20260909003
+199,49,Male,Christian,Married,No,Bereaved,1,,,20260909003
+200,39,Male,No religion,Married,Yes,Had COVID,2,,,20260909003
+201,83,Male,Christian,Married,No,Had COVID,2,,,20260909003
+202,50,Female,No religion,Divorced,No,Had COVID,1,,,20260909003
+203,51,Female,Christian,Married,No,Long COVID,3,,,20260909003
+204,73,Female,Christian,Married,No,None,1,,,20260909003
+205,23,Female,No religion,Single,No,Had COVID,3,,,20260909003
+206,33,Male,Christian,Single,Yes,Had COVID,2,,,20260909003
+207,82,Male,Christian,Widowed,No,None,4,,,20260909003
+208,55,Male,No religion,Married,No,Bereaved,1,5,Institutional Trust and Technocratic Governance,20260909003
+209,61,Male,Christian,Single,No,None,2,,,20260909003
+210,39,Female,Christian,Single,No,None,1,,,20260909003
+211,88,Female,Christian,Married,No,Bereaved,2,2,Libertarianism,20260909003
+212,61,Female,Christian,Married,No,Long COVID,3,,,20260909003
+213,57,Male,No religion,Married,Yes,Had COVID,3,,,20260909003
+214,60,Female,Christian,Married,No,Had COVID,4,,,20260909003
+215,80,Male,Christian,Married,No,None,2,,,20260909003
+216,55,Female,Christian,Married,No,Long COVID,3,,,20260909003
+217,50,Female,No religion,Divorced,No,Had COVID,3,,,20260909003
+218,35,Male,Christian,Married,Yes,None,3,,,20260909003
+219,56,Female,No religion,Married,No,Had COVID,2,,,20260909003
+220,66,Male,Christian,Single,No,Had COVID,1,3,Communitarianism,20260909003
+221,29,Female,Christian,Widowed,Yes,None,1,,,20260909003
+222,19,Male,Christian,Single,No,None,2,,,20260909003
+223,49,Male,Muslim,Divorced,No,None,3,,,20260909003
+224,73,Female,Christian,Widowed,No,None,4,,,20260909003
+225,48,Male,Christian,Separated,Yes,Had COVID,3,,,20260909003
+226,81,Female,Christian,Widowed,No,None,4,,,20260909003
+227,35,Male,Jewish,Married,Yes,Had COVID,3,,,20260909003
+228,45,Male,No religion,Divorced,No,None,4,,,20260909003
+229,20,Female,Christian,Single,No,Had COVID,4,3,Communitarianism,20260909003
+230,70,Male,Not answered,Married,No,None,2,,,20260909003
+231,30,Male,No religion,Single,No,None,3,,,20260909003
+232,33,Male,No religion,Married,No,Had COVID,3,,,20260909003
+233,24,Female,No religion,Single,No,Had COVID,1,,,20260909003
+234,58,Male,Christian,Married,No,Had COVID,4,,,20260909003
+235,79,Male,Christian,Widowed,Yes,Had COVID,4,,,20260909003
+236,31,Female,No religion,Married,No,None,3,,,20260909003
+237,76,Male,No religion,Single,No,Had COVID,1,,,20260909003
+238,68,Female,Christian,Single,No,None,4,,,20260909003
+239,82,Male,Muslim,Married,No,None,4,,,20260909003
+240,39,Female,No religion,Married,Yes,Had COVID,4,,,20260909003
+241,47,Female,Christian,Married,Yes,None,2,,,20260909003
+242,26,Male,No religion,Married,No,Had COVID,1,,,20260909003
+243,62,Male,No religion,Married,No,Had COVID,2,,,20260909003
+244,30,Female,No religion,Single,No,Bereaved,4,,,20260909003
+245,41,Female,Christian,Married,No,None,4,,,20260909003
+246,34,Male,No religion,Single,Yes,Had COVID,4,,,20260909003
+247,85,Male,No religion,Married,No,None,4,,,20260909003
+248,23,Male,Christian,Single,No,Had COVID,2,,,20260909003
+249,30,Female,Christian,Single,Yes,None,4,,,20260909003
+250,24,Female,Christian,Single,No,None,4,,,20260909003
+251,45,Female,Not answered,Single,No,Had COVID,3,1,Scientific Rationalism,20260909003
+252,58,Female,No religion,Married,No,None,1,,,20260909003
+253,90,Female,No religion,Divorced,No,Had COVID,4,,,20260909003
+254,52,Male,No religion,Married,Yes,Had COVID,4,4,Conspiracy Ideation,20260909003
+255,42,Female,Christian,Married,Yes,Had COVID,2,,,20260909003
+256,22,Male,Christian,Single,No,Had COVID,3,,,20260909003
+257,22,Female,No religion,Single,No,None,1,,,20260909003
+258,51,Female,Christian,Married,No,None,1,,,20260909003
+259,58,Male,No religion,Married,No,Bereaved,2,,,20260909003
+260,48,Male,Buddhist,Single,Yes,None,1,,,20260909003
+261,64,Male,Christian,Divorced,No,Bereaved,1,,,20260909003
+262,54,Male,Christian,Married,Yes,Had COVID,2,,,20260909003
+263,37,Female,Christian,Married,No,Long COVID,2,,,20260909003
+264,25,Male,Jewish,Single,No,Had COVID,1,,,20260909003
+265,87,Female,No religion,Married,No,None,2,4,Conspiracy Ideation,20260909003
+266,78,Female,Christian,Married,No,Had COVID,1,4,Conspiracy Ideation,20260909003
+267,45,Male,Christian,Single,No,Had COVID,4,,,20260909003
+268,41,Female,Christian,Married,No,None,3,,,20260909003
+269,27,Female,No religion,Married,Yes,None,1,,,20260909003
+270,73,Female,Not answered,Married,No,Bereaved,1,,,20260909003
+271,45,Male,No religion,Married,No,None,3,,,20260909003
+272,70,Male,Christian,Married,No,None,3,,,20260909003
+273,70,Female,No religion,Married,No,None,2,,,20260909003
+274,77,Male,Christian,Married,No,Had COVID,4,,,20260909003
+275,31,Male,Christian,Married,Yes,None,1,,,20260909003
+276,27,Male,Christian,Single,No,None,4,,,20260909003
+277,31,Male,Jewish,Divorced,Yes,Had COVID,1,,,20260909003
+278,47,Male,Christian,Married,No,Had COVID,1,,,20260909003
+279,60,Female,No religion,Married,No,None,1,1,Scientific Rationalism,20260909003
+280,36,Male,Hindu,Single,No,None,1,,,20260909003
+281,72,Female,Christian,Married,No,None,1,,,20260909003
+282,21,Male,Christian,Single,No,Had COVID,1,,,20260909003
+283,34,Female,Christian,Single,No,None,3,,,20260909003
+284,28,Female,Christian,Separated,Yes,None,4,5,Institutional Trust and Technocratic Governance,20260909003
+285,26,Female,No religion,Single,No,Bereaved,2,,,20260909003
+286,48,Male,No religion,Married,No,None,3,,,20260909003
+287,81,Male,Christian,Married,No,Bereaved,2,,,20260909003
+288,40,Male,Muslim,Single,Yes,Had COVID,3,,,20260909003
+289,38,Male,No religion,Divorced,Yes,Had COVID,3,,,20260909003
+290,32,Male,Christian,Single,No,Had COVID,1,,,20260909003
+291,43,Female,Christian,Married,Yes,None,1,1,Scientific Rationalism,20260909003
+292,75,Male,Christian,Married,No,None,1,4,Conspiracy Ideation,20260909003
+293,54,Female,Christian,Married,No,Had COVID,4,,,20260909003
+294,79,Male,Not answered,Married,No,Had COVID,4,,,20260909003
+295,46,Male,No religion,Single,No,Had COVID,2,,,20260909003
+296,44,Female,Christian,Single,No,Had COVID,4,,,20260909003
+297,56,Female,No religion,Married,Yes,Had COVID,4,,,20260909003
+298,26,Female,Not answered,Married,No,None,3,,,20260909003
+299,44,Male,No religion,Divorced,No,None,3,,,20260909003
+300,19,Female,No religion,Single,No,Bereaved,4,,,20260909003
+301,68,Female,No religion,Married,No,Bereaved,2,,,20260909003
+302,35,Female,Christian,Single,No,Bereaved,2,,,20260909003
+303,60,Male,Christian,Married,No,None,1,,,20260909003
+304,62,Male,Christian,Married,No,None,3,,,20260909003
+305,41,Female,No religion,Married,Yes,Had COVID,4,5,Institutional Trust and Technocratic Governance,20260909003
+306,27,Female,No religion,Married,No,None,3,,,20260909003
+307,22,Male,No religion,Single,No,None,1,,,20260909003
+308,75,Male,Christian,Single,No,Bereaved,2,,,20260909003
+309,73,Male,Not answered,Married,No,Had COVID,3,,,20260909003
+310,31,Female,No religion,Single,No,Bereaved,2,,,20260909003
+311,50,Male,No religion,Married,No,None,4,,,20260909003
+312,33,Female,No religion,Married,Yes,Bereaved,3,,,20260909003
+313,27,Male,Christian,Single,No,Had COVID,1,,,20260909003
+314,68,Male,Christian,Married,No,Had COVID,3,5,Institutional Trust and Technocratic Governance,20260909003
+315,90,Female,No religion,Divorced,No,None,4,,,20260909003
+316,67,Female,Christian,Widowed,No,Had COVID,3,,,20260909003
+317,77,Female,Muslim,Divorced,No,Bereaved,1,,,20260909003
+318,78,Female,Christian,Married,No,None,2,,,20260909003
+319,82,Male,Christian,Single,No,None,1,,,20260909003
+320,77,Male,Not answered,Single,No,None,4,,,20260909003
+321,25,Male,No religion,Married,No,None,4,,,20260909003
+322,51,Male,Christian,Married,No,Had COVID,3,,,20260909003
+323,43,Female,Christian,Married,Yes,None,4,,,20260909003
+324,75,Male,No religion,Married,No,None,2,,,20260909003
+325,19,Female,Christian,Single,No,Had COVID,4,,,20260909003
+326,27,Female,No religion,Single,No,Had COVID,2,,,20260909003
+327,22,Male,No religion,Single,No,Had COVID,3,,,20260909003
+328,65,Male,Christian,Married,No,Bereaved,3,,,20260909003
+329,55,Male,Christian,Married,No,None,4,,,20260909003
+330,85,Male,Christian,Widowed,No,None,4,,,20260909003
+331,49,Female,No religion,Single,No,None,2,,,20260909003
+332,57,Male,Christian,Single,No,None,2,,,20260909003
+333,64,Male,Not answered,Married,No,Had COVID,1,,,20260909003
+334,87,Female,Christian,Married,No,None,3,,,20260909003
+335,26,Male,No religion,Divorced,Yes,Had COVID,3,,,20260909003
+336,49,Male,Christian,Married,No,None,3,5,Institutional Trust and Technocratic Governance,20260909003
+337,34,Female,Christian,Single,No,Long COVID,3,,,20260909003
+338,35,Male,Christian,Married,Yes,Had COVID,2,,,20260909003
+339,47,Female,No religion,Married,Yes,None,4,,,20260909003
+340,53,Female,No religion,Married,No,None,1,3,Communitarianism,20260909003
+341,77,Female,Christian,Married,No,None,3,,,20260909003
+342,75,Male,Christian,Married,No,None,4,,,20260909003
+343,21,Male,Hindu,Single,No,None,1,,,20260909003
+344,28,Male,No religion,Married,No,Bereaved,3,,,20260909003
+345,72,Male,Christian,Married,No,Bereaved,4,,,20260909003
+346,67,Female,No religion,Widowed,No,None,4,4,Conspiracy Ideation,20260909003
+347,22,Male,No religion,Single,No,None,4,,,20260909003
+348,66,Female,Christian,Married,No,None,4,1,Scientific Rationalism,20260909003
+349,53,Female,Christian,Divorced,No,Had COVID,3,,,20260909003
+350,22,Male,Christian,Single,No,None,1,,,20260909003
+351,87,Female,Christian,Married,No,None,4,,,20260909003
+352,46,Female,No religion,Single,Yes,Had COVID,1,,,20260909003
+353,62,Female,Christian,Married,No,None,1,,,20260909003
+354,51,Female,No religion,Widowed,Yes,Had COVID,2,,,20260909003
+355,48,Female,No religion,Married,No,None,4,,,20260909003
+356,21,Female,Christian,Single,No,None,2,,,20260909003
+357,21,Male,Christian,Single,No,None,1,5,Institutional Trust and Technocratic Governance,20260909003
+358,53,Male,Muslim,Widowed,No,Had COVID,2,,,20260909003
+359,57,Female,No religion,Single,No,Had COVID,3,4,Conspiracy Ideation,20260909003
+360,37,Male,Not answered,Married,No,Had COVID,1,,,20260909003
+361,74,Male,No religion,Widowed,No,None,3,,,20260909003
+362,85,Female,Hindu,Single,No,None,1,,,20260909003
+363,41,Female,Christian,Separated,No,Had COVID,4,,,20260909003
+364,59,Female,Christian,Divorced,No,Had COVID,4,,,20260909003
+365,42,Male,Christian,Single,Yes,Had COVID,3,,,20260909003
+366,76,Female,Christian,Divorced,No,None,2,,,20260909003
+367,76,Female,No religion,Widowed,No,None,4,,,20260909003
+368,52,Female,Hindu,Married,No,Had COVID,2,,,20260909003
+369,25,Female,Hindu,Married,Yes,Had COVID,1,2,Libertarianism,20260909003
+370,68,Male,No religion,Married,No,None,2,,,20260909003
+371,54,Female,Christian,Married,No,Bereaved,4,2,Libertarianism,20260909003
+372,54,Female,No religion,Married,No,Bereaved,2,4,Conspiracy Ideation,20260909003
+373,52,Female,No religion,Married,No,None,2,,,20260909003
+374,42,Female,No religion,Divorced,Yes,Had COVID,4,,,20260909003
+375,18,Male,Christian,Single,No,None,4,,,20260909003
+376,66,Female,No religion,Married,No,Had COVID,2,,,20260909003
+377,34,Female,Christian,Married,No,None,1,,,20260909003
+378,82,Male,No religion,Single,No,Bereaved,2,,,20260909003
+379,53,Male,No religion,Divorced,No,Had COVID,1,,,20260909003
+380,47,Female,Christian,Separated,Yes,Long COVID,3,,,20260909003
+381,90,Male,Christian,Married,No,None,4,,,20260909003
+382,40,Male,Christian,Divorced,No,None,4,,,20260909003
+383,43,Male,Christian,Married,Yes,None,2,,,20260909003
+384,47,Female,No religion,Married,Yes,Long COVID,1,1,Scientific Rationalism,20260909003
+385,58,Male,No religion,Married,No,None,4,,,20260909003
+386,70,Female,No religion,Married,No,Had COVID,4,,,20260909003
+387,43,Female,No religion,Single,No,None,2,,,20260909003
+388,53,Male,Christian,Married,No,None,3,,,20260909003
+389,45,Male,No religion,Married,Yes,Had COVID,3,,,20260909003
+390,62,Male,Christian,Divorced,No,Had COVID,1,2,Libertarianism,20260909003
+391,63,Female,Buddhist,Single,No,Had COVID,4,,,20260909003
+392,72,Female,No religion,Widowed,No,None,3,1,Scientific Rationalism,20260909003
+393,68,Female,Christian,Divorced,No,None,3,,,20260909003
+394,72,Female,Christian,Widowed,No,None,3,,,20260909003
+395,34,Male,Christian,Divorced,Yes,None,4,,,20260909003
+396,63,Male,No religion,Married,No,Had COVID,4,,,20260909003
+397,29,Female,Christian,Married,No,None,2,1,Scientific Rationalism,20260909003
+398,58,Male,No religion,Married,No,Had COVID,2,,,20260909003
+399,26,Female,Christian,Married,No,None,4,,,20260909003
+400,75,Male,No religion,Divorced,No,None,3,,,20260909003
+401,34,Female,No religion,Single,Yes,Had COVID,2,,,20260909003
+402,66,Female,Muslim,Single,No,None,1,,,20260909003
+403,38,Female,Christian,Single,No,None,4,,,20260909003
+404,32,Female,Christian,Single,No,None,3,,,20260909003
+405,58,Female,No religion,Married,No,Had COVID,3,,,20260909003
+406,80,Male,Not answered,Married,No,Had COVID,1,,,20260909003
+407,44,Male,Christian,Divorced,No,Long COVID,2,,,20260909003
+408,19,Male,No religion,Married,No,None,4,1,Scientific Rationalism,20260909003
+409,61,Female,No religion,Widowed,No,Had COVID,4,4,Conspiracy Ideation,20260909003
+410,41,Female,Christian,Married,No,None,1,,,20260909003
+411,48,Female,Christian,Divorced,Yes,Had COVID,2,5,Institutional Trust and Technocratic Governance,20260909003
+412,83,Male,No religion,Divorced,No,None,1,,,20260909003
+413,56,Female,Christian,Married,No,Had COVID,3,,,20260909003
+414,67,Female,No religion,Widowed,No,None,4,,,20260909003
+415,26,Female,Christian,Single,No,Bereaved,4,,,20260909003
+416,65,Female,Christian,Married,No,None,2,,,20260909003
+417,22,Female,No religion,Single,No,Bereaved,2,,,20260909003
+418,58,Male,No religion,Widowed,No,None,2,,,20260909003
+419,37,Male,Christian,Widowed,Yes,Had COVID,3,,,20260909003
+420,75,Female,Christian,Widowed,No,Bereaved,3,,,20260909003
+421,73,Male,Christian,Widowed,No,Bereaved,1,,,20260909003
+422,56,Female,Christian,Married,No,Had COVID,2,4,Conspiracy Ideation,20260909003
+423,23,Male,Sikh,Single,No,Had COVID,2,,,20260909003
+424,28,Female,No religion,Single,No,None,2,,,20260909003
+425,26,Male,Christian,Single,No,Bereaved,1,,,20260909003
+426,63,Male,Christian,Married,No,Had COVID,4,,,20260909003
+427,75,Male,No religion,Married,No,Bereaved,1,4,Conspiracy Ideation,20260909003
+428,55,Male,No religion,Divorced,No,Had COVID,4,1,Scientific Rationalism,20260909003
+429,31,Female,Christian,Single,Yes,None,4,,,20260909003
+430,65,Male,Christian,Married,No,None,1,,,20260909003
+431,50,Female,Christian,Single,No,Had COVID,2,,,20260909003
+432,60,Male,No religion,Single,No,Had COVID,3,,,20260909003
+433,80,Female,Christian,Widowed,No,None,2,,,20260909003
+434,56,Male,No religion,Married,No,Had COVID,2,,,20260909003
+435,58,Female,Christian,Widowed,No,None,3,,,20260909003
+436,18,Male,Christian,Single,No,None,4,,,20260909003
+437,61,Male,Christian,Married,No,Had COVID,2,,,20260909003
+438,57,Female,Christian,Married,No,Bereaved,1,,,20260909003
+439,74,Male,No religion,Divorced,No,None,1,,,20260909003
+440,29,Male,Christian,Single,Yes,Had COVID,3,,,20260909003
+441,25,Female,Christian,Single,No,None,3,,,20260909003
+442,74,Male,Christian,Widowed,No,Long COVID,3,,,20260909003
+443,29,Male,Christian,Single,Yes,None,2,,,20260909003
+444,33,Male,Not answered,Single,No,Had COVID,4,,,20260909003
+445,55,Female,Christian,Married,Yes,Bereaved,3,2,Libertarianism,20260909003
+446,55,Female,No religion,Married,No,Had COVID,3,3,Communitarianism,20260909003
+447,57,Male,No religion,Married,No,Bereaved,2,,,20260909003
+448,41,Male,No religion,Married,Yes,None,2,,,20260909003
+449,61,Male,No religion,Married,No,None,3,,,20260909003
+450,70,Female,No religion,Divorced,No,Had COVID,2,,,20260909003
+451,48,Female,Not answered,Married,No,Had COVID,1,,,20260909003
+452,53,Female,No religion,Married,No,Bereaved,2,,,20260909003
+453,68,Female,No religion,Widowed,No,None,4,,,20260909003
+454,31,Male,Christian,Single,No,Had COVID,4,,,20260909003
+455,44,Male,Christian,Married,No,None,1,,,20260909003
+456,42,Male,No religion,Married,No,None,1,3,Communitarianism,20260909003
+457,84,Male,Christian,Married,No,None,4,,,20260909003
+458,31,Male,No religion,Single,No,None,2,,,20260909003
+459,67,Female,No religion,Married,No,None,1,,,20260909003
+460,53,Male,Christian,Divorced,No,Bereaved,2,,,20260909003
+461,56,Male,No religion,Married,No,Bereaved,1,,,20260909003
+462,37,Male,Christian,Married,No,None,2,,,20260909003
+463,75,Female,Not answered,Widowed,No,None,3,,,20260909003
+464,21,Female,Muslim,Single,No,None,3,,,20260909003
+465,18,Female,Christian,Single,No,Had COVID,4,,,20260909003
+466,58,Male,Hindu,Married,No,Had COVID,4,,,20260909003
+467,85,Male,Christian,Single,No,Had COVID,4,,,20260909003
+468,34,Male,Christian,Married,Yes,Had COVID,2,,,20260909003
+469,55,Male,Christian,Married,No,Had COVID,4,,,20260909003
+470,31,Male,No religion,Single,Yes,Had COVID,3,,,20260909003
+471,33,Female,Christian,Married,Yes,None,4,,,20260909003
+472,80,Male,Christian,Widowed,No,None,1,,,20260909003
+473,45,Male,Christian,Married,Yes,Long COVID,1,,,20260909003
+474,85,Male,Christian,Married,No,Had COVID,1,,,20260909003
+475,19,Female,No religion,Single,No,None,3,,,20260909003
+476,55,Male,No religion,Married,No,Had COVID,2,,,20260909003
+477,67,Male,No religion,Married,No,Bereaved,3,,,20260909003
+478,70,Male,Christian,Married,No,Bereaved,4,,,20260909003
+479,34,Male,Christian,Married,Yes,None,1,,,20260909003
+480,82,Male,Christian,Married,No,None,3,,,20260909003
+481,25,Female,Muslim,Single,No,Long COVID,3,,,20260909003
+482,57,Male,Christian,Married,Yes,None,2,,,20260909003
+483,54,Male,Christian,Separated,No,None,1,,,20260909003
+484,63,Female,No religion,Widowed,No,None,2,,,20260909003
+485,37,Female,Not answered,Married,Yes,Had COVID,2,,,20260909003
+486,65,Male,Christian,Married,No,None,4,,,20260909003
+487,31,Male,No religion,Single,No,None,3,,,20260909003
+488,50,Female,Buddhist,Single,No,None,3,,,20260909003
+489,30,Male,No religion,Married,Yes,None,3,,,20260909003
+490,37,Male,No religion,Divorced,No,Had COVID,4,,,20260909003
+491,74,Female,Muslim,Single,No,Bereaved,1,2,Libertarianism,20260909003
+492,53,Male,Christian,Divorced,Yes,Had COVID,2,,,20260909003
+493,56,Male,Christian,Married,No,Had COVID,1,,,20260909003
+494,53,Male,Christian,Divorced,No,None,1,,,20260909003
+495,31,Female,Christian,Married,Yes,Had COVID,4,,,20260909003
+496,65,Male,No religion,Divorced,No,Long COVID,2,,,20260909003
+497,59,Male,Muslim,Single,No,Had COVID,2,,,20260909003
+498,33,Male,Christian,Single,Yes,Had COVID,3,,,20260909003
+499,38,Male,No religion,Divorced,No,None,3,,,20260909003
+500,45,Male,No religion,Single,Yes,None,3,,,20260909003
+501,70,Female,No religion,Widowed,No,None,3,,,20260909003
+502,67,Female,No religion,Married,No,Had COVID,2,,,20260909003
+503,47,Female,Christian,Married,Yes,Had COVID,1,1,Scientific Rationalism,20260909003
+504,60,Male,No religion,Married,No,Long COVID,2,3,Communitarianism,20260909003
+505,90,Female,Not answered,Widowed,No,None,3,,,20260909003
+506,46,Male,Christian,Single,Yes,None,3,,,20260909003
+507,47,Male,Christian,Divorced,Yes,Had COVID,4,4,Conspiracy Ideation,20260909003
+508,20,Male,Muslim,Single,No,None,4,,,20260909003
+509,26,Female,Christian,Single,No,Had COVID,2,,,20260909003
+510,43,Female,Christian,Married,Yes,Had COVID,3,,,20260909003
+511,50,Female,Christian,Married,No,Had COVID,4,,,20260909003
+512,55,Male,No religion,Divorced,No,None,4,,,20260909003
+513,43,Female,Christian,Divorced,Yes,Had COVID,3,,,20260909003
+514,74,Male,No religion,Widowed,No,Had COVID,3,,,20260909003
+515,57,Female,Christian,Divorced,No,Had COVID,2,,,20260909003
+516,47,Male,Christian,Married,Yes,Had COVID,2,,,20260909003
+517,69,Female,Christian,Widowed,No,Had COVID,2,,,20260909003
+518,36,Female,Hindu,Married,Yes,Had COVID,4,,,20260909003
+519,60,Male,Christian,Married,No,None,4,,,20260909003
+520,49,Female,Other religion,Married,No,None,3,,,20260909003
+521,57,Female,No religion,Married,No,Had COVID,1,,,20260909003
+522,53,Male,Christian,Married,No,Bereaved,4,,,20260909003
+523,63,Female,Christian,Divorced,No,Had COVID,3,,,20260909003
+524,71,Male,Christian,Married,No,None,2,,,20260909003
+525,23,Male,Christian,Single,No,Had COVID,4,,,20260909003
+526,30,Female,Muslim,Single,No,Had COVID,4,,,20260909003
+527,26,Male,Christian,Single,No,None,3,,,20260909003
+528,40,Female,Christian,Married,No,None,1,,,20260909003
+529,78,Male,No religion,Divorced,No,None,1,,,20260909003
+530,39,Male,Christian,Married,Yes,None,2,,,20260909003
+531,44,Female,Hindu,Married,Yes,None,4,,,20260909003
+532,39,Female,Christian,Separated,No,Had COVID,4,3,Communitarianism,20260909003
+533,80,Female,Christian,Divorced,No,Had COVID,1,,,20260909003
+534,44,Female,Christian,Single,No,Bereaved,4,,,20260909003
+535,24,Female,Christian,Single,No,Had COVID,1,,,20260909003
+536,25,Male,No religion,Single,No,None,3,,,20260909003
+537,76,Male,No religion,Married,No,None,2,,,20260909003
+538,29,Male,Christian,Single,No,Had COVID,1,,,20260909003
+539,24,Male,Christian,Single,No,None,3,,,20260909003
+540,40,Female,Christian,Married,No,Had COVID,3,,,20260909003
+541,40,Female,Christian,Single,No,Had COVID,4,,,20260909003
+542,54,Male,No religion,Single,Yes,None,2,,,20260909003
+543,50,Female,Christian,Divorced,No,None,4,,,20260909003
+544,75,Male,Christian,Married,No,Bereaved,4,,,20260909003
+545,69,Male,No religion,Divorced,No,None,4,,,20260909003
+546,58,Male,No religion,Married,No,None,4,,,20260909003
+547,24,Male,Muslim,Single,No,None,4,,,20260909003
+548,70,Male,Christian,Divorced,No,None,3,,,20260909003
+549,22,Male,No religion,Single,No,Long COVID,3,,,20260909003
+550,44,Male,Muslim,Single,Yes,None,4,,,20260909003
+551,52,Male,Christian,Married,Yes,None,1,,,20260909003
+552,46,Female,Christian,Married,No,Long COVID,2,,,20260909003
+553,28,Male,No religion,Single,No,None,1,,,20260909003
+554,34,Male,Christian,Single,Yes,None,4,,,20260909003
+555,77,Female,No religion,Married,No,Had COVID,1,,,20260909003
+556,61,Female,Christian,Divorced,No,Had COVID,1,,,20260909003
+557,44,Female,No religion,Married,Yes,None,4,,,20260909003
+558,20,Male,No religion,Divorced,No,Had COVID,4,,,20260909003
+559,54,Male,Other religion,Widowed,No,None,1,,,20260909003
+560,59,Female,No religion,Married,No,Had COVID,3,,,20260909003
+561,19,Female,No religion,Single,No,None,4,,,20260909003
+562,57,Male,Christian,Married,No,Had COVID,3,,,20260909003
+563,20,Female,Not answered,Single,No,Had COVID,2,5,Institutional Trust and Technocratic Governance,20260909003
+564,66,Female,Not answered,Married,No,Bereaved,3,,,20260909003
+565,42,Female,Not answered,Widowed,No,Had COVID,4,,,20260909003
+566,31,Male,Muslim,Married,Yes,Bereaved,1,,,20260909003
+567,33,Male,Christian,Married,Yes,None,1,,,20260909003
+568,35,Male,No religion,Single,No,None,2,,,20260909003
+569,63,Female,Christian,Married,No,None,2,,,20260909003
+570,23,Male,Christian,Single,No,Had COVID,2,,,20260909003
+571,77,Male,Christian,Widowed,No,None,3,,,20260909003
+572,36,Female,Christian,Married,Yes,None,1,5,Institutional Trust and Technocratic Governance,20260909003
+573,28,Male,No religion,Married,No,Had COVID,1,,,20260909003
+574,30,Female,Christian,Single,No,None,1,,,20260909003
+575,31,Female,No religion,Single,No,None,2,,,20260909003
+576,62,Female,Not answered,Single,No,Bereaved,2,,,20260909003
+577,61,Female,No religion,Married,No,None,1,,,20260909003
+578,49,Male,Not answered,Single,Yes,None,1,,,20260909003
+579,82,Female,No religion,Married,Yes,Had COVID,4,,,20260909003
+580,20,Male,Christian,Single,No,None,4,,,20260909003
+581,54,Female,Christian,Married,Yes,None,1,3,Communitarianism,20260909003
+582,29,Male,Christian,Single,No,None,1,1,Scientific Rationalism,20260909003
+583,74,Female,Hindu,Married,No,None,2,,,20260909003
+584,48,Male,No religion,Married,Yes,Had COVID,3,,,20260909003
+585,57,Male,No religion,Single,No,None,3,,,20260909003
+586,58,Female,Christian,Divorced,No,Had COVID,2,5,Institutional Trust and Technocratic Governance,20260909003
+587,34,Female,No religion,Single,Yes,None,3,,,20260909003
+588,31,Female,Christian,Divorced,No,Bereaved,4,,,20260909003
+589,77,Male,Not answered,Married,No,None,1,,,20260909003
+590,75,Female,Christian,Married,No,Bereaved,2,,,20260909003
+591,67,Female,Christian,Widowed,Yes,None,4,,,20260909003
+592,29,Male,Christian,Single,No,None,1,,,20260909003
+593,37,Female,Hindu,Married,Yes,None,4,,,20260909003
+594,27,Female,Christian,Married,Yes,Had COVID,3,,,20260909003
+595,34,Female,No religion,Single,No,Had COVID,4,,,20260909003
+596,52,Male,No religion,Married,Yes,Had COVID,3,4,Conspiracy Ideation,20260909003
+597,57,Female,Christian,Married,No,Bereaved,1,,,20260909003
+598,40,Male,No religion,Married,No,None,3,,,20260909003
+599,86,Male,No religion,Married,No,Had COVID,2,,,20260909003
+600,50,Female,Christian,Married,Yes,None,1,,,20260909003
+601,51,Female,Not answered,Married,No,Bereaved,3,5,Institutional Trust and Technocratic Governance,20260909003
+602,49,Male,Christian,Married,No,None,3,,,20260909003
+603,22,Female,Christian,Married,No,Bereaved,1,,,20260909003
+604,59,Female,No religion,Divorced,No,Had COVID,4,,,20260909003
+605,72,Female,Christian,Married,No,None,3,,,20260909003
+606,63,Female,Not answered,Widowed,No,None,4,,,20260909003
+607,57,Male,Christian,Married,Yes,Had COVID,2,,,20260909003
+608,46,Male,No religion,Married,No,Had COVID,1,,,20260909003
+609,73,Female,Christian,Widowed,No,None,2,,,20260909003
+610,26,Male,No religion,Single,No,None,3,,,20260909003
+611,44,Female,No religion,Married,No,None,1,,,20260909003
+612,24,Male,Christian,Single,No,Had COVID,1,1,Scientific Rationalism,20260909003
+613,87,Female,Christian,Married,No,None,3,,,20260909003
+614,53,Male,Christian,Divorced,Yes,Long COVID,2,,,20260909003
+615,43,Female,Christian,Single,Yes,None,2,,,20260909003
+616,33,Female,Muslim,Widowed,No,Had COVID,2,,,20260909003
+617,90,Female,Christian,Widowed,No,Had COVID,3,,,20260909003
+618,70,Male,No religion,Married,No,None,4,5,Institutional Trust and Technocratic Governance,20260909003
+619,72,Male,No religion,Divorced,No,Bereaved,1,,,20260909003
+620,67,Female,Christian,Married,No,Had COVID,4,,,20260909003
+621,35,Female,No religion,Widowed,Yes,Had COVID,3,,,20260909003
+622,87,Male,Christian,Widowed,No,None,3,,,20260909003
+623,28,Male,Christian,Married,No,None,1,,,20260909003
+624,61,Male,No religion,Single,No,None,3,,,20260909003
+625,40,Female,No religion,Widowed,No,Had COVID,4,4,Conspiracy Ideation,20260909003
+626,30,Male,Christian,Married,Yes,None,1,,,20260909003
+627,33,Female,Muslim,Single,Yes,None,2,3,Communitarianism,20260909003
+628,62,Male,Other religion,Married,No,Had COVID,3,,,20260909003
+629,41,Female,No religion,Single,No,None,3,,,20260909003
+630,42,Female,Christian,Married,Yes,Had COVID,1,,,20260909003
+631,26,Female,No religion,Married,No,Had COVID,2,,,20260909003
+632,60,Male,No religion,Married,No,None,2,,,20260909003
+633,38,Female,Christian,Single,Yes,Had COVID,1,,,20260909003
+634,36,Male,Christian,Widowed,Yes,Bereaved,4,,,20260909003
+635,18,Male,Christian,Single,No,None,1,2,Libertarianism,20260909003
+636,54,Male,Christian,Married,No,Had COVID,4,,,20260909003
+637,31,Male,No religion,Single,No,None,4,,,20260909003
+638,28,Male,Christian,Single,No,None,1,,,20260909003
+639,38,Male,Christian,Married,No,Had COVID,4,5,Institutional Trust and Technocratic Governance,20260909003
+640,56,Male,Christian,Married,No,None,3,,,20260909003
+641,89,Female,Not answered,Married,No,None,3,3,Communitarianism,20260909003
+642,45,Female,No religion,Married,Yes,None,4,,,20260909003
+643,49,Female,Hindu,Married,Yes,Had COVID,1,,,20260909003
+644,73,Male,Christian,Divorced,No,None,3,,,20260909003
+645,87,Female,Christian,Married,No,None,4,,,20260909003
+646,55,Female,No religion,Married,No,Had COVID,4,,,20260909003
+647,32,Female,Christian,Single,No,Had COVID,3,,,20260909003
+648,31,Female,Christian,Married,Yes,Had COVID,3,,,20260909003
+649,49,Male,Christian,Married,Yes,Had COVID,2,,,20260909003
+650,60,Male,Christian,Married,No,Had COVID,2,,,20260909003
+651,63,Male,No religion,Married,No,Had COVID,4,,,20260909003
+652,32,Female,No religion,Single,Yes,Bereaved,1,,,20260909003
+653,64,Female,Muslim,Single,No,Bereaved,3,,,20260909003
+654,81,Female,No religion,Married,No,Had COVID,4,,,20260909003
+655,79,Male,Christian,Married,No,Had COVID,3,,,20260909003
+656,38,Female,Muslim,Married,Yes,Had COVID,2,,,20260909003
+657,51,Female,Christian,Married,No,Had COVID,4,,,20260909003
+658,40,Female,No religion,Single,No,None,3,,,20260909003
+659,36,Male,Christian,Married,Yes,None,1,,,20260909003
+660,34,Female,Christian,Divorced,No,None,4,,,20260909003
+661,41,Female,Muslim,Married,Yes,Bereaved,2,,,20260909003
+662,52,Female,No religion,Married,No,None,2,,,20260909003
+663,77,Male,Christian,Married,No,None,3,,,20260909003
+664,64,Female,No religion,Divorced,No,None,2,,,20260909003
+665,43,Male,Christian,Married,No,Long COVID,4,,,20260909003
+666,18,Female,Hindu,Single,No,None,2,,,20260909003
+667,45,Female,No religion,Divorced,Yes,None,3,,,20260909003
+668,78,Female,Christian,Widowed,No,Had COVID,1,,,20260909003
+669,83,Female,No religion,Widowed,No,Had COVID,1,,,20260909003
+670,30,Female,Christian,Single,Yes,None,1,,,20260909003
+671,63,Female,Christian,Widowed,No,None,2,,,20260909003
+672,62,Male,Christian,Married,No,Had COVID,2,,,20260909003
+673,89,Female,Christian,Married,No,Had COVID,2,,,20260909003
+674,37,Male,Christian,Married,No,Had COVID,1,,,20260909003
+675,45,Female,Muslim,Married,No,None,4,,,20260909003
+676,60,Male,No religion,Married,No,Bereaved,4,,,20260909003
+677,56,Male,Not answered,Single,No,Had COVID,4,,,20260909003
+678,39,Female,No religion,Married,No,None,4,,,20260909003
+679,40,Female,No religion,Married,Yes,None,3,,,20260909003
+680,37,Male,No religion,Married,No,None,4,5,Institutional Trust and Technocratic Governance,20260909003
+681,25,Male,Christian,Single,No,Had COVID,2,,,20260909003
+682,55,Female,Muslim,Divorced,No,Had COVID,1,,,20260909003
+683,40,Female,No religion,Married,No,None,2,,,20260909003
+684,47,Female,Christian,Married,Yes,Had COVID,2,,,20260909003
+685,67,Male,Christian,Married,No,Bereaved,4,,,20260909003
+686,77,Male,Christian,Married,No,None,2,,,20260909003
+687,32,Male,Not answered,Single,No,Had COVID,3,,,20260909003
+688,35,Male,Christian,Married,Yes,Had COVID,1,3,Communitarianism,20260909003
+689,31,Female,Christian,Married,No,None,3,,,20260909003
+690,30,Male,No religion,Married,No,Had COVID,3,,,20260909003
+691,23,Female,Christian,Single,No,None,2,,,20260909003
+692,90,Female,Christian,Married,No,None,1,,,20260909003
+693,65,Female,Muslim,Widowed,No,None,1,,,20260909003
+694,42,Male,No religion,Married,Yes,Had COVID,4,,,20260909003
+695,37,Male,No religion,Married,No,Had COVID,1,,,20260909003
+696,44,Female,No religion,Divorced,Yes,None,3,,,20260909003
+697,29,Male,No religion,Single,No,Had COVID,3,,,20260909003
+698,66,Male,No religion,Married,No,None,2,,,20260909003
+699,67,Male,Christian,Married,Yes,Had COVID,4,1,Scientific Rationalism,20260909003
+700,65,Male,Not answered,Married,No,Long COVID,2,,,20260909003
+701,18,Male,Christian,Single,No,Bereaved,3,,,20260909003
+702,39,Male,No religion,Married,Yes,Long COVID,4,,,20260909003
+703,48,Male,Christian,Married,Yes,Had COVID,1,,,20260909003
+704,29,Male,Christian,Married,No,Bereaved,3,,,20260909003
+705,60,Female,No religion,Divorced,Yes,None,4,,,20260909003
+706,51,Female,Christian,Married,No,Had COVID,2,,,20260909003
+707,26,Female,No religion,Married,No,Long COVID,1,,,20260909003
+708,22,Male,No religion,Single,No,None,2,,,20260909003
+709,77,Male,Not answered,Married,No,None,4,,,20260909003
+710,23,Female,Not answered,Single,No,Had COVID,1,,,20260909003
+711,40,Male,Christian,Single,Yes,Had COVID,4,,,20260909003
+712,58,Male,Christian,Married,No,None,3,,,20260909003
+713,63,Male,No religion,Married,No,Bereaved,2,,,20260909003
+714,36,Female,Muslim,Divorced,Yes,Had COVID,2,,,20260909003
+715,43,Male,Christian,Married,No,None,4,,,20260909003
+716,73,Male,No religion,Married,No,None,2,,,20260909003
+717,58,Male,Christian,Married,No,Had COVID,4,,,20260909003
+718,34,Female,Christian,Single,No,None,1,,,20260909003
+719,50,Male,Muslim,Married,No,None,3,,,20260909003
+720,68,Male,Christian,Widowed,No,None,3,,,20260909003
+721,30,Male,Christian,Single,No,Had COVID,1,,,20260909003
+722,21,Female,No religion,Single,No,Had COVID,3,,,20260909003
+723,65,Female,No religion,Widowed,No,None,1,,,20260909003
+724,30,Male,Christian,Single,No,Had COVID,2,,,20260909003
+725,22,Female,Muslim,Single,Yes,Had COVID,2,,,20260909003
+726,77,Male,Christian,Married,Yes,None,1,,,20260909003
+727,27,Female,Christian,Single,No,Had COVID,2,,,20260909003
+728,32,Female,Christian,Single,Yes,None,3,,,20260909003
+729,82,Female,Christian,Widowed,No,Bereaved,3,,,20260909003
+730,67,Female,No religion,Married,No,None,2,,,20260909003
+731,66,Female,No religion,Widowed,No,None,1,4,Conspiracy Ideation,20260909003
+732,72,Female,Christian,Single,No,None,4,,,20260909003
+733,34,Female,No religion,Single,Yes,Had COVID,1,,,20260909003
+734,20,Female,Christian,Married,No,Bereaved,4,,,20260909003
+735,25,Male,No religion,Divorced,No,Had COVID,3,,,20260909003
+736,19,Male,Christian,Single,No,None,1,,,20260909003
+737,57,Male,Muslim,Married,No,Had COVID,4,,,20260909003
+738,75,Female,Sikh,Married,No,None,3,,,20260909003
+739,28,Male,Christian,Divorced,No,None,3,,,20260909003
+740,58,Male,Christian,Married,No,None,2,,,20260909003
+741,38,Female,Not answered,Divorced,No,Had COVID,2,,,20260909003
+742,48,Male,No religion,Single,No,Had COVID,2,,,20260909003
+743,18,Male,Christian,Single,No,None,1,,,20260909003
+744,59,Male,No religion,Single,No,Had COVID,4,,,20260909003
+745,57,Male,Christian,Married,No,None,1,,,20260909003
+746,24,Male,Christian,Single,No,None,2,,,20260909003
+747,31,Female,No religion,Married,No,Had COVID,4,,,20260909003
+748,68,Male,No religion,Married,No,None,3,,,20260909003
+749,78,Female,No religion,Widowed,No,None,4,,,20260909003
+750,34,Female,No religion,Single,Yes,Had COVID,1,,,20260909003
+751,83,Female,No religion,Married,No,Had COVID,3,,,20260909003
+752,90,Female,Christian,Widowed,No,None,3,,,20260909003
+753,66,Female,Christian,Married,No,Bereaved,1,,,20260909003
+754,53,Female,No religion,Married,No,Had COVID,3,,,20260909003
+755,18,Female,Christian,Single,No,None,1,,,20260909003
+756,46,Female,Not answered,Married,No,Had COVID,4,,,20260909003
+757,55,Female,Christian,Divorced,No,None,3,,,20260909003
+758,71,Male,Christian,Widowed,No,None,4,,,20260909003
+759,74,Male,Christian,Divorced,No,None,3,2,Libertarianism,20260909003
+760,74,Male,Christian,Widowed,No,None,4,,,20260909003
+761,71,Female,Hindu,Widowed,No,Had COVID,1,,,20260909003
+762,23,Female,No religion,Single,No,Had COVID,2,,,20260909003
+763,18,Female,Christian,Single,No,Had COVID,2,,,20260909003
+764,53,Female,Christian,Single,No,None,4,,,20260909003
+765,19,Male,Christian,Single,No,None,4,,,20260909003
+766,52,Male,No religion,Married,No,None,4,,,20260909003
+767,41,Male,Christian,Single,No,Had COVID,2,,,20260909003
+768,54,Female,No religion,Single,Yes,Had COVID,2,3,Communitarianism,20260909003
+769,77,Female,Christian,Married,No,Had COVID,1,,,20260909003
+770,56,Female,No religion,Divorced,No,Had COVID,1,,,20260909003
+771,21,Female,No religion,Single,No,Bereaved,1,,,20260909003
+772,59,Female,Christian,Married,Yes,Had COVID,4,,,20260909003
+773,29,Male,No religion,Married,No,None,1,3,Communitarianism,20260909003
+774,70,Female,Christian,Widowed,No,None,1,,,20260909003
+775,55,Female,Jewish,Married,Yes,None,2,,,20260909003
+776,68,Female,Christian,Divorced,No,None,3,,,20260909003
+777,35,Female,Muslim,Married,Yes,Long COVID,4,,,20260909003
+778,75,Male,No religion,Married,No,Had COVID,4,,,20260909003
+779,51,Female,Muslim,Married,No,None,4,,,20260909003
+780,34,Female,Christian,Single,No,None,3,,,20260909003
+781,59,Female,Christian,Married,Yes,Had COVID,4,,,20260909003
+782,21,Male,Christian,Single,No,None,1,,,20260909003
+783,56,Male,No religion,Divorced,No,None,3,,,20260909003
+784,38,Male,No religion,Married,No,None,3,,,20260909003
+785,80,Male,Christian,Married,No,None,4,,,20260909003
+786,26,Male,No religion,Single,Yes,None,1,,,20260909003
+787,18,Female,No religion,Single,No,None,2,,,20260909003
+788,23,Female,Christian,Single,No,Bereaved,2,,,20260909003
+789,35,Male,Christian,Married,No,None,2,,,20260909003
+790,68,Female,Christian,Married,No,None,2,,,20260909003
+791,59,Female,Christian,Married,No,None,1,,,20260909003
+792,20,Female,Buddhist,Single,No,Had COVID,4,,,20260909003
+793,30,Female,Christian,Single,No,Bereaved,1,,,20260909003
+794,26,Male,Christian,Single,No,None,4,,,20260909003
+795,62,Male,Not answered,Single,No,Bereaved,2,,,20260909003
+796,54,Female,Christian,Married,No,Had COVID,4,,,20260909003
+797,48,Male,Christian,Separated,No,Had COVID,2,,,20260909003
+798,82,Male,Christian,Married,No,None,1,,,20260909003
+799,37,Female,No religion,Married,Yes,Had COVID,3,,,20260909003
+800,48,Male,No religion,Married,No,None,2,,,20260909003
+801,41,Female,Christian,Single,Yes,None,2,,,20260909003
+802,50,Male,No religion,Single,No,Had COVID,1,,,20260909003
+803,57,Female,Christian,Single,No,Had COVID,3,3,Communitarianism,20260909003
+804,38,Female,Christian,Married,Yes,Had COVID,1,,,20260909003
+805,76,Male,No religion,Married,No,Bereaved,3,,,20260909003
+806,90,Female,Christian,Married,No,None,3,,,20260909003
+807,60,Male,No religion,Married,No,None,4,,,20260909003
+808,46,Female,Other religion,Separated,No,Had COVID,1,,,20260909003
+809,42,Female,No religion,Widowed,Yes,None,3,,,20260909003
+810,71,Female,No religion,Married,No,Had COVID,2,,,20260909003
+811,80,Male,Christian,Divorced,No,Had COVID,4,,,20260909003
+812,50,Female,Muslim,Divorced,No,Long COVID,3,,,20260909003
+813,24,Male,Muslim,Single,Yes,Had COVID,4,,,20260909003
+814,24,Male,No religion,Single,No,None,4,,,20260909003
+815,55,Male,No religion,Divorced,No,Had COVID,3,4,Conspiracy Ideation,20260909003
+816,19,Male,No religion,Single,No,Bereaved,1,,,20260909003
+817,20,Female,Christian,Single,No,Had COVID,2,,,20260909003
+818,77,Female,Christian,Divorced,No,None,1,,,20260909003
+819,37,Male,No religion,Married,Yes,Had COVID,1,,,20260909003
+820,36,Male,Christian,Married,No,Had COVID,1,,,20260909003
+821,21,Female,No religion,Single,No,Had COVID,2,,,20260909003
+822,67,Female,Christian,Single,No,Bereaved,3,,,20260909003
+823,79,Female,No religion,Widowed,No,None,2,,,20260909003
+824,90,Male,Not answered,Married,No,None,1,,,20260909003
+825,30,Female,Christian,Married,No,None,3,,,20260909003
+826,85,Female,Christian,Married,No,None,4,,,20260909003
+827,47,Male,Christian,Single,No,Bereaved,2,,,20260909003
+828,25,Male,Christian,Single,No,None,2,,,20260909003
+829,78,Female,Christian,Widowed,No,None,4,,,20260909003
+830,47,Female,Hindu,Married,Yes,Bereaved,2,3,Communitarianism,20260909003
+831,60,Female,Christian,Divorced,No,None,4,,,20260909003
+832,56,Female,Christian,Married,Yes,None,1,,,20260909003
+833,31,Female,No religion,Single,No,Bereaved,4,,,20260909003
+834,57,Female,No religion,Single,No,None,4,,,20260909003
+835,53,Female,Muslim,Married,No,Had COVID,3,,,20260909003
+836,35,Male,Christian,Married,No,Bereaved,4,,,20260909003
+837,18,Female,Christian,Single,No,None,1,,,20260909003
+838,37,Female,Muslim,Married,No,Had COVID,3,,,20260909003
+839,81,Female,Christian,Married,No,None,2,,,20260909003
+840,45,Female,No religion,Married,No,Had COVID,1,,,20260909003
+841,37,Male,Christian,Single,No,Had COVID,3,,,20260909003
+842,56,Male,No religion,Single,No,Bereaved,3,,,20260909003
+843,58,Female,Christian,Married,No,None,2,,,20260909003
+844,48,Female,Not answered,Married,Yes,None,1,,,20260909003
+845,22,Male,No religion,Single,No,Bereaved,2,,,20260909003
+846,73,Male,No religion,Single,No,Had COVID,2,,,20260909003
+847,44,Male,Christian,Married,No,Had COVID,4,,,20260909003
+848,38,Female,Christian,Single,No,Had COVID,3,,,20260909003
+849,56,Male,No religion,Married,No,Had COVID,1,,,20260909003
+850,59,Male,Christian,Single,No,Had COVID,3,,,20260909003
+851,30,Female,No religion,Single,Yes,Had COVID,2,,,20260909003
+852,36,Male,No religion,Married,No,None,4,3,Communitarianism,20260909003
+853,38,Male,Christian,Married,Yes,Had COVID,3,,,20260909003
+854,90,Female,Not answered,Widowed,No,Had COVID,1,,,20260909003
+855,63,Male,No religion,Single,Yes,None,1,,,20260909003
+856,30,Male,Muslim,Single,No,Had COVID,4,5,Institutional Trust and Technocratic Governance,20260909003
+857,72,Female,Christian,Married,No,None,3,,,20260909003
+858,61,Female,Muslim,Married,No,None,4,,,20260909003
+859,69,Female,Christian,Married,No,Had COVID,4,,,20260909003
+860,75,Female,No religion,Married,No,Had COVID,3,,,20260909003
+861,58,Male,Christian,Married,No,None,1,,,20260909003
+862,87,Female,Christian,Married,No,Had COVID,1,,,20260909003
+863,45,Male,Christian,Married,Yes,None,4,,,20260909003
+864,42,Female,Muslim,Divorced,No,Had COVID,3,,,20260909003
+865,45,Female,No religion,Single,No,None,3,,,20260909003
+866,32,Female,No religion,Married,No,Had COVID,2,,,20260909003
+867,59,Female,No religion,Married,No,None,2,,,20260909003
+868,44,Male,Christian,Married,No,None,3,,,20260909003
+869,32,Female,No religion,Separated,Yes,Had COVID,3,,,20260909003
+870,21,Female,Not answered,Single,No,None,4,,,20260909003
+871,26,Female,Christian,Single,No,None,3,,,20260909003
+872,90,Male,Christian,Married,No,None,3,,,20260909003
+873,56,Male,Christian,Married,No,Had COVID,2,,,20260909003
+874,66,Female,Christian,Widowed,No,None,3,,,20260909003
+875,72,Female,Christian,Single,No,None,2,,,20260909003
+876,40,Female,Christian,Single,Yes,Had COVID,1,,,20260909003
+877,36,Male,Christian,Married,Yes,None,3,,,20260909003
+878,69,Female,Christian,Married,No,None,2,,,20260909003
+879,35,Male,Christian,Married,Yes,Had COVID,3,,,20260909003
+880,52,Female,Christian,Widowed,No,Had COVID,1,,,20260909003
+881,60,Male,Other religion,Married,No,Bereaved,2,,,20260909003
+882,35,Male,Sikh,Married,No,None,4,,,20260909003
+883,22,Female,Christian,Single,No,Bereaved,2,,,20260909003
+884,68,Male,No religion,Divorced,No,Had COVID,2,,,20260909003
+885,50,Female,Not answered,Married,No,Bereaved,2,,,20260909003
+886,66,Male,Muslim,Married,No,Had COVID,1,,,20260909003
+887,47,Female,No religion,Married,Yes,Long COVID,2,,,20260909003
+888,83,Female,No religion,Divorced,No,None,1,,,20260909003
+889,26,Male,Not answered,Married,No,None,1,,,20260909003
+890,46,Female,Christian,Single,No,Had COVID,2,,,20260909003
+891,65,Male,Christian,Married,No,Had COVID,3,,,20260909003
+892,73,Male,No religion,Married,No,Bereaved,1,,,20260909003
+893,48,Female,Christian,Married,Yes,Had COVID,4,,,20260909003
+894,40,Female,No religion,Married,Yes,Bereaved,2,,,20260909003
+895,28,Female,Hindu,Married,No,Had COVID,4,,,20260909003
+896,58,Female,Sikh,Single,No,None,2,,,20260909003
+897,32,Female,Not answered,Single,No,Had COVID,3,,,20260909003
+898,42,Female,Not answered,Married,Yes,Bereaved,3,,,20260909003
+899,20,Male,No religion,Single,No,None,3,,,20260909003
+900,24,Female,No religion,Divorced,No,Had COVID,2,,,20260909003
+901,42,Female,No religion,Single,No,Had COVID,4,,,20260909003
+902,54,Male,Christian,Married,No,None,4,,,20260909003
+903,86,Female,Christian,Married,No,Had COVID,3,,,20260909003
+904,18,Female,Christian,Single,No,None,3,,,20260909003
+905,58,Female,Not answered,Widowed,No,Had COVID,2,,,20260909003
+906,78,Male,Christian,Widowed,No,None,1,,,20260909003
+907,41,Female,Muslim,Single,Yes,Bereaved,2,,,20260909003
+908,74,Female,No religion,Married,No,Bereaved,3,,,20260909003
+909,42,Female,Hindu,Divorced,No,None,3,,,20260909003
+910,67,Male,Christian,Married,No,None,1,,,20260909003
+911,33,Male,No religion,Divorced,Yes,Had COVID,4,,,20260909003
+912,65,Female,Not answered,Widowed,No,Had COVID,3,,,20260909003
+913,40,Female,Christian,Married,No,Had COVID,2,4,Conspiracy Ideation,20260909003
+914,69,Male,No religion,Widowed,No,None,3,,,20260909003
+915,80,Female,Muslim,Married,No,Long COVID,2,,,20260909003
+916,50,Female,No religion,Married,Yes,Long COVID,2,,,20260909003
+917,49,Female,Muslim,Single,No,Had COVID,1,,,20260909003
+918,75,Female,Jewish,Single,No,None,3,,,20260909003
+919,64,Male,No religion,Married,No,Had COVID,3,,,20260909003
+920,53,Male,Christian,Married,Yes,Long COVID,1,,,20260909003
+921,66,Female,Hindu,Married,No,None,2,,,20260909003
+922,76,Female,Christian,Married,No,None,3,,,20260909003
+923,58,Male,No religion,Single,No,Long COVID,4,,,20260909003
+924,38,Female,Christian,Married,No,None,1,,,20260909003
+925,23,Male,Muslim,Single,No,Had COVID,4,,,20260909003
+926,38,Female,No religion,Single,No,None,3,,,20260909003
+927,29,Male,Christian,Single,Yes,Had COVID,1,,,20260909003
+928,23,Male,Christian,Single,No,Had COVID,1,,,20260909003
+929,40,Male,Christian,Married,Yes,None,3,,,20260909003
+930,45,Male,No religion,Single,No,None,1,,,20260909003
+931,43,Female,Christian,Single,Yes,None,2,,,20260909003
+932,24,Female,Christian,Single,No,Had COVID,2,,,20260909003
+933,29,Female,Christian,Single,No,Had COVID,4,,,20260909003
+934,23,Female,No religion,Single,No,Bereaved,1,,,20260909003
+935,38,Female,No religion,Married,Yes,Had COVID,2,,,20260909003
+936,56,Female,No religion,Married,No,Had COVID,2,,,20260909003
+937,22,Female,Christian,Single,No,Bereaved,1,3,Communitarianism,20260909003
+938,37,Female,No religion,Married,Yes,None,2,,,20260909003
+939,24,Male,No religion,Single,No,Bereaved,1,,,20260909003
+940,62,Female,Muslim,Widowed,No,Had COVID,2,,,20260909003
+941,47,Female,No religion,Married,No,None,4,,,20260909003
+942,58,Female,No religion,Married,No,Had COVID,1,,,20260909003
+943,46,Male,Christian,Married,No,Bereaved,1,,,20260909003
+944,41,Male,Christian,Married,No,None,2,,,20260909003
+945,57,Male,Not answered,Married,No,None,2,,,20260909003
+946,83,Male,Christian,Married,No,Bereaved,4,,,20260909003
+947,57,Male,Christian,Separated,No,None,2,2,Libertarianism,20260909003
+948,73,Female,Christian,Married,No,Bereaved,2,4,Conspiracy Ideation,20260909003
+949,69,Male,No religion,Married,No,Bereaved,4,2,Libertarianism,20260909003
+950,36,Male,Not answered,Divorced,Yes,Bereaved,1,,,20260909003
+951,79,Female,Christian,Widowed,No,None,2,,,20260909003
+952,36,Female,No religion,Married,No,Long COVID,1,,,20260909003
+953,42,Male,Christian,Married,No,Had COVID,4,,,20260909003
+954,28,Female,Hindu,Married,Yes,None,1,,,20260909003
+955,57,Male,Christian,Married,No,Had COVID,2,,,20260909003
+956,42,Male,Christian,Married,No,Had COVID,1,,,20260909003
+957,33,Male,Christian,Single,Yes,None,2,,,20260909003
+958,39,Female,No religion,Married,Yes,Bereaved,1,,,20260909003
+959,63,Female,Christian,Married,No,None,3,,,20260909003
+960,82,Female,No religion,Divorced,No,Bereaved,4,,,20260909003
+961,56,Male,Muslim,Single,No,Had COVID,3,,,20260909003
+962,55,Male,No religion,Separated,Yes,Bereaved,1,,,20260909003
+963,48,Male,Christian,Married,Yes,Had COVID,4,,,20260909003
+964,43,Female,Not answered,Married,Yes,Long COVID,3,,,20260909003
+965,33,Male,Muslim,Single,No,Had COVID,4,,,20260909003
+966,68,Male,Christian,Married,No,Had COVID,2,,,20260909003
+967,23,Female,Christian,Single,No,Had COVID,2,,,20260909003
+968,58,Male,Christian,Single,No,Had COVID,3,,,20260909003
+969,26,Female,Christian,Married,No,None,2,,,20260909003
+970,39,Female,No religion,Married,No,Had COVID,1,,,20260909003
+971,21,Male,Christian,Married,No,None,3,,,20260909003
+972,43,Female,No religion,Single,Yes,Bereaved,1,,,20260909003
+973,81,Male,No religion,Married,No,Bereaved,2,,,20260909003
+974,50,Male,Christian,Married,No,None,4,,,20260909003
+975,74,Male,Muslim,Married,No,Had COVID,4,,,20260909003
+976,75,Male,Christian,Married,No,None,1,,,20260909003
+977,85,Female,No religion,Married,No,Had COVID,2,,,20260909003
+978,25,Male,No religion,Single,No,None,3,,,20260909003
+979,47,Male,No religion,Married,Yes,Had COVID,2,,,20260909003
+980,73,Male,Christian,Married,No,Had COVID,1,3,Communitarianism,20260909003
+981,50,Female,No religion,Married,No,Had COVID,1,,,20260909003
+982,46,Female,Christian,Divorced,No,Had COVID,3,,,20260909003
+983,70,Female,Christian,Widowed,No,None,2,,,20260909003
+984,36,Female,No religion,Married,Yes,None,3,,,20260909003
+985,38,Female,No religion,Married,No,None,1,2,Libertarianism,20260909003
+986,42,Male,Christian,Married,Yes,Bereaved,2,,,20260909003
+987,79,Female,No religion,Married,No,None,2,,,20260909003
+988,60,Male,Christian,Married,No,Bereaved,2,,,20260909003
+989,63,Male,Sikh,Married,No,Long COVID,1,,,20260909003
+990,19,Male,No religion,Single,No,None,1,,,20260909003
+991,63,Male,Christian,Married,No,Long COVID,4,,,20260909003
+992,77,Female,Christian,Widowed,No,Had COVID,2,,,20260909003
+993,47,Female,Christian,Married,No,None,2,,,20260909003
+994,25,Female,Christian,Married,No,None,1,2,Libertarianism,20260909003
+995,75,Female,Christian,Widowed,No,Had COVID,2,,,20260909003
+996,42,Male,No religion,Single,No,Had COVID,4,,,20260909003
+997,62,Female,Other religion,Married,No,Had COVID,2,,,20260909003
+998,19,Male,Christian,Single,No,Had COVID,2,,,20260909003
+999,71,Male,Hindu,Single,No,Bereaved,4,5,Institutional Trust and Technocratic Governance,20260909003
+1000,43,Male,No religion,Married,Yes,None,1,,,20260909003
+1001,54,Male,Muslim,Married,No,Had COVID,3,4,Conspiracy Ideation,20260909003
+1002,40,Female,No religion,Single,Yes,Had COVID,2,,,20260909003
+1003,21,Male,Christian,Single,No,None,4,,,20260909003
+1004,62,Female,No religion,Divorced,No,None,1,,,20260909003
+1005,90,Female,Christian,Widowed,No,Bereaved,4,,,20260909003
+1006,34,Female,Muslim,Single,Yes,Bereaved,3,,,20260909003
+1007,45,Male,Christian,Married,No,None,3,,,20260909003
+1008,53,Female,Christian,Divorced,No,None,4,,,20260909003
+1009,34,Male,No religion,Single,Yes,Had COVID,2,,,20260909003
+1010,31,Female,Buddhist,Single,Yes,Had COVID,4,,,20260909003
+1011,54,Female,No religion,Widowed,No,None,2,,,20260909003
+1012,57,Male,Christian,Single,No,None,4,,,20260909003
+1013,32,Male,Christian,Single,No,None,3,,,20260909003
+1014,62,Male,No religion,Married,No,None,2,,,20260909003
+1015,55,Female,Not answered,Divorced,No,None,4,,,20260909003
+1016,61,Male,Muslim,Divorced,No,Had COVID,3,,,20260909003
+1017,82,Male,Not answered,Married,No,None,2,,,20260909003
+1018,58,Female,Not answered,Married,No,None,1,,,20260909003
+1019,44,Female,No religion,Single,Yes,Bereaved,4,,,20260909003
+1020,71,Female,Christian,Married,No,Bereaved,4,,,20260909003
+1021,39,Female,No religion,Single,No,Had COVID,2,,,20260909003
+1022,60,Male,Christian,Divorced,No,None,2,,,20260909003
+1023,31,Male,Muslim,Single,No,None,1,2,Libertarianism,20260909003
+1024,70,Male,Christian,Married,No,Had COVID,2,,,20260909003
+1025,78,Male,Christian,Widowed,No,None,1,,,20260909003
+1026,28,Male,No religion,Single,No,None,1,,,20260909003
+1027,35,Male,Christian,Single,Yes,None,4,,,20260909003
+1028,40,Female,No religion,Married,Yes,None,1,,,20260909003
+1029,19,Male,Christian,Single,No,None,1,,,20260909003
+1030,64,Male,Christian,Married,No,Long COVID,3,,,20260909003
+1031,31,Female,Christian,Married,No,Had COVID,2,,,20260909003
+1032,22,Male,No religion,Single,No,None,1,,,20260909003
+1033,44,Male,No religion,Divorced,Yes,Had COVID,1,1,Scientific Rationalism,20260909003
+1034,70,Female,Christian,Widowed,No,Had COVID,1,,,20260909003
+1035,90,Male,Christian,Separated,No,None,3,,,20260909003
+1036,64,Male,No religion,Single,No,Had COVID,2,,,20260909003
+1037,70,Female,Christian,Married,No,None,2,,,20260909003
+1038,68,Male,Christian,Married,No,Had COVID,3,,,20260909003
+1039,49,Female,Christian,Single,No,Had COVID,2,,,20260909003
+1040,50,Female,Christian,Married,Yes,None,4,,,20260909003
+1041,67,Male,Christian,Married,No,Had COVID,1,5,Institutional Trust and Technocratic Governance,20260909003
+1042,56,Male,Not answered,Married,No,Bereaved,4,,,20260909003
+1043,78,Female,Not answered,Divorced,No,None,2,,,20260909003
+1044,39,Female,Not answered,Married,Yes,Had COVID,3,,,20260909003
+1045,34,Female,Christian,Single,No,None,4,,,20260909003
+1046,61,Female,Muslim,Married,No,Had COVID,3,,,20260909003
+1047,55,Male,No religion,Divorced,No,Had COVID,2,,,20260909003
+1048,45,Male,Christian,Married,Yes,None,1,,,20260909003
+1049,88,Female,Christian,Widowed,No,Had COVID,3,,,20260909003
+1050,77,Male,No religion,Married,No,Bereaved,2,,,20260909003
+1051,47,Female,Christian,Married,Yes,None,1,,,20260909003
+1052,45,Female,Hindu,Married,No,None,4,,,20260909003
+1053,78,Female,Christian,Single,No,None,2,,,20260909003
+1054,73,Male,No religion,Divorced,No,Had COVID,4,,,20260909003
+1055,41,Male,Christian,Single,Yes,Had COVID,1,,,20260909003
+1056,50,Female,Christian,Divorced,No,Had COVID,4,,,20260909003
+1057,54,Female,Christian,Separated,No,Had COVID,4,4,Conspiracy Ideation,20260909003
+1058,23,Female,Christian,Single,No,None,2,,,20260909003
+1059,65,Male,No religion,Divorced,No,Had COVID,3,,,20260909003
+1060,73,Female,No religion,Married,No,Had COVID,2,,,20260909003
+1061,55,Male,No religion,Widowed,No,Had COVID,2,,,20260909003
+1062,60,Male,Christian,Married,No,None,3,,,20260909003
+1063,42,Female,No religion,Widowed,Yes,None,3,,,20260909003
+1064,39,Female,No religion,Married,No,Had COVID,3,,,20260909003
+1065,61,Female,Sikh,Widowed,No,Bereaved,4,,,20260909003
+1066,63,Male,Christian,Divorced,Yes,Had COVID,3,,,20260909003
+1067,56,Male,No religion,Divorced,No,None,1,,,20260909003
+1068,39,Male,No religion,Single,Yes,None,3,,,20260909003
+1069,24,Female,Christian,Single,No,Bereaved,4,4,Conspiracy Ideation,20260909003
+1070,25,Male,No religion,Single,Yes,Bereaved,1,,,20260909003
+1071,67,Female,Christian,Married,No,None,1,,,20260909003
+1072,65,Female,No religion,Divorced,No,Had COVID,4,,,20260909003
+1073,48,Female,Christian,Single,Yes,None,3,,,20260909003
+1074,61,Female,Muslim,Married,No,Bereaved,1,,,20260909003
+1075,71,Male,No religion,Married,No,None,4,,,20260909003
+1076,37,Male,No religion,Single,No,Bereaved,1,3,Communitarianism,20260909003
+1077,57,Female,Muslim,Married,No,Bereaved,3,,,20260909003
+1078,75,Male,Not answered,Married,No,Bereaved,2,,,20260909003
+1079,45,Female,Christian,Married,Yes,None,4,,,20260909003
+1080,42,Male,No religion,Divorced,No,Long COVID,2,,,20260909003
+1081,72,Male,Hindu,Single,No,Had COVID,4,,,20260909003
+1082,58,Male,Christian,Married,No,None,4,,,20260909003
+1083,55,Male,Christian,Married,Yes,Long COVID,2,,,20260909003
+1084,21,Female,Christian,Single,No,Had COVID,2,3,Communitarianism,20260909003
+1085,53,Male,Christian,Married,No,None,4,,,20260909003
+1086,44,Male,Christian,Single,Yes,None,2,,,20260909003
+1087,59,Male,Christian,Divorced,No,Bereaved,4,,,20260909003
+1088,65,Male,Christian,Married,No,None,4,,,20260909003
+1089,24,Female,No religion,Single,No,Had COVID,2,,,20260909003
+1090,38,Female,No religion,Single,Yes,None,1,,,20260909003
+1091,53,Female,No religion,Single,No,None,2,,,20260909003
+1092,56,Male,Christian,Married,No,Had COVID,4,,,20260909003
+1093,21,Male,Muslim,Single,No,Had COVID,1,1,Scientific Rationalism,20260909003
+1094,35,Female,No religion,Married,No,Had COVID,2,,,20260909003
+1095,64,Male,No religion,Married,No,Had COVID,2,,,20260909003
+1096,48,Male,Buddhist,Married,Yes,None,4,,,20260909003
+1097,57,Male,No religion,Married,Yes,Had COVID,4,,,20260909003
+1098,81,Male,Christian,Widowed,No,None,3,,,20260909003
+1099,60,Female,Christian,Married,No,None,3,,,20260909003
+1100,45,Female,Hindu,Married,Yes,Had COVID,4,,,20260909003
+1101,43,Male,No religion,Married,Yes,None,4,,,20260909003
+1102,47,Female,Hindu,Married,No,None,3,,,20260909003
+1103,84,Male,No religion,Married,No,Bereaved,3,,,20260909003
+1104,83,Male,Christian,Married,No,Had COVID,2,,,20260909003
+1105,40,Female,Muslim,Divorced,Yes,None,3,,,20260909003
+1106,40,Male,Christian,Single,No,Bereaved,1,,,20260909003
+1107,18,Male,Christian,Single,No,None,1,,,20260909003
+1108,57,Male,Christian,Married,No,Had COVID,4,,,20260909003
+1109,64,Female,Christian,Married,No,Had COVID,1,,,20260909003
+1110,56,Female,No religion,Married,Yes,Had COVID,4,,,20260909003
+1111,24,Female,No religion,Single,No,Had COVID,2,,,20260909003
+1112,73,Female,Muslim,Married,No,None,3,4,Conspiracy Ideation,20260909003
+1113,35,Male,Christian,Married,No,Had COVID,3,,,20260909003
+1114,70,Male,No religion,Divorced,No,None,2,,,20260909003
+1115,66,Female,Christian,Widowed,No,None,4,,,20260909003
+1116,61,Male,Christian,Married,No,Had COVID,4,,,20260909003
+1117,46,Male,Muslim,Married,No,None,4,,,20260909003
+1118,90,Male,No religion,Married,No,None,1,,,20260909003
+1119,63,Male,Christian,Married,No,None,2,4,Conspiracy Ideation,20260909003
+1120,41,Female,No religion,Divorced,No,None,1,,,20260909003
+1121,28,Female,No religion,Divorced,No,Had COVID,2,,,20260909003
+1122,32,Female,Not answered,Married,No,None,4,,,20260909003
+1123,38,Male,Christian,Married,Yes,Bereaved,1,,,20260909003
+1124,55,Female,No religion,Married,No,None,1,,,20260909003
+1125,27,Female,No religion,Married,No,None,2,,,20260909003
+1126,38,Male,Hindu,Married,Yes,Had COVID,4,,,20260909003
+1127,78,Female,No religion,Married,No,None,3,,,20260909003
+1128,35,Female,No religion,Married,Yes,Had COVID,2,,,20260909003
+1129,58,Male,Jewish,Separated,No,None,2,,,20260909003
+1130,76,Male,Christian,Married,No,None,2,,,20260909003
+1131,56,Male,No religion,Divorced,Yes,Had COVID,1,,,20260909003
+1132,65,Female,No religion,Divorced,No,Had COVID,3,,,20260909003
+1133,21,Male,No religion,Single,No,Had COVID,2,,,20260909003
+1134,36,Female,No religion,Married,No,Had COVID,2,,,20260909003
+1135,59,Female,Muslim,Married,No,None,1,,,20260909003
+1136,22,Female,Christian,Single,No,Had COVID,4,,,20260909003
+1137,53,Male,Christian,Divorced,No,Had COVID,2,,,20260909003
+1138,71,Female,Not answered,Divorced,No,Bereaved,1,,,20260909003
+1139,22,Female,Not answered,Single,No,Had COVID,2,,,20260909003
+1140,60,Female,Christian,Single,Yes,Had COVID,3,,,20260909003
+1141,43,Male,No religion,Married,No,None,3,,,20260909003
+1142,59,Male,Christian,Married,No,Had COVID,3,,,20260909003
+1143,25,Male,No religion,Married,No,Had COVID,3,,,20260909003
+1144,22,Female,Muslim,Single,No,None,4,,,20260909003
+1145,84,Female,Not answered,Single,No,Bereaved,4,,,20260909003
+1146,44,Male,Christian,Married,Yes,Bereaved,3,,,20260909003
+1147,21,Male,Christian,Single,No,Had COVID,3,,,20260909003
+1148,75,Female,Christian,Widowed,No,None,4,,,20260909003
+1149,31,Male,No religion,Single,Yes,Had COVID,4,,,20260909003
+1150,62,Male,No religion,Divorced,No,Bereaved,1,,,20260909003
+1151,59,Female,Christian,Divorced,No,None,2,,,20260909003
+1152,19,Female,Muslim,Single,No,None,2,5,Institutional Trust and Technocratic Governance,20260909003
+1153,66,Female,No religion,Widowed,No,None,2,,,20260909003
+1154,70,Female,Christian,Married,No,None,1,,,20260909003
+1155,66,Female,Christian,Divorced,No,None,1,,,20260909003
+1156,34,Female,No religion,Divorced,Yes,None,1,4,Conspiracy Ideation,20260909003
+1157,48,Male,No religion,Single,Yes,Long COVID,3,,,20260909003
+1158,65,Female,No religion,Married,No,Had COVID,2,,,20260909003
+1159,50,Male,Christian,Married,No,Had COVID,3,,,20260909003
+1160,58,Male,Muslim,Married,No,Had COVID,4,,,20260909003
+1161,61,Female,No religion,Married,No,Had COVID,4,,,20260909003
+1162,20,Male,No religion,Married,No,None,1,,,20260909003
+1163,61,Male,No religion,Single,No,None,1,,,20260909003
+1164,28,Female,Christian,Single,No,None,4,,,20260909003
+1165,47,Female,Christian,Married,Yes,Had COVID,2,,,20260909003
+1166,38,Male,No religion,Married,Yes,None,2,,,20260909003
+1167,64,Female,Christian,Married,No,Long COVID,1,,,20260909003
+1168,20,Male,Christian,Single,No,Bereaved,2,,,20260909003
+1169,74,Female,Not answered,Divorced,No,Had COVID,3,3,Communitarianism,20260909003
+1170,21,Female,No religion,Single,No,None,3,,,20260909003
+1171,60,Male,Christian,Married,No,None,2,,,20260909003
+1172,25,Male,Not answered,Single,No,Had COVID,4,,,20260909003
+1173,26,Male,No religion,Divorced,No,Had COVID,1,,,20260909003
+1174,71,Male,Christian,Married,No,Bereaved,2,,,20260909003
+1175,18,Female,Christian,Single,No,None,4,,,20260909003
+1176,56,Male,No religion,Single,No,None,3,1,Scientific Rationalism,20260909003
+1177,28,Female,No religion,Single,No,Had COVID,1,,,20260909003
+1178,38,Male,No religion,Single,Yes,Had COVID,4,,,20260909003
+1179,58,Male,Christian,Married,No,Had COVID,3,,,20260909003
+1180,50,Male,No religion,Married,No,None,2,,,20260909003
+1181,59,Male,Christian,Divorced,No,None,3,,,20260909003
+1182,59,Male,Not answered,Married,No,Long COVID,3,,,20260909003
+1183,21,Male,Buddhist,Married,No,None,4,,,20260909003
+1184,25,Female,Sikh,Married,No,Had COVID,1,1,Scientific Rationalism,20260909003
+1185,41,Male,No religion,Single,Yes,Had COVID,4,,,20260909003
+1186,36,Female,No religion,Married,Yes,Had COVID,3,,,20260909003
+1187,71,Female,Christian,Widowed,No,None,2,,,20260909003
+1188,19,Female,Christian,Single,No,Had COVID,4,,,20260909003
+1189,70,Female,Not answered,Single,Yes,Had COVID,1,1,Scientific Rationalism,20260909003
+1190,60,Male,Not answered,Separated,No,Bereaved,1,,,20260909003
+1191,46,Male,No religion,Married,No,Had COVID,3,,,20260909003
+1192,41,Male,No religion,Divorced,Yes,Had COVID,1,,,20260909003
+1193,55,Female,Christian,Married,Yes,Long COVID,1,,,20260909003
+1194,30,Male,Christian,Single,Yes,None,3,,,20260909003
+1195,36,Female,Christian,Married,Yes,None,4,,,20260909003
+1196,50,Female,Christian,Married,No,Bereaved,3,,,20260909003
+1197,25,Female,No religion,Single,Yes,None,1,,,20260909003
+1198,19,Male,No religion,Single,No,None,1,,,20260909003
+1199,63,Male,No religion,Married,No,Had COVID,3,,,20260909003
+1200,77,Female,No religion,Married,No,Bereaved,3,,,20260909003
+1201,52,Female,Christian,Married,No,Had COVID,1,,,20260909003
+1202,82,Female,Christian,Married,No,None,3,1,Scientific Rationalism,20260909003
+1203,79,Female,Christian,Married,No,Bereaved,3,,,20260909003
+1204,33,Male,Christian,Single,No,Had COVID,2,,,20260909003
+1205,33,Male,Christian,Single,No,Had COVID,4,2,Libertarianism,20260909003
+1206,29,Male,Christian,Married,No,Had COVID,1,,,20260909003
+1207,58,Female,Muslim,Married,No,None,1,,,20260909003
+1208,48,Male,Christian,Married,No,None,3,,,20260909003
+1209,82,Female,Not answered,Widowed,No,None,4,,,20260909003
+1210,41,Female,No religion,Married,No,Long COVID,2,,,20260909003
+1211,22,Female,No religion,Single,No,None,4,,,20260909003
+1212,29,Female,Not answered,Single,Yes,None,3,,,20260909003
+1213,37,Female,No religion,Married,No,Had COVID,3,,,20260909003
+1214,27,Female,No religion,Married,Yes,Had COVID,4,1,Scientific Rationalism,20260909003
+1215,67,Male,No religion,Widowed,No,Had COVID,4,,,20260909003
+1216,85,Female,No religion,Divorced,No,Had COVID,1,,,20260909003
+1217,38,Male,Christian,Married,No,None,3,,,20260909003
+1218,62,Female,No religion,Widowed,No,None,4,,,20260909003
+1219,35,Female,Muslim,Married,No,None,1,4,Conspiracy Ideation,20260909003
+1220,25,Female,No religion,Single,No,Had COVID,2,,,20260909003
+1221,60,Female,No religion,Married,No,Had COVID,1,,,20260909003
+1222,37,Male,Christian,Married,No,None,4,,,20260909003
+1223,58,Male,Sikh,Divorced,No,Had COVID,3,,,20260909003
+1224,62,Male,No religion,Married,No,None,1,,,20260909003
+1225,70,Male,Christian,Widowed,No,None,4,4,Conspiracy Ideation,20260909003
+1226,80,Female,Buddhist,Widowed,No,Bereaved,4,,,20260909003
+1227,46,Male,Christian,Married,Yes,None,1,4,Conspiracy Ideation,20260909003
+1228,26,Female,No religion,Single,No,Had COVID,3,3,Communitarianism,20260909003
+1229,65,Male,No religion,Married,No,Had COVID,2,,,20260909003
+1230,21,Female,Christian,Single,No,Had COVID,2,,,20260909003
+1231,53,Male,Christian,Separated,No,Had COVID,1,,,20260909003
+1232,75,Female,Christian,Married,No,None,2,,,20260909003
+1233,55,Female,No religion,Married,No,Bereaved,2,,,20260909003
+1234,52,Male,No religion,Married,No,None,3,,,20260909003
+1235,47,Male,Muslim,Married,Yes,Had COVID,4,,,20260909003
+1236,65,Female,Not answered,Divorced,No,Had COVID,1,,,20260909003
+1237,60,Female,Christian,Married,Yes,None,3,,,20260909003
+1238,60,Female,Christian,Divorced,No,Had COVID,1,,,20260909003
+1239,48,Male,Christian,Married,No,Had COVID,4,,,20260909003
+1240,58,Female,No religion,Married,No,None,3,,,20260909003
+1241,69,Female,Christian,Married,No,Long COVID,2,,,20260909003
+1242,71,Male,No religion,Married,No,None,1,3,Communitarianism,20260909003
+1243,33,Female,Christian,Married,No,Had COVID,2,,,20260909003
+1244,41,Female,Other religion,Married,No,Bereaved,2,,,20260909003
+1245,59,Female,Christian,Single,No,None,3,,,20260909003
+1246,44,Female,Muslim,Married,Yes,None,4,,,20260909003
+1247,52,Female,No religion,Married,No,Bereaved,2,,,20260909003
+1248,65,Female,Christian,Widowed,No,Had COVID,3,,,20260909003
+1249,44,Female,No religion,Married,No,Had COVID,3,,,20260909003
+1250,44,Male,No religion,Married,No,Long COVID,2,,,20260909003
+1251,46,Female,No religion,Married,Yes,None,4,,,20260909003
+1252,22,Male,No religion,Single,No,Long COVID,4,,,20260909003
+1253,26,Male,Christian,Divorced,No,None,1,,,20260909003
+1254,48,Male,Christian,Single,No,None,2,,,20260909003
+1255,60,Female,No religion,Married,No,None,1,,,20260909003
+1256,73,Female,Christian,Widowed,No,None,1,,,20260909003
+1257,34,Male,Christian,Single,Yes,None,2,,,20260909003
+1258,64,Male,Not answered,Married,No,None,4,,,20260909003
+1259,20,Female,Christian,Single,No,Long COVID,1,,,20260909003
+1260,27,Female,Christian,Married,Yes,Bereaved,3,,,20260909003
+1261,64,Female,Christian,Married,No,Long COVID,4,,,20260909003
+1262,72,Male,Christian,Married,No,None,4,1,Scientific Rationalism,20260909003
+1263,45,Male,No religion,Separated,Yes,None,1,,,20260909003
+1264,22,Female,No religion,Single,No,None,1,,,20260909003
+1265,31,Male,Christian,Single,No,None,3,,,20260909003
+1266,37,Female,Christian,Married,Yes,None,4,,,20260909003
+1267,37,Female,No religion,Married,Yes,None,1,,,20260909003
+1268,25,Male,Christian,Single,No,None,3,,,20260909003
+1269,18,Male,Christian,Single,No,None,4,,,20260909003
+1270,90,Male,No religion,Married,No,Bereaved,2,,,20260909003
+1271,76,Male,No religion,Married,No,Had COVID,2,,,20260909003
+1272,49,Female,Christian,Single,No,Had COVID,3,,,20260909003
+1273,61,Male,Muslim,Married,No,None,2,,,20260909003
+1274,43,Female,No religion,Single,Yes,None,2,,,20260909003
+1275,32,Female,No religion,Single,Yes,Had COVID,1,,,20260909003
+1276,90,Female,Christian,Married,No,Had COVID,3,,,20260909003
+1277,57,Female,Christian,Married,No,Had COVID,3,,,20260909003
+1278,38,Male,No religion,Married,No,Had COVID,2,,,20260909003
+1279,45,Male,Not answered,Married,No,Had COVID,1,,,20260909003
+1280,75,Female,No religion,Single,No,Had COVID,2,,,20260909003
+1281,45,Male,Not answered,Single,Yes,Had COVID,1,,,20260909003
+1282,27,Male,No religion,Single,Yes,None,2,,,20260909003
+1283,53,Male,No religion,Married,No,Had COVID,3,5,Institutional Trust and Technocratic Governance,20260909003
+1284,43,Female,Christian,Divorced,No,None,2,,,20260909003
+1285,40,Female,Christian,Married,Yes,Bereaved,2,,,20260909003
+1286,51,Male,Christian,Married,No,None,2,,,20260909003
+1287,56,Female,Christian,Married,No,None,4,,,20260909003
+1288,59,Female,No religion,Married,No,Had COVID,1,,,20260909003
+1289,77,Male,Other religion,Married,No,Had COVID,3,,,20260909003
+1290,31,Female,No religion,Divorced,No,None,1,,,20260909003
+1291,79,Female,Muslim,Married,No,None,3,,,20260909003
+1292,86,Male,Hindu,Widowed,No,Had COVID,1,,,20260909003
+1293,61,Female,Other religion,Married,No,None,1,,,20260909003
+1294,42,Female,Christian,Single,No,None,1,,,20260909003
+1295,81,Female,Christian,Widowed,No,None,2,,,20260909003
+1296,18,Male,Not answered,Single,No,None,2,,,20260909003
+1297,46,Female,Christian,Married,No,Bereaved,3,,,20260909003
+1298,71,Female,No religion,Married,No,None,3,5,Institutional Trust and Technocratic Governance,20260909003
+1299,34,Female,No religion,Single,No,None,3,,,20260909003
+1300,27,Female,Christian,Married,No,None,4,,,20260909003
+1301,35,Male,Muslim,Single,Yes,Had COVID,1,,,20260909003
+1302,47,Male,No religion,Married,No,Long COVID,3,,,20260909003
+1303,27,Female,Christian,Single,No,Had COVID,4,,,20260909003
+1304,32,Female,No religion,Single,No,None,3,,,20260909003
+1305,29,Male,No religion,Single,No,None,3,,,20260909003
+1306,63,Male,Other religion,Single,No,None,2,,,20260909003
+1307,78,Female,No religion,Widowed,No,None,3,,,20260909003
+1308,49,Female,No religion,Married,Yes,None,4,,,20260909003
+1309,67,Male,No religion,Single,No,Bereaved,2,,,20260909003
+1310,29,Male,Christian,Single,No,Bereaved,4,,,20260909003
+1311,51,Female,No religion,Married,No,None,3,,,20260909003
+1312,68,Female,No religion,Single,No,Had COVID,1,,,20260909003
+1313,40,Male,No religion,Single,No,Had COVID,4,,,20260909003
+1314,70,Male,Christian,Married,No,Bereaved,2,,,20260909003
+1315,33,Male,Muslim,Single,No,Had COVID,2,,,20260909003
+1316,59,Female,Christian,Married,No,Had COVID,4,,,20260909003
+1317,73,Male,Christian,Widowed,No,None,4,,,20260909003
+1318,26,Male,No religion,Married,No,Had COVID,1,,,20260909003
+1319,54,Male,Christian,Divorced,No,Bereaved,3,,,20260909003
+1320,43,Male,Christian,Single,No,None,2,,,20260909003
+1321,32,Male,Christian,Single,No,None,3,,,20260909003
+1322,20,Male,Christian,Married,No,Had COVID,2,,,20260909003
+1323,36,Male,Christian,Single,Yes,Bereaved,4,,,20260909003
+1324,39,Female,No religion,Single,No,Had COVID,4,,,20260909003
+1325,83,Male,No religion,Married,No,None,2,,,20260909003
+1326,41,Male,Christian,Single,No,Had COVID,1,,,20260909003
+1327,51,Female,Christian,Widowed,No,None,1,,,20260909003
+1328,78,Female,Christian,Widowed,No,None,4,,,20260909003
+1329,68,Male,Not answered,Married,No,Bereaved,1,,,20260909003
+1330,69,Female,No religion,Widowed,No,None,1,,,20260909003
+1331,41,Female,No religion,Married,Yes,None,4,,,20260909003
+1332,80,Female,No religion,Married,No,None,3,,,20260909003
+1333,68,Male,No religion,Married,No,None,2,,,20260909003
+1334,57,Male,No religion,Married,No,None,4,,,20260909003
+1335,42,Male,Christian,Divorced,No,Bereaved,3,,,20260909003
+1336,18,Female,Hindu,Single,No,None,1,,,20260909003
+1337,50,Male,No religion,Divorced,No,None,2,,,20260909003
+1338,54,Female,No religion,Married,No,Bereaved,3,,,20260909003
+1339,58,Male,No religion,Divorced,No,Long COVID,2,,,20260909003
+1340,55,Female,Christian,Widowed,No,Had COVID,2,,,20260909003
+1341,69,Male,Muslim,Widowed,No,None,3,,,20260909003
+1342,37,Female,Christian,Married,No,Long COVID,2,,,20260909003
+1343,47,Female,No religion,Single,Yes,None,3,,,20260909003
+1344,47,Male,No religion,Married,Yes,Had COVID,2,,,20260909003
+1345,39,Male,No religion,Married,Yes,Had COVID,4,,,20260909003
+1346,58,Male,No religion,Divorced,No,Bereaved,2,,,20260909003
+1347,53,Female,No religion,Married,No,None,3,,,20260909003
+1348,21,Male,Christian,Single,No,None,1,5,Institutional Trust and Technocratic Governance,20260909003
+1349,56,Male,Christian,Separated,No,Had COVID,4,,,20260909003
+1350,32,Male,Muslim,Single,No,Had COVID,2,,,20260909003
+1351,70,Male,No religion,Widowed,No,None,3,,,20260909003
+1352,52,Female,No religion,Married,No,Had COVID,1,,,20260909003
+1353,18,Male,No religion,Single,No,Had COVID,1,,,20260909003
+1354,26,Female,Christian,Single,No,Had COVID,4,,,20260909003
+1355,24,Male,Hindu,Single,No,None,4,,,20260909003
+1356,56,Female,Christian,Divorced,Yes,None,4,,,20260909003
+1357,54,Female,Muslim,Married,No,None,2,,,20260909003
+1358,25,Male,No religion,Married,No,None,1,,,20260909003
+1359,60,Male,No religion,Married,No,None,2,4,Conspiracy Ideation,20260909003
+1360,35,Female,Christian,Married,Yes,None,4,,,20260909003
+1361,61,Male,No religion,Married,No,None,4,,,20260909003
+1362,67,Male,No religion,Married,Yes,None,4,,,20260909003
+1363,78,Male,Christian,Married,No,Had COVID,4,2,Libertarianism,20260909003
+1364,63,Female,Christian,Divorced,No,None,3,,,20260909003
+1365,72,Female,Christian,Married,No,None,4,,,20260909003
+1366,83,Female,No religion,Widowed,No,Bereaved,3,,,20260909003
+1367,35,Male,Christian,Married,Yes,None,4,,,20260909003
+1368,32,Female,No religion,Married,Yes,None,1,,,20260909003
+1369,71,Male,Hindu,Married,No,None,4,,,20260909003
+1370,54,Female,Christian,Married,Yes,Had COVID,3,,,20260909003
+1371,30,Female,No religion,Single,No,Long COVID,3,,,20260909003
+1372,43,Female,Christian,Separated,Yes,None,4,,,20260909003
+1373,34,Female,Not answered,Single,Yes,Had COVID,3,,,20260909003
+1374,81,Male,Christian,Married,No,None,4,,,20260909003
+1375,83,Female,Christian,Widowed,No,Had COVID,4,,,20260909003
+1376,51,Female,Christian,Married,No,None,2,,,20260909003
+1377,55,Male,No religion,Married,No,Had COVID,2,2,Libertarianism,20260909003
+1378,70,Female,Christian,Widowed,No,None,1,,,20260909003
+1379,42,Male,Christian,Married,No,None,2,,,20260909003
+1380,34,Female,Jewish,Single,No,None,3,,,20260909003
+1381,47,Male,Christian,Married,Yes,None,3,,,20260909003
+1382,90,Female,Christian,Married,No,Had COVID,1,,,20260909003
+1383,85,Female,No religion,Widowed,No,Had COVID,2,,,20260909003
+1384,89,Female,Christian,Divorced,No,None,3,,,20260909003
+1385,65,Female,No religion,Married,No,Long COVID,4,4,Conspiracy Ideation,20260909003
+1386,62,Female,No religion,Married,No,Had COVID,2,,,20260909003
+1387,25,Female,Christian,Single,No,None,1,,,20260909003
+1388,55,Female,No religion,Separated,No,Long COVID,3,,,20260909003
+1389,19,Female,Christian,Single,No,None,1,,,20260909003
+1390,23,Male,Muslim,Single,No,Had COVID,3,,,20260909003
+1391,87,Female,Christian,Widowed,No,None,2,,,20260909003
+1392,29,Female,Christian,Single,No,Bereaved,4,,,20260909003
+1393,43,Male,No religion,Single,Yes,None,2,,,20260909003
+1394,78,Female,Buddhist,Married,No,None,1,,,20260909003
+1395,83,Female,No religion,Married,No,None,3,,,20260909003
+1396,32,Male,Christian,Single,No,Had COVID,3,,,20260909003
+1397,71,Female,Christian,Single,No,None,3,,,20260909003
+1398,60,Male,Christian,Married,No,None,3,,,20260909003
+1399,80,Female,Christian,Married,No,None,4,,,20260909003
+1400,55,Male,Not answered,Married,No,Had COVID,4,2,Libertarianism,20260909003
+1401,18,Male,Christian,Single,No,Bereaved,1,,,20260909003
+1402,60,Female,Not answered,Married,No,None,1,2,Libertarianism,20260909003
+1403,59,Female,Christian,Married,No,None,1,,,20260909003
+1404,53,Male,Muslim,Divorced,No,None,4,,,20260909003
+1405,87,Male,Muslim,Married,No,None,4,,,20260909003
+1406,24,Female,No religion,Single,Yes,Had COVID,1,,,20260909003
+1407,40,Male,Christian,Single,Yes,None,1,,,20260909003
+1408,60,Female,Not answered,Married,No,Had COVID,2,,,20260909003
+1409,55,Male,Christian,Married,No,Had COVID,4,,,20260909003
+1410,27,Male,No religion,Single,No,Had COVID,1,,,20260909003
+1411,71,Female,No religion,Married,No,None,4,,,20260909003
+1412,35,Male,Christian,Married,No,Bereaved,4,,,20260909003
+1413,64,Female,Christian,Married,No,Had COVID,3,,,20260909003
+1414,45,Male,No religion,Married,No,Had COVID,3,,,20260909003
+1415,54,Female,Christian,Separated,No,None,1,,,20260909003
+1416,29,Male,Christian,Widowed,No,Had COVID,3,,,20260909003
+1417,37,Male,Christian,Single,No,Bereaved,4,,,20260909003
+1418,28,Male,No religion,Married,Yes,Had COVID,4,4,Conspiracy Ideation,20260909003
+1419,90,Female,Sikh,Widowed,No,Bereaved,1,,,20260909003
+1420,87,Male,No religion,Married,No,Had COVID,4,,,20260909003
+1421,56,Female,Christian,Divorced,No,Had COVID,1,,,20260909003
+1422,33,Female,Christian,Single,No,Bereaved,3,,,20260909003
+1423,43,Female,Not answered,Married,Yes,None,1,,,20260909003
+1424,68,Male,Christian,Divorced,No,Had COVID,1,2,Libertarianism,20260909003
+1425,58,Female,Other religion,Divorced,No,None,3,,,20260909003
+1426,32,Male,No religion,Single,Yes,None,2,,,20260909003
+1427,22,Female,No religion,Single,No,Had COVID,1,,,20260909003
+1428,45,Female,No religion,Single,No,Long COVID,2,,,20260909003
+1429,48,Male,No religion,Separated,No,Bereaved,4,,,20260909003
+1430,76,Female,Christian,Divorced,No,None,1,,,20260909003
+1431,24,Male,Not answered,Single,No,Bereaved,3,,,20260909003
+1432,65,Male,No religion,Widowed,No,None,1,,,20260909003
+1433,37,Female,No religion,Divorced,No,Had COVID,4,,,20260909003
+1434,29,Female,Christian,Single,No,None,2,,,20260909003
+1435,48,Female,Christian,Married,Yes,Bereaved,1,,,20260909003
+1436,63,Female,Christian,Widowed,No,None,2,,,20260909003
+1437,27,Female,Christian,Single,No,Bereaved,3,1,Scientific Rationalism,20260909003
+1438,35,Female,No religion,Married,Yes,None,3,,,20260909003
+1439,27,Female,Christian,Single,No,None,3,,,20260909003
+1440,82,Male,Christian,Married,No,None,1,,,20260909003
+1441,27,Female,Christian,Single,No,None,2,4,Conspiracy Ideation,20260909003
+1442,29,Male,Christian,Single,No,Had COVID,2,,,20260909003
+1443,22,Male,Christian,Single,Yes,Bereaved,3,,,20260909003
+1444,32,Female,Christian,Married,Yes,Had COVID,1,,,20260909003
+1445,86,Female,Sikh,Married,No,None,4,,,20260909003
+1446,21,Female,Christian,Single,No,None,4,,,20260909003
+1447,42,Male,Christian,Married,Yes,Had COVID,1,,,20260909003
+1448,62,Female,No religion,Married,No,Had COVID,1,,,20260909003
+1449,54,Female,Christian,Married,No,None,2,,,20260909003
+1450,37,Female,No religion,Single,Yes,Had COVID,4,,,20260909003
+1451,26,Male,Christian,Single,No,Bereaved,1,1,Scientific Rationalism,20260909003
+1452,27,Male,Christian,Married,No,Had COVID,4,,,20260909003
+1453,51,Female,Other religion,Married,No,Had COVID,4,,,20260909003
+1454,59,Male,No religion,Married,No,Had COVID,2,,,20260909003
+1455,31,Male,Christian,Single,No,None,2,,,20260909003
+1456,33,Female,No religion,Single,Yes,Had COVID,4,,,20260909003
+1457,27,Male,Muslim,Married,Yes,Had COVID,3,,,20260909003
+1458,33,Male,No religion,Married,No,Had COVID,3,,,20260909003
+1459,53,Female,Muslim,Married,No,None,4,,,20260909003
+1460,71,Female,Muslim,Widowed,No,Had COVID,2,,,20260909003
+1461,72,Male,Christian,Married,No,None,4,,,20260909003
+1462,48,Male,Christian,Married,No,None,3,,,20260909003
+1463,20,Female,Christian,Single,No,Bereaved,3,4,Conspiracy Ideation,20260909003
+1464,90,Female,Not answered,Married,No,None,1,,,20260909003
+1465,20,Male,Christian,Single,No,Bereaved,3,,,20260909003
+1466,52,Male,Christian,Divorced,No,Had COVID,4,,,20260909003
+1467,79,Male,Christian,Married,No,Bereaved,3,,,20260909003
+1468,30,Female,Not answered,Single,Yes,None,2,2,Libertarianism,20260909003
+1469,62,Male,No religion,Married,No,None,3,,,20260909003
+1470,48,Female,No religion,Divorced,Yes,Long COVID,4,,,20260909003
+1471,63,Male,No religion,Married,No,None,4,,,20260909003
+1472,70,Male,Christian,Married,No,Had COVID,3,,,20260909003
+1473,74,Male,No religion,Married,No,Bereaved,4,,,20260909003
+1474,41,Female,Christian,Single,No,None,1,,,20260909003
+1475,70,Male,No religion,Widowed,No,Had COVID,4,,,20260909003
+1476,76,Male,No religion,Married,No,Had COVID,4,,,20260909003
+1477,71,Male,Christian,Widowed,No,Had COVID,1,,,20260909003
+1478,65,Male,Christian,Single,No,Had COVID,1,,,20260909003
+1479,33,Male,No religion,Married,Yes,Had COVID,1,,,20260909003
+1480,18,Female,Christian,Single,No,None,4,,,20260909003
+1481,77,Female,Christian,Single,No,Bereaved,1,,,20260909003
+1482,52,Female,Christian,Divorced,No,None,3,,,20260909003
+1483,69,Male,No religion,Widowed,No,Had COVID,1,,,20260909003
+1484,48,Female,Christian,Married,No,Had COVID,2,,,20260909003
+1485,59,Male,No religion,Divorced,No,None,3,,,20260909003
+1486,43,Female,Christian,Married,Yes,None,2,,,20260909003
+1487,40,Female,Christian,Married,Yes,Bereaved,3,,,20260909003
+1488,79,Male,No religion,Married,No,Bereaved,4,,,20260909003
+1489,76,Female,Christian,Married,No,Had COVID,3,,,20260909003
+1490,60,Female,No religion,Married,No,None,2,,,20260909003
+1491,61,Male,Christian,Married,No,None,4,2,Libertarianism,20260909003
+1492,90,Male,Christian,Divorced,No,Had COVID,4,,,20260909003
+1493,59,Male,Christian,Married,No,Bereaved,2,,,20260909003
+1494,88,Female,Other religion,Widowed,No,None,4,,,20260909003
+1495,66,Male,Muslim,Married,No,Had COVID,2,,,20260909003
+1496,56,Female,Christian,Married,No,Had COVID,2,,,20260909003
+1497,87,Female,Christian,Widowed,No,Bereaved,1,,,20260909003
+1498,18,Male,Hindu,Single,No,Had COVID,1,,,20260909003
+1499,66,Male,Christian,Widowed,No,None,1,,,20260909003
+1500,52,Female,Christian,Single,No,None,4,,,20260909003
+1501,21,Female,Not answered,Single,No,Bereaved,2,,,20260909003
+1502,31,Female,No religion,Single,Yes,None,2,,,20260909003
+1503,44,Female,No religion,Single,Yes,None,1,,,20260909003
+1504,86,Female,Christian,Married,No,None,1,4,Conspiracy Ideation,20260909003
+1505,42,Female,Christian,Married,No,None,3,,,20260909003
+1506,32,Male,Christian,Married,Yes,Had COVID,2,,,20260909003
+1507,44,Male,Christian,Married,No,None,3,,,20260909003
+1508,30,Female,Christian,Single,No,None,3,,,20260909003
+1509,58,Female,No religion,Married,No,Long COVID,3,,,20260909003
+1510,82,Male,Christian,Divorced,No,None,3,,,20260909003
+1511,74,Male,Christian,Married,No,Bereaved,2,,,20260909003
+1512,55,Male,No religion,Married,No,None,1,,,20260909003
+1513,34,Female,No religion,Married,Yes,Long COVID,2,,,20260909003
+1514,70,Male,Not answered,Divorced,No,None,1,,,20260909003
+1515,28,Female,Sikh,Single,No,None,1,,,20260909003
+1516,23,Female,Christian,Single,No,Had COVID,4,,,20260909003
+1517,65,Female,No religion,Married,No,None,4,5,Institutional Trust and Technocratic Governance,20260909003
+1518,60,Male,No religion,Divorced,Yes,None,1,,,20260909003
+1519,71,Male,Christian,Married,No,None,4,,,20260909003
+1520,43,Female,Christian,Married,Yes,Had COVID,2,,,20260909003
+1521,22,Female,Christian,Single,No,Had COVID,2,3,Communitarianism,20260909003
+1522,50,Male,Christian,Married,No,Had COVID,2,,,20260909003
+1523,27,Female,Christian,Single,No,Had COVID,3,,,20260909003
+1524,65,Female,Muslim,Divorced,No,Had COVID,1,,,20260909003
+1525,33,Male,Hindu,Widowed,No,None,3,,,20260909003
+1526,75,Male,Christian,Married,No,Had COVID,2,,,20260909003
+1527,46,Female,Christian,Divorced,No,Had COVID,1,,,20260909003
+1528,75,Female,Christian,Widowed,No,Had COVID,2,,,20260909003
+1529,50,Male,No religion,Married,No,Had COVID,1,,,20260909003
+1530,65,Female,Christian,Widowed,No,Bereaved,3,,,20260909003
+1531,29,Female,No religion,Single,Yes,None,2,,,20260909003
+1532,61,Male,Christian,Divorced,No,None,1,,,20260909003
+1533,55,Female,Muslim,Married,No,None,4,,,20260909003
+1534,77,Female,Christian,Married,No,Had COVID,3,,,20260909003
+1535,19,Male,Christian,Single,No,None,1,,,20260909003
+1536,57,Female,Christian,Single,No,Had COVID,1,,,20260909003
+1537,56,Female,Muslim,Married,No,Bereaved,1,5,Institutional Trust and Technocratic Governance,20260909003
+1538,50,Male,No religion,Widowed,No,None,4,,,20260909003
+1539,77,Male,Christian,Married,No,None,1,,,20260909003
+1540,75,Male,Christian,Married,No,None,2,,,20260909003
+1541,47,Male,No religion,Married,Yes,None,4,,,20260909003
+1542,32,Male,Christian,Married,Yes,Bereaved,4,,,20260909003
+1543,30,Female,Christian,Single,Yes,None,4,,,20260909003
+1544,40,Male,Christian,Married,No,Had COVID,1,,,20260909003
+1545,62,Male,Muslim,Separated,No,None,1,,,20260909003
+1546,42,Male,No religion,Single,No,None,2,,,20260909003
+1547,55,Male,No religion,Married,No,None,3,,,20260909003
+1548,24,Male,Not answered,Single,No,None,2,,,20260909003
+1549,45,Female,Christian,Married,No,Bereaved,2,,,20260909003
+1550,18,Female,Not answered,Single,No,Had COVID,4,,,20260909003
+1551,31,Female,Muslim,Single,No,Had COVID,1,,,20260909003
+1552,32,Female,Christian,Single,No,Had COVID,4,,,20260909003
+1553,18,Male,Not answered,Single,No,None,1,,,20260909003
+1554,24,Male,No religion,Single,No,Had COVID,3,,,20260909003
+1555,38,Male,Christian,Married,Yes,Had COVID,3,,,20260909003
+1556,74,Female,No religion,Married,No,None,1,,,20260909003
+1557,75,Male,No religion,Married,No,Had COVID,1,,,20260909003
+1558,36,Female,Christian,Married,Yes,Had COVID,2,,,20260909003
+1559,56,Female,Muslim,Married,No,Had COVID,2,,,20260909003
+1560,68,Female,Muslim,Divorced,No,None,4,3,Communitarianism,20260909003
+1561,56,Male,Christian,Married,No,Long COVID,4,,,20260909003
+1562,73,Male,No religion,Widowed,No,None,2,,,20260909003
+1563,62,Male,No religion,Married,No,Had COVID,2,2,Libertarianism,20260909003
+1564,29,Male,No religion,Single,Yes,None,4,,,20260909003
+1565,43,Female,Christian,Married,No,Had COVID,2,,,20260909003
+1566,74,Female,No religion,Widowed,No,Bereaved,3,5,Institutional Trust and Technocratic Governance,20260909003
+1567,69,Female,No religion,Widowed,Yes,None,2,,,20260909003
+1568,82,Female,Christian,Divorced,No,Had COVID,1,3,Communitarianism,20260909003
+1569,60,Female,Christian,Married,No,Had COVID,2,,,20260909003
+1570,26,Male,Christian,Single,No,Had COVID,3,,,20260909003
+1571,29,Male,Christian,Single,No,Bereaved,1,,,20260909003
+1572,32,Female,Christian,Single,No,Had COVID,3,,,20260909003
+1573,73,Female,No religion,Married,No,None,4,,,20260909003
+1574,33,Male,Christian,Single,Yes,Bereaved,3,,,20260909003
+1575,71,Male,No religion,Single,No,Had COVID,4,,,20260909003
+1576,33,Male,No religion,Single,No,None,3,,,20260909003
+1577,79,Female,Not answered,Married,No,None,2,,,20260909003
+1578,39,Female,Not answered,Single,Yes,Had COVID,4,,,20260909003
+1579,47,Female,Sikh,Married,No,Bereaved,4,,,20260909003
+1580,56,Male,Christian,Married,No,None,3,,,20260909003
+1581,19,Female,Christian,Single,No,None,4,,,20260909003
+1582,29,Male,Christian,Single,No,None,4,,,20260909003
+1583,76,Female,Muslim,Married,No,None,1,2,Libertarianism,20260909003
+1584,43,Female,No religion,Divorced,No,Had COVID,4,,,20260909003
+1585,71,Female,Christian,Widowed,No,Had COVID,2,,,20260909003
+1586,31,Female,No religion,Single,Yes,None,1,,,20260909003
+1587,54,Female,Christian,Divorced,No,Had COVID,1,,,20260909003
+1588,83,Male,Muslim,Married,No,Had COVID,1,,,20260909003
+1589,82,Female,Christian,Widowed,No,Had COVID,3,,,20260909003
+1590,65,Male,No religion,Married,No,None,4,,,20260909003
+1591,75,Female,Christian,Single,No,None,4,,,20260909003
+1592,68,Male,Christian,Divorced,No,None,3,,,20260909003
+1593,32,Male,No religion,Single,No,None,3,,,20260909003
+1594,18,Male,Christian,Single,No,None,3,,,20260909003
+1595,63,Male,Christian,Married,No,None,2,,,20260909003
+1596,48,Female,Christian,Married,Yes,Had COVID,1,,,20260909003
+1597,23,Female,Christian,Single,No,None,3,,,20260909003
+1598,44,Male,No religion,Single,Yes,Had COVID,2,,,20260909003
+1599,45,Male,No religion,Married,No,Had COVID,2,,,20260909003
+1600,58,Female,Christian,Married,No,None,3,,,20260909003
+1601,84,Female,Christian,Married,No,Had COVID,1,,,20260909003
+1602,37,Female,Christian,Married,No,Had COVID,4,,,20260909003
+1603,80,Female,Christian,Married,No,Had COVID,1,,,20260909003
+1604,64,Male,Christian,Divorced,No,Had COVID,3,,,20260909003
+1605,53,Male,No religion,Married,No,Bereaved,2,,,20260909003
+1606,82,Female,Christian,Widowed,No,Bereaved,3,,,20260909003
+1607,23,Male,No religion,Married,No,None,3,,,20260909003
+1608,63,Male,Christian,Married,No,Had COVID,1,2,Libertarianism,20260909003
+1609,76,Female,No religion,Widowed,No,Had COVID,2,,,20260909003
+1610,54,Female,Christian,Single,No,Had COVID,4,1,Scientific Rationalism,20260909003
+1611,51,Male,Sikh,Married,No,Bereaved,3,,,20260909003
+1612,32,Male,Christian,Single,Yes,None,4,4,Conspiracy Ideation,20260909003
+1613,72,Male,No religion,Married,No,Bereaved,2,,,20260909003
+1614,60,Female,Christian,Married,No,Long COVID,2,,,20260909003
+1615,30,Female,Christian,Single,No,Had COVID,1,1,Scientific Rationalism,20260909003
+1616,88,Female,Christian,Widowed,No,Had COVID,1,,,20260909003
+1617,18,Female,Christian,Single,No,Bereaved,2,,,20260909003
+1618,27,Male,Christian,Married,Yes,Had COVID,3,,,20260909003
+1619,51,Male,Not answered,Single,No,Bereaved,4,,,20260909003
+1620,28,Female,Christian,Married,No,Had COVID,4,1,Scientific Rationalism,20260909003
+1621,54,Female,No religion,Single,No,Had COVID,1,,,20260909003
+1622,71,Female,No religion,Widowed,No,Bereaved,2,4,Conspiracy Ideation,20260909003
+1623,22,Male,Christian,Single,No,Had COVID,2,,,20260909003
+1624,35,Male,No religion,Single,No,None,1,,,20260909003
+1625,34,Male,No religion,Married,No,Bereaved,4,,,20260909003
+1626,71,Female,No religion,Widowed,No,None,4,,,20260909003
+1627,32,Female,Christian,Single,Yes,Had COVID,3,,,20260909003
+1628,55,Female,Christian,Single,No,None,4,,,20260909003
+1629,64,Male,Muslim,Divorced,No,None,1,,,20260909003
+1630,29,Male,No religion,Single,Yes,Had COVID,2,,,20260909003
+1631,28,Male,Muslim,Single,Yes,Had COVID,2,,,20260909003
+1632,66,Male,Christian,Married,No,None,4,1,Scientific Rationalism,20260909003
+1633,31,Male,Christian,Single,No,Had COVID,4,,,20260909003
+1634,27,Male,Muslim,Single,No,Had COVID,4,,,20260909003
+1635,33,Male,Christian,Single,Yes,Had COVID,2,,,20260909003
+1636,53,Male,Christian,Married,No,None,1,,,20260909003
+1637,65,Male,Christian,Married,No,None,2,,,20260909003
+1638,27,Male,No religion,Single,Yes,Had COVID,2,,,20260909003
+1639,53,Female,Christian,Divorced,No,None,1,,,20260909003
+1640,89,Male,Christian,Married,No,Had COVID,1,,,20260909003
+1641,52,Male,Christian,Single,Yes,Had COVID,3,,,20260909003
+1642,51,Male,Christian,Divorced,Yes,Had COVID,4,,,20260909003
+1643,34,Male,Christian,Single,No,None,2,4,Conspiracy Ideation,20260909003
+1644,29,Female,No religion,Married,No,None,2,,,20260909003
+1645,28,Female,No religion,Single,No,None,2,,,20260909003
+1646,23,Male,Muslim,Single,No,Long COVID,3,,,20260909003
+1647,28,Female,No religion,Single,No,Bereaved,4,,,20260909003
+1648,88,Female,Christian,Married,No,None,1,,,20260909003
+1649,70,Male,Christian,Single,No,Bereaved,1,,,20260909003
+1650,90,Male,Hindu,Married,No,Had COVID,4,4,Conspiracy Ideation,20260909003
+1651,29,Female,No religion,Married,No,None,3,,,20260909003
+1652,55,Male,No religion,Married,No,Had COVID,3,,,20260909003
+1653,42,Female,Christian,Married,No,None,3,,,20260909003
+1654,85,Female,Christian,Widowed,No,Had COVID,3,,,20260909003
+1655,62,Male,No religion,Divorced,No,None,2,2,Libertarianism,20260909003
+1656,19,Female,Christian,Single,No,None,4,,,20260909003
+1657,53,Female,Muslim,Single,No,None,2,,,20260909003
+1658,50,Male,No religion,Single,No,Bereaved,2,,,20260909003
+1659,57,Female,No religion,Married,Yes,None,3,,,20260909003
+1660,19,Male,No religion,Single,No,Had COVID,2,,,20260909003
+1661,67,Male,Christian,Married,No,Had COVID,1,,,20260909003
+1662,58,Female,Hindu,Married,Yes,Had COVID,3,,,20260909003
+1663,55,Female,Not answered,Married,No,None,1,3,Communitarianism,20260909003
+1664,47,Female,Christian,Married,No,None,2,,,20260909003
+1665,53,Female,No religion,Married,Yes,None,4,,,20260909003
+1666,26,Female,No religion,Single,No,Had COVID,4,,,20260909003
+1667,33,Female,Christian,Married,No,Had COVID,3,2,Libertarianism,20260909003
+1668,28,Male,Christian,Married,Yes,None,1,,,20260909003
+1669,36,Male,Christian,Married,Yes,Had COVID,2,,,20260909003
+1670,55,Male,No religion,Divorced,No,Had COVID,4,,,20260909003
+1671,72,Male,No religion,Married,No,None,2,,,20260909003
+1672,82,Female,No religion,Widowed,No,Bereaved,3,,,20260909003
+1673,60,Female,Muslim,Single,No,Had COVID,4,,,20260909003
+1674,34,Male,Buddhist,Separated,Yes,Had COVID,2,,,20260909003
+1675,68,Male,No religion,Married,No,Had COVID,1,,,20260909003
+1676,32,Male,Christian,Single,No,Had COVID,1,,,20260909003
+1677,39,Male,Muslim,Married,Yes,Had COVID,2,,,20260909003
+1678,85,Male,No religion,Divorced,No,None,4,,,20260909003
+1679,43,Male,Sikh,Married,Yes,Had COVID,3,,,20260909003
+1680,66,Female,No religion,Divorced,No,Bereaved,2,2,Libertarianism,20260909003
+1681,23,Male,No religion,Single,No,Had COVID,1,,,20260909003
+1682,88,Female,No religion,Separated,No,None,2,,,20260909003
+1683,26,Female,No religion,Married,No,None,1,,,20260909003
+1684,58,Female,Christian,Married,Yes,Long COVID,1,,,20260909003
+1685,47,Female,Muslim,Single,Yes,Had COVID,4,,,20260909003
+1686,58,Male,Christian,Divorced,No,Had COVID,4,,,20260909003
+1687,37,Female,No religion,Married,Yes,Had COVID,3,,,20260909003
+1688,68,Female,Christian,Divorced,No,None,4,4,Conspiracy Ideation,20260909003
+1689,82,Male,Christian,Widowed,No,Had COVID,2,,,20260909003
+1690,47,Female,Christian,Married,No,Long COVID,1,,,20260909003
+1691,73,Female,Not answered,Widowed,No,Had COVID,3,,,20260909003
+1692,64,Male,Muslim,Married,No,None,1,,,20260909003
+1693,30,Female,No religion,Married,No,Had COVID,2,,,20260909003
+1694,61,Male,Sikh,Married,No,Had COVID,4,,,20260909003
+1695,60,Male,Christian,Married,No,None,2,,,20260909003
+1696,90,Female,No religion,Divorced,No,Had COVID,3,,,20260909003
+1697,53,Male,No religion,Married,No,Had COVID,4,,,20260909003
+1698,44,Male,Christian,Divorced,No,None,2,,,20260909003
+1699,47,Male,Christian,Married,Yes,Bereaved,1,,,20260909003
+1700,90,Female,Not answered,Single,No,None,1,,,20260909003
+1701,39,Female,Christian,Married,Yes,None,2,,,20260909003
+1702,56,Female,Christian,Divorced,Yes,Had COVID,1,,,20260909003
+1703,30,Female,Christian,Widowed,No,Long COVID,4,4,Conspiracy Ideation,20260909003
+1704,60,Male,Hindu,Married,No,Had COVID,4,,,20260909003
+1705,39,Female,Christian,Single,Yes,Had COVID,2,,,20260909003
+1706,43,Male,Christian,Married,No,Had COVID,1,,,20260909003
+1707,60,Male,No religion,Married,Yes,None,2,,,20260909003
+1708,59,Female,No religion,Married,No,Bereaved,1,,,20260909003
+1709,39,Female,Christian,Married,Yes,Long COVID,2,,,20260909003
+1710,60,Female,Christian,Married,No,None,3,1,Scientific Rationalism,20260909003
+1711,38,Female,No religion,Married,No,Had COVID,4,,,20260909003
+1712,56,Male,Christian,Married,No,Had COVID,3,,,20260909003
+1713,90,Male,No religion,Single,No,None,3,,,20260909003
+1714,34,Female,Christian,Married,No,Had COVID,2,,,20260909003
+1715,66,Male,No religion,Married,No,Had COVID,2,4,Conspiracy Ideation,20260909003
+1716,35,Male,Jewish,Married,No,Bereaved,1,,,20260909003
+1717,55,Female,Christian,Separated,Yes,Had COVID,3,,,20260909003
+1718,52,Male,No religion,Married,No,Had COVID,3,,,20260909003
+1719,52,Female,No religion,Married,No,None,4,,,20260909003
+1720,78,Male,Muslim,Married,No,None,3,,,20260909003
+1721,24,Male,No religion,Married,Yes,None,2,,,20260909003
+1722,18,Female,Christian,Single,No,Had COVID,3,,,20260909003
+1723,43,Female,Christian,Married,No,None,2,,,20260909003
+1724,41,Male,Christian,Married,No,None,3,,,20260909003
+1725,46,Female,Christian,Married,Yes,Bereaved,2,,,20260909003
+1726,45,Male,No religion,Married,No,None,3,,,20260909003
+1727,25,Female,Christian,Single,No,Long COVID,4,,,20260909003
+1728,31,Female,Christian,Single,No,None,3,,,20260909003
+1729,70,Female,Not answered,Widowed,No,None,1,,,20260909003
+1730,38,Male,No religion,Married,No,Had COVID,2,,,20260909003
+1731,50,Female,Sikh,Married,No,Had COVID,4,,,20260909003
+1732,64,Female,Not answered,Widowed,No,None,1,,,20260909003
+1733,52,Male,No religion,Married,Yes,None,4,,,20260909003
+1734,74,Female,Christian,Married,No,Had COVID,2,,,20260909003
+1735,48,Male,Christian,Single,Yes,Bereaved,1,,,20260909003
+1736,40,Male,Christian,Married,No,Had COVID,1,,,20260909003
+1737,42,Female,No religion,Single,No,Had COVID,4,,,20260909003
+1738,53,Male,No religion,Married,No,Bereaved,3,,,20260909003
+1739,64,Male,Hindu,Single,No,None,2,,,20260909003
+1740,22,Male,No religion,Single,No,None,3,,,20260909003
+1741,30,Female,Hindu,Single,No,Bereaved,1,5,Institutional Trust and Technocratic Governance,20260909003
+1742,26,Female,No religion,Single,No,None,3,,,20260909003
+1743,65,Female,Muslim,Married,No,None,3,,,20260909003
+1744,64,Male,Christian,Married,No,Long COVID,1,,,20260909003
+1745,42,Male,Christian,Married,Yes,None,2,,,20260909003
+1746,51,Female,Christian,Married,No,Had COVID,1,,,20260909003
+1747,28,Female,No religion,Married,Yes,Had COVID,1,,,20260909003
+1748,39,Male,Christian,Married,Yes,Long COVID,1,,,20260909003
+1749,56,Male,Christian,Married,No,None,1,,,20260909003
+1750,21,Female,Christian,Divorced,No,None,2,,,20260909003
+1751,51,Female,No religion,Married,No,Had COVID,2,,,20260909003
+1752,57,Male,Muslim,Married,No,None,4,,,20260909003
+1753,55,Male,No religion,Married,No,None,1,,,20260909003
+1754,18,Female,Christian,Single,No,None,2,,,20260909003
+1755,65,Female,Christian,Married,No,None,1,,,20260909003
+1756,72,Female,No religion,Widowed,No,Had COVID,3,,,20260909003
+1757,60,Male,Christian,Married,Yes,None,4,,,20260909003
+1758,32,Male,No religion,Married,No,Had COVID,1,4,Conspiracy Ideation,20260909003
+1759,55,Female,Christian,Married,No,Bereaved,3,,,20260909003
+1760,26,Female,Other religion,Single,No,None,1,,,20260909003
+1761,25,Male,Christian,Divorced,Yes,Bereaved,4,,,20260909003
+1762,26,Female,Not answered,Single,No,None,4,5,Institutional Trust and Technocratic Governance,20260909003
+1763,26,Male,Sikh,Single,No,Had COVID,1,,,20260909003
+1764,54,Female,Christian,Single,No,None,2,,,20260909003
+1765,52,Female,Christian,Single,No,None,3,,,20260909003
+1766,45,Male,No religion,Single,Yes,None,3,,,20260909003
+1767,19,Male,No religion,Single,No,None,1,,,20260909003
+1768,45,Male,Christian,Single,Yes,Bereaved,2,,,20260909003
+1769,56,Female,No religion,Divorced,No,Bereaved,2,,,20260909003
+1770,33,Female,Buddhist,Single,No,None,2,,,20260909003
+1771,19,Male,No religion,Single,No,Had COVID,4,,,20260909003
+1772,55,Female,Christian,Divorced,No,Long COVID,4,,,20260909003
+1773,20,Male,Christian,Single,No,Bereaved,3,,,20260909003
+1774,64,Female,No religion,Married,No,Had COVID,2,,,20260909003
+1775,67,Female,Christian,Widowed,No,None,1,,,20260909003
+1776,64,Male,Sikh,Married,No,Had COVID,4,,,20260909003
+1777,50,Female,Christian,Married,No,None,4,,,20260909003
+1778,58,Female,Christian,Widowed,No,None,3,,,20260909003
+1779,75,Male,Christian,Widowed,No,Bereaved,1,,,20260909003
+1780,24,Male,No religion,Single,No,None,4,1,Scientific Rationalism,20260909003
+1781,87,Female,Christian,Divorced,No,None,4,,,20260909003
+1782,73,Male,Christian,Single,No,Had COVID,2,,,20260909003
+1783,20,Female,Christian,Single,No,Bereaved,1,,,20260909003
+1784,44,Male,Muslim,Single,No,Had COVID,2,,,20260909003
+1785,46,Male,No religion,Single,No,Had COVID,4,,,20260909003
+1786,56,Female,No religion,Divorced,No,Had COVID,3,,,20260909003
+1787,42,Female,Christian,Married,Yes,Had COVID,3,,,20260909003
+1788,58,Male,Christian,Married,No,Had COVID,2,,,20260909003
+1789,58,Male,Christian,Separated,No,None,2,,,20260909003
+1790,22,Male,Christian,Single,No,Had COVID,1,,,20260909003
+1791,37,Male,Christian,Single,No,None,2,,,20260909003
+1792,70,Male,Christian,Married,No,None,2,,,20260909003
+1793,57,Male,Christian,Divorced,No,Had COVID,1,,,20260909003
+1794,33,Female,Not answered,Married,Yes,Had COVID,3,,,20260909003
+1795,66,Female,No religion,Widowed,No,None,2,,,20260909003
+1796,35,Female,Christian,Married,No,Had COVID,4,,,20260909003
+1797,37,Male,No religion,Married,Yes,None,2,,,20260909003
+1798,72,Female,Not answered,Divorced,No,Had COVID,3,,,20260909003
+1799,55,Male,Not answered,Separated,Yes,None,4,,,20260909003
+1800,43,Male,Christian,Married,No,Long COVID,3,,,20260909003
+1801,36,Female,No religion,Single,Yes,Had COVID,4,,,20260909003
+1802,66,Male,Christian,Married,No,None,1,,,20260909003
+1803,79,Male,Christian,Married,No,None,2,3,Communitarianism,20260909003
+1804,27,Female,Not answered,Married,No,Bereaved,3,,,20260909003
+1805,60,Male,Christian,Married,No,Long COVID,4,,,20260909003
+1806,79,Male,Christian,Married,No,Bereaved,3,,,20260909003
+1807,59,Male,Muslim,Married,No,Had COVID,3,,,20260909003
+1808,52,Male,Not answered,Divorced,No,Had COVID,2,,,20260909003
+1809,65,Female,Christian,Divorced,No,None,1,,,20260909003
+1810,43,Female,No religion,Married,Yes,Had COVID,4,,,20260909003
+1811,54,Female,Christian,Separated,No,Had COVID,2,,,20260909003
+1812,90,Female,Muslim,Married,No,None,3,,,20260909003
+1813,21,Male,Christian,Single,No,None,3,1,Scientific Rationalism,20260909003
+1814,77,Male,Christian,Divorced,No,None,2,,,20260909003
+1815,51,Male,No religion,Married,No,Long COVID,1,,,20260909003
+1816,27,Female,Christian,Divorced,No,None,1,4,Conspiracy Ideation,20260909003
+1817,25,Male,Christian,Single,Yes,None,3,,,20260909003
+1818,75,Male,Christian,Widowed,No,None,2,,,20260909003
+1819,61,Female,Christian,Married,No,None,2,,,20260909003
+1820,24,Male,Christian,Single,No,Bereaved,2,,,20260909003
+1821,24,Male,Christian,Single,No,Had COVID,2,,,20260909003
+1822,27,Male,Christian,Single,No,None,3,,,20260909003
+1823,77,Male,Christian,Widowed,No,Had COVID,3,5,Institutional Trust and Technocratic Governance,20260909003
+1824,25,Male,No religion,Single,Yes,Bereaved,1,,,20260909003
+1825,46,Female,Christian,Single,No,Had COVID,2,,,20260909003
+1826,32,Male,Christian,Single,Yes,Had COVID,3,,,20260909003
+1827,65,Female,Christian,Widowed,No,Had COVID,1,,,20260909003
+1828,64,Male,No religion,Divorced,Yes,Had COVID,4,,,20260909003
+1829,77,Female,No religion,Divorced,No,Had COVID,2,,,20260909003
+1830,53,Male,No religion,Married,Yes,Had COVID,4,2,Libertarianism,20260909003
+1831,34,Female,Christian,Single,Yes,None,1,,,20260909003
+1832,45,Female,Christian,Single,Yes,None,3,,,20260909003
+1833,48,Female,Christian,Married,No,None,4,,,20260909003
+1834,49,Male,Not answered,Single,No,Had COVID,3,1,Scientific Rationalism,20260909003
+1835,25,Female,No religion,Married,No,Had COVID,3,,,20260909003
+1836,41,Female,Muslim,Married,No,Long COVID,3,,,20260909003
+1837,77,Female,Christian,Married,Yes,Bereaved,2,,,20260909003
+1838,50,Male,Not answered,Married,No,None,4,,,20260909003
+1839,63,Female,Muslim,Married,No,None,4,,,20260909003
+1840,42,Male,No religion,Married,Yes,Had COVID,3,2,Libertarianism,20260909003
+1841,73,Female,Christian,Divorced,No,Bereaved,3,,,20260909003
+1842,53,Female,No religion,Married,Yes,Had COVID,1,,,20260909003
+1843,41,Female,No religion,Married,Yes,Had COVID,1,,,20260909003
+1844,74,Male,Not answered,Married,No,None,4,,,20260909003
+1845,90,Female,Not answered,Widowed,No,Had COVID,1,,,20260909003
+1846,18,Female,No religion,Single,No,None,4,,,20260909003
+1847,81,Female,No religion,Married,No,None,3,,,20260909003
+1848,22,Male,Muslim,Single,No,None,4,,,20260909003
+1849,38,Female,Christian,Married,Yes,None,1,,,20260909003
+1850,48,Male,No religion,Married,No,Bereaved,2,,,20260909003
+1851,86,Female,Christian,Married,No,Had COVID,4,,,20260909003
+1852,24,Male,Christian,Single,No,None,1,,,20260909003
+1853,79,Male,Christian,Widowed,No,None,2,,,20260909003
+1854,53,Male,No religion,Married,No,Bereaved,2,,,20260909003
+1855,82,Male,Christian,Married,No,Had COVID,3,,,20260909003
+1856,29,Male,Christian,Single,No,Bereaved,1,,,20260909003
+1857,52,Male,Christian,Single,No,Had COVID,2,,,20260909003
+1858,29,Male,No religion,Single,Yes,None,3,,,20260909003
+1859,78,Female,No religion,Married,No,Had COVID,4,2,Libertarianism,20260909003
+1860,48,Female,Christian,Married,No,None,4,,,20260909003
+1861,63,Male,Christian,Single,No,Bereaved,2,,,20260909003
+1862,89,Male,Christian,Married,No,None,1,,,20260909003
+1863,43,Female,No religion,Divorced,Yes,Long COVID,3,,,20260909003
+1864,53,Male,Christian,Married,No,None,1,,,20260909003
+1865,49,Female,Christian,Married,No,Had COVID,4,,,20260909003
+1866,52,Female,No religion,Married,No,Had COVID,2,,,20260909003
+1867,49,Female,Christian,Married,No,None,3,,,20260909003
+1868,77,Female,Christian,Divorced,No,Had COVID,4,,,20260909003
+1869,23,Female,Christian,Single,No,Had COVID,4,,,20260909003
+1870,35,Female,Christian,Single,No,None,1,,,20260909003
+1871,85,Male,Christian,Married,No,None,4,,,20260909003
+1872,43,Male,No religion,Single,Yes,None,2,,,20260909003
+1873,66,Male,Christian,Married,No,None,2,,,20260909003
+1874,48,Female,Christian,Single,No,Had COVID,3,,,20260909003
+1875,65,Female,Muslim,Widowed,No,Had COVID,4,,,20260909003
+1876,33,Male,No religion,Single,Yes,None,3,,,20260909003
+1877,39,Female,No religion,Married,No,None,2,,,20260909003
+1878,80,Female,Christian,Widowed,No,Bereaved,1,,,20260909003
+1879,38,Male,Hindu,Married,No,Had COVID,3,,,20260909003
+1880,33,Male,Muslim,Single,Yes,Had COVID,3,,,20260909003
+1881,61,Male,Christian,Married,No,None,3,,,20260909003
+1882,40,Male,No religion,Married,No,None,1,,,20260909003
+1883,24,Female,Not answered,Single,No,None,3,,,20260909003
+1884,90,Female,No religion,Widowed,No,None,3,5,Institutional Trust and Technocratic Governance,20260909003
+1885,41,Female,No religion,Married,Yes,None,2,,,20260909003
+1886,78,Female,Christian,Widowed,No,None,2,,,20260909003
+1887,29,Male,Christian,Single,No,None,1,,,20260909003
+1888,18,Male,Christian,Single,No,None,3,,,20260909003
+1889,35,Male,Hindu,Married,No,Bereaved,4,,,20260909003
+1890,34,Female,Christian,Married,Yes,None,4,,,20260909003
+1891,76,Male,Christian,Married,No,Had COVID,1,,,20260909003
+1892,76,Male,Christian,Widowed,No,Bereaved,4,,,20260909003
+1893,70,Female,No religion,Widowed,No,None,4,2,Libertarianism,20260909003
+1894,69,Female,Muslim,Widowed,No,None,1,,,20260909003
+1895,20,Male,Christian,Single,No,Had COVID,4,,,20260909003
+1896,68,Male,No religion,Married,No,None,4,,,20260909003
+1897,56,Male,No religion,Married,No,None,3,,,20260909003
+1898,30,Male,Christian,Single,No,None,3,,,20260909003
+1899,29,Female,Christian,Single,No,None,2,,,20260909003
+1900,32,Female,Christian,Single,No,None,3,,,20260909003
+1901,33,Female,No religion,Divorced,No,Had COVID,3,,,20260909003
+1902,24,Female,Christian,Single,No,None,3,,,20260909003
+1903,61,Female,Christian,Single,Yes,Bereaved,3,,,20260909003
+1904,59,Female,No religion,Single,No,None,3,,,20260909003
+1905,56,Female,Muslim,Married,No,Had COVID,1,1,Scientific Rationalism,20260909003
+1906,49,Female,No religion,Divorced,No,Had COVID,4,,,20260909003
+1907,73,Male,Not answered,Divorced,No,Bereaved,3,,,20260909003
+1908,51,Female,Christian,Married,No,None,1,,,20260909003
+1909,23,Male,Christian,Single,Yes,None,1,,,20260909003
+1910,38,Female,Christian,Divorced,Yes,Had COVID,1,,,20260909003
+1911,79,Female,Not answered,Married,No,Bereaved,3,,,20260909003
+1912,64,Female,Christian,Single,No,None,2,,,20260909003
+1913,40,Female,No religion,Married,Yes,Bereaved,2,,,20260909003
+1914,62,Male,No religion,Single,No,None,2,,,20260909003
+1915,22,Male,No religion,Single,No,Had COVID,1,,,20260909003
+1916,88,Male,Muslim,Married,No,Bereaved,1,,,20260909003
+1917,33,Male,No religion,Married,Yes,Had COVID,2,,,20260909003
+1918,52,Male,No religion,Married,No,None,2,,,20260909003
+1919,57,Male,No religion,Divorced,No,Had COVID,2,,,20260909003
+1920,39,Female,Christian,Married,No,Had COVID,3,,,20260909003
+1921,55,Female,Christian,Separated,No,None,2,,,20260909003
+1922,58,Male,No religion,Married,No,None,4,,,20260909003
+1923,62,Female,No religion,Divorced,No,None,1,,,20260909003
+1924,35,Male,Hindu,Married,Yes,None,2,,,20260909003
+1925,61,Male,No religion,Married,No,Had COVID,1,,,20260909003
+1926,33,Male,Christian,Single,No,None,1,,,20260909003
+1927,38,Male,Muslim,Married,No,Bereaved,4,,,20260909003
+1928,36,Female,No religion,Divorced,No,Had COVID,2,,,20260909003
+1929,72,Female,Christian,Married,No,Had COVID,2,,,20260909003
+1930,69,Female,Christian,Divorced,No,None,3,,,20260909003
+1931,82,Female,Muslim,Single,No,Had COVID,1,,,20260909003
+1932,61,Male,Not answered,Married,No,Bereaved,1,,,20260909003
+1933,40,Female,Christian,Married,Yes,None,4,,,20260909003
+1934,59,Female,No religion,Single,No,Bereaved,1,,,20260909003
+1935,85,Male,Christian,Widowed,No,Had COVID,1,,,20260909003
+1936,42,Female,Christian,Divorced,Yes,Had COVID,3,,,20260909003
+1937,78,Female,Christian,Widowed,Yes,Had COVID,2,,,20260909003
+1938,39,Male,No religion,Married,No,Had COVID,2,,,20260909003
+1939,60,Female,No religion,Separated,No,Had COVID,1,,,20260909003
+1940,67,Female,No religion,Separated,No,Had COVID,3,,,20260909003
+1941,48,Female,No religion,Married,No,Had COVID,2,,,20260909003
+1942,31,Male,No religion,Married,No,Had COVID,3,,,20260909003
+1943,20,Female,No religion,Single,No,Had COVID,1,,,20260909003
+1944,56,Female,No religion,Married,No,Had COVID,1,,,20260909003
+1945,62,Male,No religion,Widowed,No,Had COVID,3,,,20260909003
+1946,77,Male,Christian,Divorced,No,Had COVID,3,,,20260909003
+1947,32,Female,Christian,Single,No,None,3,,,20260909003
+1948,56,Male,No religion,Single,Yes,None,1,,,20260909003
+1949,74,Female,No religion,Married,No,Had COVID,1,,,20260909003
+1950,59,Male,No religion,Married,No,None,2,,,20260909003
+1951,50,Male,Hindu,Married,Yes,None,3,,,20260909003
+1952,31,Female,No religion,Widowed,No,Had COVID,3,,,20260909003
+1953,39,Male,No religion,Married,Yes,Bereaved,4,4,Conspiracy Ideation,20260909003
+1954,28,Female,Christian,Married,No,Long COVID,1,,,20260909003
+1955,52,Female,Hindu,Divorced,No,None,1,2,Libertarianism,20260909003
+1956,57,Male,Christian,Married,No,Had COVID,4,,,20260909003
+1957,85,Male,No religion,Divorced,No,Had COVID,2,,,20260909003
+1958,31,Male,No religion,Married,No,Had COVID,4,,,20260909003
+1959,65,Male,Christian,Married,Yes,Had COVID,2,,,20260909003
+1960,48,Male,No religion,Married,No,Had COVID,1,,,20260909003
+1961,70,Female,Christian,Widowed,No,None,3,4,Conspiracy Ideation,20260909003
+1962,63,Female,Christian,Widowed,No,None,3,,,20260909003
+1963,33,Male,No religion,Single,No,Bereaved,3,,,20260909003
+1964,55,Male,No religion,Single,No,None,1,,,20260909003
+1965,22,Female,Christian,Single,No,Had COVID,1,,,20260909003
+1966,90,Female,Christian,Married,No,Had COVID,1,,,20260909003
+1967,34,Male,Not answered,Widowed,No,Had COVID,4,,,20260909003
+1968,78,Female,No religion,Married,No,Bereaved,2,,,20260909003
+1969,43,Male,Christian,Single,No,Had COVID,1,,,20260909003
+1970,43,Female,Christian,Married,Yes,Bereaved,3,,,20260909003
+1971,75,Female,No religion,Married,No,None,1,4,Conspiracy Ideation,20260909003
+1972,28,Female,No religion,Divorced,No,Had COVID,3,,,20260909003
+1973,48,Male,No religion,Separated,No,None,3,,,20260909003
+1974,37,Female,Christian,Married,Yes,Had COVID,1,,,20260909003
+1975,85,Female,No religion,Married,No,Had COVID,4,,,20260909003
+1976,42,Female,Christian,Married,No,Had COVID,3,,,20260909003
+1977,71,Male,No religion,Married,No,Had COVID,3,,,20260909003
+1978,25,Female,Not answered,Single,No,Bereaved,4,,,20260909003
+1979,20,Male,Christian,Widowed,Yes,Had COVID,1,,,20260909003
+1980,30,Male,Muslim,Married,Yes,None,1,,,20260909003
+1981,30,Male,No religion,Single,Yes,Had COVID,1,,,20260909003
+1982,30,Male,No religion,Married,No,None,4,,,20260909003
+1983,90,Female,Christian,Widowed,No,None,1,,,20260909003
+1984,31,Male,No religion,Married,Yes,None,1,,,20260909003
+1985,37,Female,Christian,Married,Yes,Had COVID,3,,,20260909003
+1986,46,Male,No religion,Separated,No,None,2,,,20260909003
+1987,62,Male,No religion,Divorced,No,Bereaved,1,,,20260909003
+1988,40,Male,Hindu,Married,Yes,Bereaved,4,,,20260909003
+1989,82,Female,No religion,Widowed,Yes,None,4,4,Conspiracy Ideation,20260909003
+1990,46,Female,Not answered,Separated,No,None,3,,,20260909003
+1991,24,Female,Muslim,Single,Yes,Bereaved,2,,,20260909003
+1992,57,Female,Muslim,Separated,No,Bereaved,1,,,20260909003
+1993,64,Female,Christian,Married,No,None,4,,,20260909003
+1994,22,Male,Christian,Single,No,Bereaved,1,,,20260909003
+1995,87,Male,Christian,Single,No,None,2,,,20260909003
+1996,46,Female,Christian,Divorced,No,Bereaved,2,,,20260909003
+1997,26,Male,Muslim,Single,Yes,Had COVID,2,5,Institutional Trust and Technocratic Governance,20260909003
+1998,77,Male,Christian,Single,No,Had COVID,1,,,20260909003
+1999,42,Male,Christian,Separated,Yes,Had COVID,2,1,Scientific Rationalism,20260909003
+2000,20,Male,No religion,Single,No,None,4,,,20260909003

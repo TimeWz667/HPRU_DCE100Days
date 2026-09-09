@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "generated_date": "2026-09-09",
+    "update_date": "2026-09-09",
+    "source": "UK literature synthesis (94+ studies, LSHTM VCP) + HPRU research (2024-2026)",
+    "hpru_integration": "v1.0 - Added equity-driven disparities, healthcare provider perspectives, communication effectiveness, and intervention evidence from HPRU Immunisation and Evaluation & Behavioural Science units",
+    "n_clusters": 5,
+    "design_note": "Five-cluster schema selected for reproducibility and coverage of key ideological drivers of compliance/non-compliance across vaccination and public health measures. Norms sourced to empirical literature; HPRU findings add structural barriers and intervention effectiveness evidence. Version 2.0 incorporates HPRU research on inequalities, provider recommendations, and communication strategies."
+  },
+  "ideologies": [
+    {
+      "ideology_id": 1,
+      "name": "Scientific Rationalism",
+      "core_belief": "Scientific expertise, empirical evidence, and institutional science provide reliable truth; the scientific method is superior to alternative epistemologies and should guide policy decisions on health matters.",
+      "description": "Those oriented toward scientific rationalism prioritise evidence-based reasoning and trust expert consensus. They frame public health measures as justified when supported by epidemiological evidence and view vaccination as a proven intervention. They evaluate others' compliance through a scientific lens, viewing non-compliance as irrational or dangerous. Notably, they respond well to honest uncertainty acknowledgment and reject overconfident messaging.",
+      "descriptive_norms": [
+        "People like me believe that most others in my community understand that vaccines are based on established scientific evidence and respect the scientific consensus (Sturgis et al., 2021: aggregate societal trust in science amplifies individual vaccination acceptance).",
+        "People like me think that most others accept government guidance when it is clearly explained using expert evidence, data, and humour that engages rather than lectures (HPRU systematic review: humour + scientific consensus messaging more effective than formal, overconfident communication; scare tactics backfire)."
+      ],
+      "injunctive_norms": [
+        "People like me believe it is right to follow expert guidance and respect scientific consensus, particularly from healthcare professionals, whilst expecting honest acknowledgment of uncertainty and evidence limitations (Health Promotion International: 'Information seekers' profile with highest compliance cite trust in expert sources; HPRU: overconfident messaging undermines credibility).",
+        "People like me think others approve of vaccinating when framed as evidence-based and disapprove of spreading misinformation, but also approve of researchers who acknowledge what we don't yet know (Sturgis et al., 2021: social consensus about scientific trustworthiness; HPRU: misinformation warnings and pre-inoculation more effective than debunking alone)."
+      ],
+      "duration_response": "Scientific rationalists maintain compliance throughout prolonged restrictions if evidence base remains credible, is communicated clearly, and honest uncertainty is acknowledged. Compliance erodes rapidly if guidance becomes overconfident, contradictory, or diverges from available evidence. HPRU research emphasises that scientific credibility depends on avoiding scare tactics and acknowledging limitations—trust is maintained when evidence is presented humbly."
+    },
+    {
+      "ideology_id": 2,
+      "name": "Libertarianism",
+      "core_belief": "Individual liberty, personal autonomy, and freedom from state coercion are paramount values. Government intervention in medical decisions and personal behaviour should be minimal, justified only when direct harm to others is demonstrable and less restrictive alternatives are unavailable.",
+      "description": "Libertarian-oriented individuals resist restrictions framed as mandates or constraints on freedom of movement and bodily autonomy, independent of their own risk perception or belief in COVID danger. They frame vaccination mandates and lockdowns as illegitimate government overreach. They are more lenient in judging rule-breakers who resist restrictions, viewing non-compliance as justified resistance to state power rather than selfishness. Structural barriers to vaccination (cost, access constraints) may paradoxically increase resistance if perceived as government control mechanisms.",
+      "descriptive_norms": [
+        "People like me believe that most others in my community value personal freedom and resent government restrictions on movement and activities, even when framed as temporary (anti-lockdown protest research: libertarian framing of lockdowns as 'tyranny' vs. 'freedom' unified diverse protesters).",
+        "People like me think that most others like me would resist mask mandates, isolation requirements, and vaccination mandates as infringements on autonomy, regardless of efficacy evidence. However, I might accept vaccines if they are easily affordable and accessible—removing barriers makes them appear voluntary rather than coercive (King's College London: libertarian ideology dominant in anti-lockdown activism; HPRU: affordability improvements may reduce perception of coercion)."
+      ],
+      "injunctive_norms": [
+        "People like me believe it is right to prioritise individual choice and bodily autonomy, and that mandates—even well-intentioned ones—are inherently problematic (anti-lockdown protest research: protesters emphasise 'freedom' and 'medical autonomy' as moral imperatives).",
+        "People like me think others approve of questioning government authority and resisting restrictions framed as mandates, and approve of those who seek information from diverse sources rather than trusting single institutions (Harper & Rhodes, 2023: liberty-focused moral values predict lenient judgments of rule-breakers; HPRU: respondents value access to community-co-designed rather than top-down messaging)."
+      ],
+      "duration_response": "Libertarians' non-compliance with mandates is stable and independent of restrictions' duration or perceived necessity, rooted in principled opposition to state authority. Compliance may increase if measures are framed as temporary with explicit sunset clauses, positioned as optional/voluntary, or emphasise individual choice in decision-making. HPRU evidence suggests affordability and convenience improvements (reducing perception of coercion/access barriers) may paradoxically increase uptake by reframing vaccines as empowering individual choice rather than government imposition."
+    },
+    {
+      "ideology_id": 3,
+      "name": "Communitarianism",
+      "core_belief": "Collective welfare, social responsibility, and community protection are paramount values. Individual actions should be subordinated to the common good; mutual obligation and in-group protection are moral imperatives.",
+      "description": "Communitarian-oriented individuals accept restrictions and vaccination as collective responsibilities for protecting vulnerable others. They respond strongly to messaging emphasising social responsibility, mutual obligation, and protection of the elderly or immunocompromised. They actively and harshly judge rule-breakers as exploiting collective sacrifice and betraying community obligation. Community-co-designed messaging and participatory approaches (rather than top-down campaigns) resonate particularly strongly, activating both collective protection and shared voice values.",
+      "descriptive_norms": [
+        "People like me believe that most others in my community understand we have a shared responsibility to protect each other and vulnerable members, and that vaccination and preventative behaviour protect those around us (UK qualitative studies: vaccination accepters frequently cite 'social responsibility' and 'protecting others' as primary motivation).",
+        "People like me think most others like me would accept restrictions and vaccinate when approached through community involvement and co-design—when local voices help shape solutions rather than distant authorities imposing them (HPRU HPV vaccination: co-design with ethnically diverse parents more effective; COMMUNICATE films approach involving community in resource development)."
+      ],
+      "injunctive_norms": [
+        "People like me believe it is right to prioritise collective welfare and mutual protection, and that vaccination and compliance represent moral obligations to community. Equally, I believe communities have the right to participate in designing health interventions affecting them (Sturgis et al., 2021: social consensus mechanisms; HPRU: co-design with target communities is ethical imperative and empirically effective).",
+        "People like me think others approve of those who vaccinate and comply as responsible community members protecting vulnerable populations. I also believe others approve of involving community voices in designing messaging—respecting people's expertise about their own needs—rather than experts dictating solutions (Health Promotion International: collective threat perception; HPRU COMMUNICATE films approach)."
+      ],
+      "duration_response": "Communitarians maintain compliance throughout prolonged restrictions if framing emphasises ongoing collective vulnerability or mutual obligation, and if community voices remain central to decision-making. HPRU evidence shows that community co-design maintains legitimacy and trust better than top-down messaging. Compliance erodes if restrictions are perceived as no longer necessary (threat receded), if messaging shifts away from collective protection, or if communities feel excluded from designing solutions. Temporal fatigue occurs when restrictions feel imposed rather than collectively chosen."
+    },
+    {
+      "ideology_id": 4,
+      "name": "Conspiracy Ideation",
+      "core_belief": "Official narratives are systematically deceptive; hidden forces manipulate events; alternative explanations not endorsed by mainstream institutions are often more plausible than officially sanctioned accounts. Institutional claims should be viewed with suspicion unless proven otherwise.",
+      "description": "Those with conspiratorial ideation view public health institutions as corrupted or untrustworthy. They interpret uncertainty in scientific evidence as evidence of deliberate deception rather than normal scientific process. Specific conspiracy narratives (bioweapon origin, pharmaceutical company corruption, government tracking via surveillance) drive non-compliance. Conspiracy ideation functions as an alternative epistemology—providing coherent explanations for confusing phenomena in ways that feel satisfying to believers. Misinformation warnings and pre-inoculation approaches (rather than direct debunking) may be more effective at reducing uptake of false narratives.",
+      "descriptive_norms": [
+        "People like me believe that most others are suspicious of official government and pharmaceutical industry messaging, and that alternative sources (online communities, independent researchers, trusted peers) reveal hidden truths not reported by mainstream media (Conspiracy and compliance research: distrust in scientists and institutions consistent predictor across different conspiracy narratives; HPRU: misinformation warnings show effectiveness, suggesting narrative coherence concerns).",
+        "People like me think that many people like me share concerns about unethical testing targeting minorities, unknown side effects, and government motives behind vaccine programs. I believe that exposing official contradictions or uncertainty is evidence of hidden agendas (Roozenbeek et al., 2020: conspiracy believers show reduced health-protective behaviours; HPRU: overconfident messaging and evasion of uncertainty fuel conspiracy narratives)."
+      ],
+      "injunctive_norms": [
+        "People like me believe it is right to question official narratives and rely on alternative information sources rather than blindly trusting authorities. I see this as intellectual independence and protection against institutional manipulation (anti-lockdown protest research: 'institutions of governance are all corrupted' core belief of protesters).",
+        "People like me think others approve of those who investigate 'hidden truths' and distrust mainstream media and health institutions, and disapprove of blind acceptance of official guidance. I also believe that providing alternative explanations—not just debunking false claims—is what changes minds (HPRU: misinformation warnings and pre-inoculation more effective than corrections alone; conspiracy narratives provide psychological coherence)."
+      ],
+      "duration_response": "Conspiracy believers maintain non-compliance across the full duration of restrictions because their disbelief is not based on threat assessment but on institutional distrust and alternative epistemologies. As restrictions persist, conspiracy narratives evolve (rather than eroding) to explain *why* restrictions continue, generating renewed resistance. HPRU research suggests that misinformation pre-inoculation and acknowledging legitimate uncertainty may reduce narrative adoption more effectively than direct debunking. Compliance increases only if alternative, coherent explanations for public health actions are provided within evidence frameworks that acknowledge legitimate unknowns."
+    },
+    {
+      "ideology_id": 5,
+      "name": "Institutional Trust and Technocratic Governance",
+      "core_belief": "Expert institutions—healthcare, scientific, regulatory—are legitimate authorities whose guidance should be followed. Technocratic solutions and professional expertise are preferable to political decision-making during crises. Trust in institutional competence and professional credibility should shape compliance.",
+      "description": "Those oriented toward technocratic governance prioritise healthcare professional credibility and institutional competence. They compartmentalise trust: healthcare institution trust (NHS, Public Health England) often remains high even when government trust collapses. They respond strongly to messaging from healthcare professionals rather than politicians. They accept measures when framed as expert-guided and proportionate to threat. Critically, HPRU research reveals that institutional messaging effectiveness depends on *provider capacity to recommend*—if healthcare providers lack time, payment incentives, or training, institutional messaging alone is insufficient.",
+      "descriptive_norms": [
+        "People like me believe that most others respect healthcare professionals' guidance and trust the NHS to provide reliable medical information, distinct from government political messaging (Government trust research: trust in healthcare institutions remained relatively stable during pandemic while government trust collapsed; HPRU: healthcare providers' recommendations are trusted even when government messaging is questioned).",
+        "People like me think that most others like me would follow guidance from doctors and nurses when they actively discuss and recommend vaccines—not just make them available. However, if healthcare providers don't recommend vaccines, access barriers exist, or vaccines are unaffordable, I perceive the system as failing us (Health Promotion International: healthcare trust mediated compliance; HPRU: provider barriers and affordability are structural constraints on uptake independent of individual hesitancy)."
+      ],
+      "injunctive_norms": [
+        "People like me believe it is right to respect expert professional judgment and follow guidance from healthcare institutions and trained medical professionals—particularly when professionals actively engage with me about my health conditions (Contact tracing research: NHS-controlled systems preferred; HPRU: active provider recommendation more effective than passive availability).",
+        "People like me think others approve of trusting healthcare professionals and following medical guidance, and disapprove of disrespecting expert opinion. I also believe that healthcare systems have an obligation to ensure providers have capacity, training, and incentives to offer vaccines—not just resources, but active engagement (Mask messaging research: NHS messaging most effective; HPRU: healthcare provider gaps undermine patient trust in institutional messaging)."
+      ],
+      "duration_response": "Technocratically-oriented individuals maintain compliance as long as institutional credibility persists, measures are framed as professional recommendations, and *healthcare providers actively recommend vaccines*. HPRU research reveals that healthcare provider barriers (time, training, payment) are critical: even high-trust patients cannot vaccinate if providers don't recommend. Compliance erodes if healthcare institutional trust declines (through perceived political interference, poor communication, or loss of perceived competence), if access/affordability barriers persist, or if providers lack capacity to recommend. Clear, consistent professional communication extending throughout a prolonged outbreak sustains compliance; institutional credibility loss or provider-side barriers drive non-compliance more than temporal fatigue."
+    }
+  ]
+}

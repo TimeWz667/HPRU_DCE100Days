@@ -1,0 +1,2001 @@
+Age,Sex,Religion
+28,Female,Christian
+52,Female,Christian
+39,Male,Christian
+28,Male,Christian
+41,Male,No religion
+69,Female,No religion
+69,Female,No religion
+19,Male,No religion
+24,Male,Christian
+54,Female,No religion
+51,Female,Muslim
+73,Male,Christian
+62,Male,Christian
+47,Male,No religion
+34,Male,Hindu
+48,Female,Christian
+50,Female,Christian
+52,Female,Christian
+33,Male,Christian
+89,Female,Christian
+38,Male,No religion
+46,Female,Christian
+38,Female,No religion
+34,Female,No religion
+75,Male,Christian
+48,Male,Christian
+59,Female,No religion
+31,Male,No religion
+68,Male,No religion
+42,Female,No religion
+46,Female,Not answered
+23,Female,No religion
+42,Male,No religion
+48,Female,Hindu
+36,Male,Christian
+31,Female,Jewish
+40,Female,No religion
+58,Female,Christian
+29,Male,Christian
+55,Female,Not answered
+73,Female,Not answered
+73,Female,No religion
+29,Female,Christian
+74,Female,Christian
+29,Female,Christian
+18,Male,Christian
+60,Female,Muslim
+41,Female,Not answered
+29,Female,Muslim
+50,Female,Christian
+36,Male,No religion
+35,Male,No religion
+61,Female,Christian
+41,Male,No religion
+67,Male,No religion
+35,Male,Not answered
+61,Female,No religion
+20,Female,No religion
+46,Male,No religion
+27,Female,Christian
+52,Female,Christian
+58,Female,No religion
+53,Male,Christian
+61,Male,Christian
+26,Female,Christian
+28,Female,No religion
+18,Female,No religion
+44,Female,Christian
+72,Female,Muslim
+19,Male,Hindu
+18,Male,No religion
+33,Female,No religion
+59,Male,Muslim
+54,Female,Christian
+46,Female,No religion
+67,Female,Christian
+90,Male,Muslim
+21,Female,Christian
+52,Male,No religion
+54,Female,Christian
+31,Male,Christian
+19,Male,No religion
+53,Female,Christian
+43,Male,Christian
+61,Female,No religion
+24,Male,Christian
+59,Female,Christian
+90,Female,Christian
+67,Female,Christian
+58,Female,Not answered
+63,Male,Christian
+54,Female,Christian
+35,Male,Christian
+40,Male,Not answered
+23,Male,Christian
+53,Female,Christian
+44,Male,Christian
+60,Female,Christian
+29,Male,Christian
+31,Male,No religion
+56,Female,No religion
+51,Female,No religion
+62,Male,Christian
+75,Male,Christian
+57,Male,No religion
+42,Female,No religion
+85,Female,No religion
+40,Female,No religion
+52,Male,No religion
+80,Female,Christian
+60,Female,No religion
+65,Male,Christian
+56,Female,Christian
+68,Male,Christian
+55,Female,Christian
+25,Female,No religion
+19,Male,Christian
+63,Female,Muslim
+67,Female,No religion
+44,Female,No religion
+54,Male,Christian
+37,Male,Christian
+57,Female,Christian
+50,Female,Sikh
+79,Female,No religion
+49,Female,Christian
+41,Male,No religion
+60,Male,Christian
+90,Male,Christian
+68,Female,No religion
+45,Male,No religion
+36,Male,Christian
+65,Male,Not answered
+20,Male,Not answered
+33,Female,Muslim
+65,Male,Muslim
+81,Female,Christian
+61,Female,Muslim
+42,Female,No religion
+48,Male,Christian
+69,Male,Christian
+71,Female,No religion
+26,Male,Christian
+27,Male,No religion
+60,Female,Christian
+27,Male,No religion
+33,Male,No religion
+40,Male,No religion
+66,Female,No religion
+54,Female,Christian
+55,Female,No religion
+40,Female,Christian
+23,Male,Christian
+25,Female,Christian
+82,Female,Christian
+30,Female,No religion
+32,Male,Christian
+40,Male,Christian
+24,Female,Muslim
+78,Male,Christian
+37,Female,No religion
+34,Female,Other religion
+26,Male,Christian
+50,Male,Christian
+63,Male,Christian
+76,Female,Christian
+20,Female,Christian
+63,Female,No religion
+64,Male,No religion
+32,Male,Christian
+30,Male,Christian
+30,Female,Not answered
+33,Female,Christian
+43,Male,Christian
+58,Female,Christian
+67,Male,No religion
+57,Male,No religion
+74,Female,Christian
+62,Male,No religion
+29,Female,Muslim
+42,Male,Not answered
+33,Female,Christian
+84,Female,Other religion
+29,Male,Christian
+34,Female,Muslim
+68,Female,Christian
+39,Male,Christian
+19,Female,No religion
+71,Female,No religion
+30,Female,Christian
+90,Male,Christian
+79,Male,Christian
+54,Male,No religion
+54,Female,Sikh
+75,Female,No religion
+66,Female,Christian
+23,Female,Christian
+40,Female,Christian
+49,Male,Christian
+39,Male,No religion
+83,Male,Christian
+50,Female,No religion
+51,Female,Christian
+73,Female,Christian
+23,Female,No religion
+33,Male,Christian
+82,Male,Christian
+55,Male,No religion
+61,Male,Christian
+39,Female,Christian
+88,Female,Christian
+61,Female,Christian
+57,Male,No religion
+60,Female,Christian
+80,Male,Christian
+55,Female,Christian
+50,Female,No religion
+35,Male,Christian
+56,Female,No religion
+66,Male,Christian
+29,Female,Christian
+19,Male,Christian
+49,Male,Muslim
+73,Female,Christian
+48,Male,Christian
+81,Female,Christian
+35,Male,Jewish
+45,Male,No religion
+20,Female,Christian
+70,Male,Not answered
+30,Male,No religion
+33,Male,No religion
+24,Female,No religion
+58,Male,Christian
+79,Male,Christian
+31,Female,No religion
+76,Male,No religion
+68,Female,Christian
+82,Male,Muslim
+39,Female,No religion
+47,Female,Christian
+26,Male,No religion
+62,Male,No religion
+30,Female,No religion
+41,Female,Christian
+34,Male,No religion
+85,Male,No religion
+23,Male,Christian
+30,Female,Christian
+24,Female,Christian
+45,Female,Not answered
+58,Female,No religion
+90,Female,No religion
+52,Male,No religion
+42,Female,Christian
+22,Male,Christian
+22,Female,No religion
+51,Female,Christian
+58,Male,No religion
+48,Male,Buddhist
+64,Male,Christian
+54,Male,Christian
+37,Female,Christian
+25,Male,Jewish
+87,Female,No religion
+78,Female,Christian
+45,Male,Christian
+41,Female,Christian
+27,Female,No religion
+73,Female,Not answered
+45,Male,No religion
+70,Male,Christian
+70,Female,No religion
+77,Male,Christian
+31,Male,Christian
+27,Male,Christian
+31,Male,Jewish
+47,Male,Christian
+60,Female,No religion
+36,Male,Hindu
+72,Female,Christian
+21,Male,Christian
+34,Female,Christian
+28,Female,Christian
+26,Female,No religion
+48,Male,No religion
+81,Male,Christian
+40,Male,Muslim
+38,Male,No religion
+32,Male,Christian
+43,Female,Christian
+75,Male,Christian
+54,Female,Christian
+79,Male,Not answered
+46,Male,No religion
+44,Female,Christian
+56,Female,No religion
+26,Female,Not answered
+44,Male,No religion
+19,Female,No religion
+68,Female,No religion
+35,Female,Christian
+60,Male,Christian
+62,Male,Christian
+41,Female,No religion
+27,Female,No religion
+22,Male,No religion
+75,Male,Christian
+73,Male,Not answered
+31,Female,No religion
+50,Male,No religion
+33,Female,No religion
+27,Male,Christian
+68,Male,Christian
+90,Female,No religion
+67,Female,Christian
+77,Female,Muslim
+78,Female,Christian
+82,Male,Christian
+77,Male,Not answered
+25,Male,No religion
+51,Male,Christian
+43,Female,Christian
+75,Male,No religion
+19,Female,Christian
+27,Female,No religion
+22,Male,No religion
+65,Male,Christian
+55,Male,Christian
+85,Male,Christian
+49,Female,No religion
+57,Male,Christian
+64,Male,Not answered
+87,Female,Christian
+26,Male,No religion
+49,Male,Christian
+34,Female,Christian
+35,Male,Christian
+47,Female,No religion
+53,Female,No religion
+77,Female,Christian
+75,Male,Christian
+21,Male,Hindu
+28,Male,No religion
+72,Male,Christian
+67,Female,No religion
+22,Male,No religion
+66,Female,Christian
+53,Female,Christian
+22,Male,Christian
+87,Female,Christian
+46,Female,No religion
+62,Female,Christian
+51,Female,No religion
+48,Female,No religion
+21,Female,Christian
+21,Male,Christian
+53,Male,Muslim
+57,Female,No religion
+37,Male,Not answered
+74,Male,No religion
+85,Female,Hindu
+41,Female,Christian
+59,Female,Christian
+42,Male,Christian
+76,Female,Christian
+76,Female,No religion
+52,Female,Hindu
+25,Female,Hindu
+68,Male,No religion
+54,Female,Christian
+54,Female,No religion
+52,Female,No religion
+42,Female,No religion
+18,Male,Christian
+66,Female,No religion
+34,Female,Christian
+82,Male,No religion
+53,Male,No religion
+47,Female,Christian
+90,Male,Christian
+40,Male,Christian
+43,Male,Christian
+47,Female,No religion
+58,Male,No religion
+70,Female,No religion
+43,Female,No religion
+53,Male,Christian
+45,Male,No religion
+62,Male,Christian
+63,Female,Buddhist
+72,Female,No religion
+68,Female,Christian
+72,Female,Christian
+34,Male,Christian
+63,Male,No religion
+29,Female,Christian
+58,Male,No religion
+26,Female,Christian
+75,Male,No religion
+34,Female,No religion
+66,Female,Muslim
+38,Female,Christian
+32,Female,Christian
+58,Female,No religion
+80,Male,Not answered
+44,Male,Christian
+19,Male,No religion
+61,Female,No religion
+41,Female,Christian
+48,Female,Christian
+83,Male,No religion
+56,Female,Christian
+67,Female,No religion
+26,Female,Christian
+65,Female,Christian
+22,Female,No religion
+58,Male,No religion
+37,Male,Christian
+75,Female,Christian
+73,Male,Christian
+56,Female,Christian
+23,Male,Sikh
+28,Female,No religion
+26,Male,Christian
+63,Male,Christian
+75,Male,No religion
+55,Male,No religion
+31,Female,Christian
+65,Male,Christian
+50,Female,Christian
+60,Male,No religion
+80,Female,Christian
+56,Male,No religion
+58,Female,Christian
+18,Male,Christian
+61,Male,Christian
+57,Female,Christian
+74,Male,No religion
+29,Male,Christian
+25,Female,Christian
+74,Male,Christian
+29,Male,Christian
+33,Male,Not answered
+55,Female,Christian
+55,Female,No religion
+57,Male,No religion
+41,Male,No religion
+61,Male,No religion
+70,Female,No religion
+48,Female,Not answered
+53,Female,No religion
+68,Female,No religion
+31,Male,Christian
+44,Male,Christian
+42,Male,No religion
+84,Male,Christian
+31,Male,No religion
+67,Female,No religion
+53,Male,Christian
+56,Male,No religion
+37,Male,Christian
+75,Female,Not answered
+21,Female,Muslim
+18,Female,Christian
+58,Male,Hindu
+85,Male,Christian
+34,Male,Christian
+55,Male,Christian
+31,Male,No religion
+33,Female,Christian
+80,Male,Christian
+45,Male,Christian
+85,Male,Christian
+19,Female,No religion
+55,Male,No religion
+67,Male,No religion
+70,Male,Christian
+34,Male,Christian
+82,Male,Christian
+25,Female,Muslim
+57,Male,Christian
+54,Male,Christian
+63,Female,No religion
+37,Female,Not answered
+65,Male,Christian
+31,Male,No religion
+50,Female,Buddhist
+30,Male,No religion
+37,Male,No religion
+74,Female,Muslim
+53,Male,Christian
+56,Male,Christian
+53,Male,Christian
+31,Female,Christian
+65,Male,No religion
+59,Male,Muslim
+33,Male,Christian
+38,Male,No religion
+45,Male,No religion
+70,Female,No religion
+67,Female,No religion
+47,Female,Christian
+60,Male,No religion
+90,Female,Not answered
+46,Male,Christian
+47,Male,Christian
+20,Male,Muslim
+26,Female,Christian
+43,Female,Christian
+50,Female,Christian
+55,Male,No religion
+43,Female,Christian
+74,Male,No religion
+57,Female,Christian
+47,Male,Christian
+69,Female,Christian
+36,Female,Hindu
+60,Male,Christian
+49,Female,Other religion
+57,Female,No religion
+53,Male,Christian
+63,Female,Christian
+71,Male,Christian
+23,Male,Christian
+30,Female,Muslim
+26,Male,Christian
+40,Female,Christian
+78,Male,No religion
+39,Male,Christian
+44,Female,Hindu
+39,Female,Christian
+80,Female,Christian
+44,Female,Christian
+24,Female,Christian
+25,Male,No religion
+76,Male,No religion
+29,Male,Christian
+24,Male,Christian
+40,Female,Christian
+40,Female,Christian
+54,Male,No religion
+50,Female,Christian
+75,Male,Christian
+69,Male,No religion
+58,Male,No religion
+24,Male,Muslim
+70,Male,Christian
+22,Male,No religion
+44,Male,Muslim
+52,Male,Christian
+46,Female,Christian
+28,Male,No religion
+34,Male,Christian
+77,Female,No religion
+61,Female,Christian
+44,Female,No religion
+20,Male,No religion
+54,Male,Other religion
+59,Female,No religion
+19,Female,No religion
+57,Male,Christian
+20,Female,Not answered
+66,Female,Not answered
+42,Female,Not answered
+31,Male,Muslim
+33,Male,Christian
+35,Male,No religion
+63,Female,Christian
+23,Male,Christian
+77,Male,Christian
+36,Female,Christian
+28,Male,No religion
+30,Female,Christian
+31,Female,No religion
+62,Female,Not answered
+61,Female,No religion
+49,Male,Not answered
+82,Female,No religion
+20,Male,Christian
+54,Female,Christian
+29,Male,Christian
+74,Female,Hindu
+48,Male,No religion
+57,Male,No religion
+58,Female,Christian
+34,Female,No religion
+31,Female,Christian
+77,Male,Not answered
+75,Female,Christian
+67,Female,Christian
+29,Male,Christian
+37,Female,Hindu
+27,Female,Christian
+34,Female,No religion
+52,Male,No religion
+57,Female,Christian
+40,Male,No religion
+86,Male,No religion
+50,Female,Christian
+51,Female,Not answered
+49,Male,Christian
+22,Female,Christian
+59,Female,No religion
+72,Female,Christian
+63,Female,Not answered
+57,Male,Christian
+46,Male,No religion
+73,Female,Christian
+26,Male,No religion
+44,Female,No religion
+24,Male,Christian
+87,Female,Christian
+53,Male,Christian
+43,Female,Christian
+33,Female,Muslim
+90,Female,Christian
+70,Male,No religion
+72,Male,No religion
+67,Female,Christian
+35,Female,No religion
+87,Male,Christian
+28,Male,Christian
+61,Male,No religion
+40,Female,No religion
+30,Male,Christian
+33,Female,Muslim
+62,Male,Other religion
+41,Female,No religion
+42,Female,Christian
+26,Female,No religion
+60,Male,No religion
+38,Female,Christian
+36,Male,Christian
+18,Male,Christian
+54,Male,Christian
+31,Male,No religion
+28,Male,Christian
+38,Male,Christian
+56,Male,Christian
+89,Female,Not answered
+45,Female,No religion
+49,Female,Hindu
+73,Male,Christian
+87,Female,Christian
+55,Female,No religion
+32,Female,Christian
+31,Female,Christian
+49,Male,Christian
+60,Male,Christian
+63,Male,No religion
+32,Female,No religion
+64,Female,Muslim
+81,Female,No religion
+79,Male,Christian
+38,Female,Muslim
+51,Female,Christian
+40,Female,No religion
+36,Male,Christian
+34,Female,Christian
+41,Female,Muslim
+52,Female,No religion
+77,Male,Christian
+64,Female,No religion
+43,Male,Christian
+18,Female,Hindu
+45,Female,No religion
+78,Female,Christian
+83,Female,No religion
+30,Female,Christian
+63,Female,Christian
+62,Male,Christian
+89,Female,Christian
+37,Male,Christian
+45,Female,Muslim
+60,Male,No religion
+56,Male,Not answered
+39,Female,No religion
+40,Female,No religion
+37,Male,No religion
+25,Male,Christian
+55,Female,Muslim
+40,Female,No religion
+47,Female,Christian
+67,Male,Christian
+77,Male,Christian
+32,Male,Not answered
+35,Male,Christian
+31,Female,Christian
+30,Male,No religion
+23,Female,Christian
+90,Female,Christian
+65,Female,Muslim
+42,Male,No religion
+37,Male,No religion
+44,Female,No religion
+29,Male,No religion
+66,Male,No religion
+67,Male,Christian
+65,Male,Not answered
+18,Male,Christian
+39,Male,No religion
+48,Male,Christian
+29,Male,Christian
+60,Female,No religion
+51,Female,Christian
+26,Female,No religion
+22,Male,No religion
+77,Male,Not answered
+23,Female,Not answered
+40,Male,Christian
+58,Male,Christian
+63,Male,No religion
+36,Female,Muslim
+43,Male,Christian
+73,Male,No religion
+58,Male,Christian
+34,Female,Christian
+50,Male,Muslim
+68,Male,Christian
+30,Male,Christian
+21,Female,No religion
+65,Female,No religion
+30,Male,Christian
+22,Female,Muslim
+77,Male,Christian
+27,Female,Christian
+32,Female,Christian
+82,Female,Christian
+67,Female,No religion
+66,Female,No religion
+72,Female,Christian
+34,Female,No religion
+20,Female,Christian
+25,Male,No religion
+19,Male,Christian
+57,Male,Muslim
+75,Female,Sikh
+28,Male,Christian
+58,Male,Christian
+38,Female,Not answered
+48,Male,No religion
+18,Male,Christian
+59,Male,No religion
+57,Male,Christian
+24,Male,Christian
+31,Female,No religion
+68,Male,No religion
+78,Female,No religion
+34,Female,No religion
+83,Female,No religion
+90,Female,Christian
+66,Female,Christian
+53,Female,No religion
+18,Female,Christian
+46,Female,Not answered
+55,Female,Christian
+71,Male,Christian
+74,Male,Christian
+74,Male,Christian
+71,Female,Hindu
+23,Female,No religion
+18,Female,Christian
+53,Female,Christian
+19,Male,Christian
+52,Male,No religion
+41,Male,Christian
+54,Female,No religion
+77,Female,Christian
+56,Female,No religion
+21,Female,No religion
+59,Female,Christian
+29,Male,No religion
+70,Female,Christian
+55,Female,Jewish
+68,Female,Christian
+35,Female,Muslim
+75,Male,No religion
+51,Female,Muslim
+34,Female,Christian
+59,Female,Christian
+21,Male,Christian
+56,Male,No religion
+38,Male,No religion
+80,Male,Christian
+26,Male,No religion
+18,Female,No religion
+23,Female,Christian
+35,Male,Christian
+68,Female,Christian
+59,Female,Christian
+20,Female,Buddhist
+30,Female,Christian
+26,Male,Christian
+62,Male,Not answered
+54,Female,Christian
+48,Male,Christian
+82,Male,Christian
+37,Female,No religion
+48,Male,No religion
+41,Female,Christian
+50,Male,No religion
+57,Female,Christian
+38,Female,Christian
+76,Male,No religion
+90,Female,Christian
+60,Male,No religion
+46,Female,Other religion
+42,Female,No religion
+71,Female,No religion
+80,Male,Christian
+50,Female,Muslim
+24,Male,Muslim
+24,Male,No religion
+55,Male,No religion
+19,Male,No religion
+20,Female,Christian
+77,Female,Christian
+37,Male,No religion
+36,Male,Christian
+21,Female,No religion
+67,Female,Christian
+79,Female,No religion
+90,Male,Not answered
+30,Female,Christian
+85,Female,Christian
+47,Male,Christian
+25,Male,Christian
+78,Female,Christian
+47,Female,Hindu
+60,Female,Christian
+56,Female,Christian
+31,Female,No religion
+57,Female,No religion
+53,Female,Muslim
+35,Male,Christian
+18,Female,Christian
+37,Female,Muslim
+81,Female,Christian
+45,Female,No religion
+37,Male,Christian
+56,Male,No religion
+58,Female,Christian
+48,Female,Not answered
+22,Male,No religion
+73,Male,No religion
+44,Male,Christian
+38,Female,Christian
+56,Male,No religion
+59,Male,Christian
+30,Female,No religion
+36,Male,No religion
+38,Male,Christian
+90,Female,Not answered
+63,Male,No religion
+30,Male,Muslim
+72,Female,Christian
+61,Female,Muslim
+69,Female,Christian
+75,Female,No religion
+58,Male,Christian
+87,Female,Christian
+45,Male,Christian
+42,Female,Muslim
+45,Female,No religion
+32,Female,No religion
+59,Female,No religion
+44,Male,Christian
+32,Female,No religion
+21,Female,Not answered
+26,Female,Christian
+90,Male,Christian
+56,Male,Christian
+66,Female,Christian
+72,Female,Christian
+40,Female,Christian
+36,Male,Christian
+69,Female,Christian
+35,Male,Christian
+52,Female,Christian
+60,Male,Other religion
+35,Male,Sikh
+22,Female,Christian
+68,Male,No religion
+50,Female,Not answered
+66,Male,Muslim
+47,Female,No religion
+83,Female,No religion
+26,Male,Not answered
+46,Female,Christian
+65,Male,Christian
+73,Male,No religion
+48,Female,Christian
+40,Female,No religion
+28,Female,Hindu
+58,Female,Sikh
+32,Female,Not answered
+42,Female,Not answered
+20,Male,No religion
+24,Female,No religion
+42,Female,No religion
+54,Male,Christian
+86,Female,Christian
+18,Female,Christian
+58,Female,Not answered
+78,Male,Christian
+41,Female,Muslim
+74,Female,No religion
+42,Female,Hindu
+67,Male,Christian
+33,Male,No religion
+65,Female,Not answered
+40,Female,Christian
+69,Male,No religion
+80,Female,Muslim
+50,Female,No religion
+49,Female,Muslim
+75,Female,Jewish
+64,Male,No religion
+53,Male,Christian
+66,Female,Hindu
+76,Female,Christian
+58,Male,No religion
+38,Female,Christian
+23,Male,Muslim
+38,Female,No religion
+29,Male,Christian
+23,Male,Christian
+40,Male,Christian
+45,Male,No religion
+43,Female,Christian
+24,Female,Christian
+29,Female,Christian
+23,Female,No religion
+38,Female,No religion
+56,Female,No religion
+22,Female,Christian
+37,Female,No religion
+24,Male,No religion
+62,Female,Muslim
+47,Female,No religion
+58,Female,No religion
+46,Male,Christian
+41,Male,Christian
+57,Male,Not answered
+83,Male,Christian
+57,Male,Christian
+73,Female,Christian
+69,Male,No religion
+36,Male,Not answered
+79,Female,Christian
+36,Female,No religion
+42,Male,Christian
+28,Female,Hindu
+57,Male,Christian
+42,Male,Christian
+33,Male,Christian
+39,Female,No religion
+63,Female,Christian
+82,Female,No religion
+56,Male,Muslim
+55,Male,No religion
+48,Male,Christian
+43,Female,Not answered
+33,Male,Muslim
+68,Male,Christian
+23,Female,Christian
+58,Male,Christian
+26,Female,Christian
+39,Female,No religion
+21,Male,Christian
+43,Female,No religion
+81,Male,No religion
+50,Male,Christian
+74,Male,Muslim
+75,Male,Christian
+85,Female,No religion
+25,Male,No religion
+47,Male,No religion
+73,Male,Christian
+50,Female,No religion
+46,Female,Christian
+70,Female,Christian
+36,Female,No religion
+38,Female,No religion
+42,Male,Christian
+79,Female,No religion
+60,Male,Christian
+63,Male,Sikh
+19,Male,No religion
+63,Male,Christian
+77,Female,Christian
+47,Female,Christian
+25,Female,Christian
+75,Female,Christian
+42,Male,No religion
+62,Female,Other religion
+19,Male,Christian
+71,Male,Hindu
+43,Male,No religion
+54,Male,Muslim
+40,Female,No religion
+21,Male,Christian
+62,Female,No religion
+90,Female,Christian
+34,Female,Muslim
+45,Male,Christian
+53,Female,Christian
+34,Male,No religion
+31,Female,Buddhist
+54,Female,No religion
+57,Male,Christian
+32,Male,Christian
+62,Male,No religion
+55,Female,Not answered
+61,Male,Muslim
+82,Male,Not answered
+58,Female,Not answered
+44,Female,No religion
+71,Female,Christian
+39,Female,No religion
+60,Male,Christian
+31,Male,Muslim
+70,Male,Christian
+78,Male,Christian
+28,Male,No religion
+35,Male,Christian
+40,Female,No religion
+19,Male,Christian
+64,Male,Christian
+31,Female,Christian
+22,Male,No religion
+44,Male,No religion
+70,Female,Christian
+90,Male,Christian
+64,Male,No religion
+70,Female,Christian
+68,Male,Christian
+49,Female,Christian
+50,Female,Christian
+67,Male,Christian
+56,Male,Not answered
+78,Female,Not answered
+39,Female,Not answered
+34,Female,Christian
+61,Female,Muslim
+55,Male,No religion
+45,Male,Christian
+88,Female,Christian
+77,Male,No religion
+47,Female,Christian
+45,Female,Hindu
+78,Female,Christian
+73,Male,No religion
+41,Male,Christian
+50,Female,Christian
+54,Female,Christian
+23,Female,Christian
+65,Male,No religion
+73,Female,No religion
+55,Male,No religion
+60,Male,Christian
+42,Female,No religion
+39,Female,No religion
+61,Female,Sikh
+63,Male,Christian
+56,Male,No religion
+39,Male,No religion
+24,Female,Christian
+25,Male,No religion
+67,Female,Christian
+65,Female,No religion
+48,Female,Christian
+61,Female,Muslim
+71,Male,No religion
+37,Male,No religion
+57,Female,Muslim
+75,Male,Not answered
+45,Female,Christian
+42,Male,No religion
+72,Male,Hindu
+58,Male,Christian
+55,Male,Christian
+21,Female,Christian
+53,Male,Christian
+44,Male,Christian
+59,Male,Christian
+65,Male,Christian
+24,Female,No religion
+38,Female,No religion
+53,Female,No religion
+56,Male,Christian
+21,Male,Muslim
+35,Female,No religion
+64,Male,No religion
+48,Male,Buddhist
+57,Male,No religion
+81,Male,Christian
+60,Female,Christian
+45,Female,Hindu
+43,Male,No religion
+47,Female,Hindu
+84,Male,No religion
+83,Male,Christian
+40,Female,Muslim
+40,Male,Christian
+18,Male,Christian
+57,Male,Christian
+64,Female,Christian
+56,Female,No religion
+24,Female,No religion
+73,Female,Muslim
+35,Male,Christian
+70,Male,No religion
+66,Female,Christian
+61,Male,Christian
+46,Male,Muslim
+90,Male,No religion
+63,Male,Christian
+41,Female,No religion
+28,Female,No religion
+32,Female,Not answered
+38,Male,Christian
+55,Female,No religion
+27,Female,No religion
+38,Male,Hindu
+78,Female,No religion
+35,Female,No religion
+58,Male,Jewish
+76,Male,Christian
+56,Male,No religion
+65,Female,No religion
+21,Male,No religion
+36,Female,No religion
+59,Female,Muslim
+22,Female,Christian
+53,Male,Christian
+71,Female,Not answered
+22,Female,Not answered
+60,Female,Christian
+43,Male,No religion
+59,Male,Christian
+25,Male,No religion
+22,Female,Muslim
+84,Female,Not answered
+44,Male,Christian
+21,Male,Christian
+75,Female,Christian
+31,Male,No religion
+62,Male,No religion
+59,Female,Christian
+19,Female,Muslim
+66,Female,No religion
+70,Female,Christian
+66,Female,Christian
+34,Female,No religion
+48,Male,No religion
+65,Female,No religion
+50,Male,Christian
+58,Male,Muslim
+61,Female,No religion
+20,Male,No religion
+61,Male,No religion
+28,Female,Christian
+47,Female,Christian
+38,Male,No religion
+64,Female,Christian
+20,Male,Christian
+74,Female,Not answered
+21,Female,No religion
+60,Male,Christian
+25,Male,Not answered
+26,Male,No religion
+71,Male,Christian
+18,Female,Christian
+56,Male,No religion
+28,Female,No religion
+38,Male,No religion
+58,Male,Christian
+50,Male,No religion
+59,Male,Christian
+59,Male,Not answered
+21,Male,Buddhist
+25,Female,Sikh
+41,Male,No religion
+36,Female,No religion
+71,Female,Christian
+19,Female,Christian
+70,Female,Not answered
+60,Male,Not answered
+46,Male,No religion
+41,Male,No religion
+55,Female,Christian
+30,Male,Christian
+36,Female,Christian
+50,Female,Christian
+25,Female,No religion
+19,Male,No religion
+63,Male,No religion
+77,Female,No religion
+52,Female,Christian
+82,Female,Christian
+79,Female,Christian
+33,Male,Christian
+33,Male,Christian
+29,Male,Christian
+58,Female,Muslim
+48,Male,Christian
+82,Female,Not answered
+41,Female,No religion
+22,Female,No religion
+29,Female,Not answered
+37,Female,No religion
+27,Female,No religion
+67,Male,No religion
+85,Female,No religion
+38,Male,Christian
+62,Female,No religion
+35,Female,Muslim
+25,Female,No religion
+60,Female,No religion
+37,Male,Christian
+58,Male,Sikh
+62,Male,No religion
+70,Male,Christian
+80,Female,Buddhist
+46,Male,Christian
+26,Female,No religion
+65,Male,No religion
+21,Female,Christian
+53,Male,Christian
+75,Female,Christian
+55,Female,No religion
+52,Male,No religion
+47,Male,Muslim
+65,Female,Not answered
+60,Female,Christian
+60,Female,Christian
+48,Male,Christian
+58,Female,No religion
+69,Female,Christian
+71,Male,No religion
+33,Female,Christian
+41,Female,Other religion
+59,Female,Christian
+44,Female,Muslim
+52,Female,No religion
+65,Female,Christian
+44,Female,No religion
+44,Male,No religion
+46,Female,No religion
+22,Male,No religion
+26,Male,Christian
+48,Male,Christian
+60,Female,No religion
+73,Female,Christian
+34,Male,Christian
+64,Male,Not answered
+20,Female,Christian
+27,Female,Christian
+64,Female,Christian
+72,Male,Christian
+45,Male,No religion
+22,Female,No religion
+31,Male,Christian
+37,Female,Christian
+37,Female,No religion
+25,Male,Christian
+18,Male,Christian
+90,Male,No religion
+76,Male,No religion
+49,Female,Christian
+61,Male,Muslim
+43,Female,No religion
+32,Female,No religion
+90,Female,Christian
+57,Female,Christian
+38,Male,No religion
+45,Male,Not answered
+75,Female,No religion
+45,Male,Not answered
+27,Male,No religion
+53,Male,No religion
+43,Female,Christian
+40,Female,Christian
+51,Male,Christian
+56,Female,Christian
+59,Female,No religion
+77,Male,Other religion
+31,Female,No religion
+79,Female,Muslim
+86,Male,Hindu
+61,Female,Other religion
+42,Female,Christian
+81,Female,Christian
+18,Male,Not answered
+46,Female,Christian
+71,Female,No religion
+34,Female,No religion
+27,Female,Christian
+35,Male,Muslim
+47,Male,No religion
+27,Female,Christian
+32,Female,No religion
+29,Male,No religion
+63,Male,Other religion
+78,Female,No religion
+49,Female,No religion
+67,Male,No religion
+29,Male,Christian
+51,Female,No religion
+68,Female,No religion
+40,Male,No religion
+70,Male,Christian
+33,Male,Muslim
+59,Female,Christian
+73,Male,Christian
+26,Male,No religion
+54,Male,Christian
+43,Male,Christian
+32,Male,Christian
+20,Male,Christian
+36,Male,Christian
+39,Female,No religion
+83,Male,No religion
+41,Male,Christian
+51,Female,Christian
+78,Female,Christian
+68,Male,Not answered
+69,Female,No religion
+41,Female,No religion
+80,Female,No religion
+68,Male,No religion
+57,Male,No religion
+42,Male,Christian
+18,Female,Hindu
+50,Male,No religion
+54,Female,No religion
+58,Male,No religion
+55,Female,Christian
+69,Male,Muslim
+37,Female,Christian
+47,Female,No religion
+47,Male,No religion
+39,Male,No religion
+58,Male,No religion
+53,Female,No religion
+21,Male,Christian
+56,Male,Christian
+32,Male,Muslim
+70,Male,No religion
+52,Female,No religion
+18,Male,No religion
+26,Female,Christian
+24,Male,Hindu
+56,Female,Christian
+54,Female,Muslim
+25,Male,No religion
+60,Male,No religion
+35,Female,Christian
+61,Male,No religion
+67,Male,No religion
+78,Male,Christian
+63,Female,Christian
+72,Female,Christian
+83,Female,No religion
+35,Male,Christian
+32,Female,No religion
+71,Male,Hindu
+54,Female,Christian
+30,Female,No religion
+43,Female,Christian
+34,Female,Not answered
+81,Male,Christian
+83,Female,Christian
+51,Female,Christian
+55,Male,No religion
+70,Female,Christian
+42,Male,Christian
+34,Female,Jewish
+47,Male,Christian
+90,Female,Christian
+85,Female,No religion
+89,Female,Christian
+65,Female,No religion
+62,Female,No religion
+25,Female,Christian
+55,Female,No religion
+19,Female,Christian
+23,Male,Muslim
+87,Female,Christian
+29,Female,Christian
+43,Male,No religion
+78,Female,Buddhist
+83,Female,No religion
+32,Male,Christian
+71,Female,Christian
+60,Male,Christian
+80,Female,Christian
+55,Male,Not answered
+18,Male,Christian
+60,Female,Not answered
+59,Female,Christian
+53,Male,Muslim
+87,Male,Muslim
+24,Female,No religion
+40,Male,Christian
+60,Female,Not answered
+55,Male,Christian
+27,Male,No religion
+71,Female,No religion
+35,Male,Christian
+64,Female,Christian
+45,Male,No religion
+54,Female,Christian
+29,Male,Christian
+37,Male,Christian
+28,Male,No religion
+90,Female,Sikh
+87,Male,No religion
+56,Female,Christian
+33,Female,Christian
+43,Female,Not answered
+68,Male,Christian
+58,Female,Other religion
+32,Male,No religion
+22,Female,No religion
+45,Female,No religion
+48,Male,No religion
+76,Female,Christian
+24,Male,Not answered
+65,Male,No religion
+37,Female,No religion
+29,Female,Christian
+48,Female,Christian
+63,Female,Christian
+27,Female,Christian
+35,Female,No religion
+27,Female,Christian
+82,Male,Christian
+27,Female,Christian
+29,Male,Christian
+22,Male,Christian
+32,Female,Christian
+86,Female,Sikh
+21,Female,Christian
+42,Male,Christian
+62,Female,No religion
+54,Female,Christian
+37,Female,No religion
+26,Male,Christian
+27,Male,Christian
+51,Female,Other religion
+59,Male,No religion
+31,Male,Christian
+33,Female,No religion
+27,Male,Muslim
+33,Male,No religion
+53,Female,Muslim
+71,Female,Muslim
+72,Male,Christian
+48,Male,Christian
+20,Female,Christian
+90,Female,Not answered
+20,Male,Christian
+52,Male,Christian
+79,Male,Christian
+30,Female,Not answered
+62,Male,No religion
+48,Female,No religion
+63,Male,No religion
+70,Male,Christian
+74,Male,No religion
+41,Female,Christian
+70,Male,No religion
+76,Male,No religion
+71,Male,Christian
+65,Male,Christian
+33,Male,No religion
+18,Female,Christian
+77,Female,Christian
+52,Female,Christian
+69,Male,No religion
+48,Female,Christian
+59,Male,No religion
+43,Female,Christian
+40,Female,Christian
+79,Male,No religion
+76,Female,Christian
+60,Female,No religion
+61,Male,Christian
+90,Male,Christian
+59,Male,Christian
+88,Female,Other religion
+66,Male,Muslim
+56,Female,Christian
+87,Female,Christian
+18,Male,Hindu
+66,Male,Christian
+52,Female,Christian
+21,Female,Not answered
+31,Female,No religion
+44,Female,No religion
+86,Female,Christian
+42,Female,Christian
+32,Male,Christian
+44,Male,Christian
+30,Female,Christian
+58,Female,No religion
+82,Male,Christian
+74,Male,Christian
+55,Male,No religion
+34,Female,No religion
+70,Male,Not answered
+28,Female,Sikh
+23,Female,Christian
+65,Female,No religion
+60,Male,No religion
+71,Male,Christian
+43,Female,Christian
+22,Female,Christian
+50,Male,Christian
+27,Female,Christian
+65,Female,Muslim
+33,Male,Hindu
+75,Male,Christian
+46,Female,Christian
+75,Female,Christian
+50,Male,No religion
+65,Female,Christian
+29,Female,No religion
+61,Male,Christian
+55,Female,Muslim
+77,Female,Christian
+19,Male,Christian
+57,Female,Christian
+56,Female,Muslim
+50,Male,No religion
+77,Male,Christian
+75,Male,Christian
+47,Male,No religion
+32,Male,Christian
+30,Female,Christian
+40,Male,Christian
+62,Male,Muslim
+42,Male,No religion
+55,Male,No religion
+24,Male,Not answered
+45,Female,Christian
+18,Female,Not answered
+31,Female,Muslim
+32,Female,Christian
+18,Male,Not answered
+24,Male,No religion
+38,Male,Christian
+74,Female,No religion
+75,Male,No religion
+36,Female,Christian
+56,Female,Muslim
+68,Female,Muslim
+56,Male,Christian
+73,Male,No religion
+62,Male,No religion
+29,Male,No religion
+43,Female,Christian
+74,Female,No religion
+69,Female,No religion
+82,Female,Christian
+60,Female,Christian
+26,Male,Christian
+29,Male,Christian
+32,Female,Christian
+73,Female,No religion
+33,Male,Christian
+71,Male,No religion
+33,Male,No religion
+79,Female,Not answered
+39,Female,Not answered
+47,Female,Sikh
+56,Male,Christian
+19,Female,Christian
+29,Male,Christian
+76,Female,Muslim
+43,Female,No religion
+71,Female,Christian
+31,Female,No religion
+54,Female,Christian
+83,Male,Muslim
+82,Female,Christian
+65,Male,No religion
+75,Female,Christian
+68,Male,Christian
+32,Male,No religion
+18,Male,Christian
+63,Male,Christian
+48,Female,Christian
+23,Female,Christian
+44,Male,No religion
+45,Male,No religion
+58,Female,Christian
+84,Female,Christian
+37,Female,Christian
+80,Female,Christian
+64,Male,Christian
+53,Male,No religion
+82,Female,Christian
+23,Male,No religion
+63,Male,Christian
+76,Female,No religion
+54,Female,Christian
+51,Male,Sikh
+32,Male,Christian
+72,Male,No religion
+60,Female,Christian
+30,Female,Christian
+88,Female,Christian
+18,Female,Christian
+27,Male,Christian
+51,Male,Not answered
+28,Female,Christian
+54,Female,No religion
+71,Female,No religion
+22,Male,Christian
+35,Male,No religion
+34,Male,No religion
+71,Female,No religion
+32,Female,Christian
+55,Female,Christian
+64,Male,Muslim
+29,Male,No religion
+28,Male,Muslim
+66,Male,Christian
+31,Male,Christian
+27,Male,Muslim
+33,Male,Christian
+53,Male,Christian
+65,Male,Christian
+27,Male,No religion
+53,Female,Christian
+89,Male,Christian
+52,Male,Christian
+51,Male,Christian
+34,Male,Christian
+29,Female,No religion
+28,Female,No religion
+23,Male,Muslim
+28,Female,No religion
+88,Female,Christian
+70,Male,Christian
+90,Male,Hindu
+29,Female,No religion
+55,Male,No religion
+42,Female,Christian
+85,Female,Christian
+62,Male,No religion
+19,Female,Christian
+53,Female,Muslim
+50,Male,No religion
+57,Female,No religion
+19,Male,No religion
+67,Male,Christian
+58,Female,Hindu
+55,Female,Not answered
+47,Female,Christian
+53,Female,No religion
+26,Female,No religion
+33,Female,Christian
+28,Male,Christian
+36,Male,Christian
+55,Male,No religion
+72,Male,No religion
+82,Female,No religion
+60,Female,Muslim
+34,Male,Buddhist
+68,Male,No religion
+32,Male,Christian
+39,Male,Muslim
+85,Male,No religion
+43,Male,Sikh
+66,Female,No religion
+23,Male,No religion
+88,Female,No religion
+26,Female,No religion
+58,Female,Christian
+47,Female,Muslim
+58,Male,Christian
+37,Female,No religion
+68,Female,Christian
+82,Male,Christian
+47,Female,Christian
+73,Female,Not answered
+64,Male,Muslim
+30,Female,No religion
+61,Male,Sikh
+60,Male,Christian
+90,Female,No religion
+53,Male,No religion
+44,Male,Christian
+47,Male,Christian
+90,Female,Not answered
+39,Female,Christian
+56,Female,Christian
+30,Female,Christian
+60,Male,Hindu
+39,Female,Christian
+43,Male,Christian
+60,Male,No religion
+59,Female,No religion
+39,Female,Christian
+60,Female,Christian
+38,Female,No religion
+56,Male,Christian
+90,Male,No religion
+34,Female,Christian
+66,Male,No religion
+35,Male,Jewish
+55,Female,Christian
+52,Male,No religion
+52,Female,No religion
+78,Male,Muslim
+24,Male,No religion
+18,Female,Christian
+43,Female,Christian
+41,Male,Christian
+46,Female,Christian
+45,Male,No religion
+25,Female,Christian
+31,Female,Christian
+70,Female,Not answered
+38,Male,No religion
+50,Female,Sikh
+64,Female,Not answered
+52,Male,No religion
+74,Female,Christian
+48,Male,Christian
+40,Male,Christian
+42,Female,No religion
+53,Male,No religion
+64,Male,Hindu
+22,Male,No religion
+30,Female,Hindu
+26,Female,No religion
+65,Female,Muslim
+64,Male,Christian
+42,Male,Christian
+51,Female,Christian
+28,Female,No religion
+39,Male,Christian
+56,Male,Christian
+21,Female,Christian
+51,Female,No religion
+57,Male,Muslim
+55,Male,No religion
+18,Female,Christian
+65,Female,Christian
+72,Female,No religion
+60,Male,Christian
+32,Male,No religion
+55,Female,Christian
+26,Female,Other religion
+25,Male,Christian
+26,Female,Not answered
+26,Male,Sikh
+54,Female,Christian
+52,Female,Christian
+45,Male,No religion
+19,Male,No religion
+45,Male,Christian
+56,Female,No religion
+33,Female,Buddhist
+19,Male,No religion
+55,Female,Christian
+20,Male,Christian
+64,Female,No religion
+67,Female,Christian
+64,Male,Sikh
+50,Female,Christian
+58,Female,Christian
+75,Male,Christian
+24,Male,No religion
+87,Female,Christian
+73,Male,Christian
+20,Female,Christian
+44,Male,Muslim
+46,Male,No religion
+56,Female,No religion
+42,Female,Christian
+58,Male,Christian
+58,Male,Christian
+22,Male,Christian
+37,Male,Christian
+70,Male,Christian
+57,Male,Christian
+33,Female,Not answered
+66,Female,No religion
+35,Female,Christian
+37,Male,No religion
+72,Female,Not answered
+55,Male,Not answered
+43,Male,Christian
+36,Female,No religion
+66,Male,Christian
+79,Male,Christian
+27,Female,Not answered
+60,Male,Christian
+79,Male,Christian
+59,Male,Muslim
+52,Male,Not answered
+65,Female,Christian
+43,Female,No religion
+54,Female,Christian
+90,Female,Muslim
+21,Male,Christian
+77,Male,Christian
+51,Male,No religion
+27,Female,Christian
+25,Male,Christian
+75,Male,Christian
+61,Female,Christian
+24,Male,Christian
+24,Male,Christian
+27,Male,Christian
+77,Male,Christian
+25,Male,No religion
+46,Female,Christian
+32,Male,Christian
+65,Female,Christian
+64,Male,No religion
+77,Female,No religion
+53,Male,No religion
+34,Female,Christian
+45,Female,Christian
+48,Female,Christian
+49,Male,Not answered
+25,Female,No religion
+41,Female,Muslim
+77,Female,Christian
+50,Male,Not answered
+63,Female,Muslim
+42,Male,No religion
+73,Female,Christian
+53,Female,No religion
+41,Female,No religion
+74,Male,Not answered
+90,Female,Not answered
+18,Female,No religion
+81,Female,No religion
+22,Male,Muslim
+38,Female,Christian
+48,Male,No religion
+86,Female,Christian
+24,Male,Christian
+79,Male,Christian
+53,Male,No religion
+82,Male,Christian
+29,Male,Christian
+52,Male,Christian
+29,Male,No religion
+78,Female,No religion
+48,Female,Christian
+63,Male,Christian
+89,Male,Christian
+43,Female,No religion
+53,Male,Christian
+49,Female,Christian
+52,Female,No religion
+49,Female,Christian
+77,Female,Christian
+23,Female,Christian
+35,Female,Christian
+85,Male,Christian
+43,Male,No religion
+66,Male,Christian
+48,Female,Christian
+65,Female,Muslim
+33,Male,No religion
+39,Female,No religion
+80,Female,Christian
+38,Male,Hindu
+33,Male,Muslim
+61,Male,Christian
+40,Male,No religion
+24,Female,Not answered
+90,Female,No religion
+41,Female,No religion
+78,Female,Christian
+29,Male,Christian
+18,Male,Christian
+35,Male,Hindu
+34,Female,Christian
+76,Male,Christian
+76,Male,Christian
+70,Female,No religion
+69,Female,Muslim
+20,Male,Christian
+68,Male,No religion
+56,Male,No religion
+30,Male,Christian
+29,Female,Christian
+32,Female,Christian
+33,Female,No religion
+24,Female,Christian
+61,Female,Christian
+59,Female,No religion
+56,Female,Muslim
+49,Female,No religion
+73,Male,Not answered
+51,Female,Christian
+23,Male,Christian
+38,Female,Christian
+79,Female,Not answered
+64,Female,Christian
+40,Female,No religion
+62,Male,No religion
+22,Male,No religion
+88,Male,Muslim
+33,Male,No religion
+52,Male,No religion
+57,Male,No religion
+39,Female,Christian
+55,Female,Christian
+58,Male,No religion
+62,Female,No religion
+35,Male,Hindu
+61,Male,No religion
+33,Male,Christian
+38,Male,Muslim
+36,Female,No religion
+72,Female,Christian
+69,Female,Christian
+82,Female,Muslim
+61,Male,Not answered
+40,Female,Christian
+59,Female,No religion
+85,Male,Christian
+42,Female,Christian
+78,Female,Christian
+39,Male,No religion
+60,Female,No religion
+67,Female,No religion
+48,Female,No religion
+31,Male,No religion
+20,Female,No religion
+56,Female,No religion
+62,Male,No religion
+77,Male,Christian
+32,Female,Christian
+56,Male,No religion
+74,Female,No religion
+59,Male,No religion
+50,Male,Hindu
+31,Female,No religion
+39,Male,No religion
+28,Female,Christian
+52,Female,Hindu
+57,Male,Christian
+85,Male,No religion
+31,Male,No religion
+65,Male,Christian
+48,Male,No religion
+70,Female,Christian
+63,Female,Christian
+33,Male,No religion
+55,Male,No religion
+22,Female,Christian
+90,Female,Christian
+34,Male,Not answered
+78,Female,No religion
+43,Male,Christian
+43,Female,Christian
+75,Female,No religion
+28,Female,No religion
+48,Male,No religion
+37,Female,Christian
+85,Female,No religion
+42,Female,Christian
+71,Male,No religion
+25,Female,Not answered
+20,Male,Christian
+30,Male,Muslim
+30,Male,No religion
+30,Male,No religion
+90,Female,Christian
+31,Male,No religion
+37,Female,Christian
+46,Male,No religion
+62,Male,No religion
+40,Male,Hindu
+82,Female,No religion
+46,Female,Not answered
+24,Female,Muslim
+57,Female,Muslim
+64,Female,Christian
+22,Male,Christian
+87,Male,Christian
+46,Female,Christian
+26,Male,Muslim
+77,Male,Christian
+42,Male,Christian
+20,Male,No religion
