@@ -1,4 +1,5 @@
 library(tidyverse)
+library(patchwork)
 
 # ---------------------------------------------------------------------------
 # 1. Inputs: population (for Sex/Age) and Option A's fitted parameters
@@ -11,7 +12,7 @@ pop <- read_csv(here::here("data", "Sims", "syn_pop_2000.csv")) %>%
     age_55p   = as.integer(Age >= 55)
   )
 
-params <- read_csv(here::here("out", "durA_2000.csv"))
+params <- read_csv(here::here("out", "Dur_a_2000.csv"))
 
 n_pop   <- nrow(pop)
 n_draws <- nrow(params)
@@ -162,3 +163,27 @@ iwalk(plots, function(p, s) {
 
 # Display all three if run interactively
 walk(plots, print)
+
+# ---------------------------------------------------------------------------
+# 6. Combined 3x1 figure - one panel per scenario, stacked, sharing a single
+#    x-axis title and y-axis title (patchwork drops the duplicates and keeps
+#    one). Per-scenario subtitles are dropped here since the formula is the
+#    same for all three and shown once in the combined subtitle instead;
+#    each scenario keeps its own title so the panels stay identifiable.
+# ---------------------------------------------------------------------------
+combined_plots <- map(scenario_names, function(s) {
+  plot_scenario(filter(results, scenario == s), s) +
+    labs(subtitle = NULL)
+})
+
+combined_fig <- wrap_plots(combined_plots, ncol = 1) +
+  plot_layout(axis_titles = "collect") +
+  plot_annotation(
+    title = "Utility of Basic measures vs Lockdown across outbreak scenarios",
+    subtitle = subtitle_formula,
+    theme = theme(plot.subtitle = element_text(size = 9, colour = "grey30"))
+  )
+
+ggsave(file.path(fig_dir, "scenario_utility_combined.png"), combined_fig, width = 7, height = 11, dpi = 300)
+
+print(combined_fig)

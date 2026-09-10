@@ -245,10 +245,11 @@ loos <- map(fits, ~ .x$loo(variables = "log_lik"))
 loo_compare(loos)
 
 
-name = names(fits)[[1]]
-fit = fits[[name]]
-fit$summary(variables = c(phmvac_covariate_pars, duration_pars[[name]], shared_pars))
-fit$draws(variables = c(phmvac_covariate_pars, duration_pars[[name]], shared_pars), format = "draws_matrix") %>% 
-  as_tibble() %>% 
-  sample_n(2000) %>% 
-  write_csv(here::here("out", "durA_2000.csv"))
+walk2(fits, names(fits), function(fit, name) {
+  cat("\n===", name, "===\n")
+  fit$summary(variables = c(phmvac_covariate_pars, duration_pars[[name]], shared_pars))
+  fit$draws(variables = c(phmvac_covariate_pars, duration_pars[[name]], shared_pars), format = "draws_matrix") %>% 
+    as_tibble() %>% 
+    sample_n(2000) %>% 
+    write_csv(here::here("out", "Dur_" + glue::as_glue(name) + "_2000.csv"))
+})
