@@ -1,0 +1,2001 @@
+Age,Sex,Religion,MaritalStatus,LivingWithChildren,CovidExperience
+28,Female,Christian,Single,Yes,None
+52,Female,Christian,Married,No,Had COVID
+39,Male,Christian,Married,Yes,None
+28,Male,Christian,Single,No,Had COVID
+41,Male,No religion,Single,Yes,None
+69,Female,No religion,Married,Yes,None
+69,Female,No religion,Married,No,Had COVID
+19,Male,No religion,Single,No,None
+24,Male,Christian,Single,No,Bereaved
+54,Female,No religion,Divorced,No,Had COVID
+51,Female,Muslim,Married,No,None
+73,Male,Christian,Single,No,None
+62,Male,Christian,Divorced,No,Bereaved
+47,Male,No religion,Separated,No,Had COVID
+34,Male,Hindu,Single,No,Had COVID
+48,Female,Christian,Single,Yes,Had COVID
+50,Female,Christian,Married,No,Bereaved
+52,Female,Christian,Married,No,Had COVID
+33,Male,Christian,Married,No,Had COVID
+89,Female,Christian,Married,No,None
+38,Male,No religion,Married,No,Had COVID
+46,Female,Christian,Single,Yes,Long COVID
+38,Female,No religion,Widowed,Yes,None
+34,Female,No religion,Married,Yes,None
+75,Male,Christian,Single,No,Had COVID
+48,Male,Christian,Divorced,No,Bereaved
+59,Female,No religion,Married,No,Bereaved
+31,Male,No religion,Single,Yes,Had COVID
+68,Male,No religion,Married,No,Had COVID
+42,Female,No religion,Married,Yes,None
+46,Female,Not answered,Married,No,Had COVID
+23,Female,No religion,Single,No,Had COVID
+42,Male,No religion,Single,Yes,Had COVID
+48,Female,Hindu,Married,Yes,Bereaved
+36,Male,Christian,Single,No,Bereaved
+31,Female,Jewish,Single,Yes,Had COVID
+40,Female,No religion,Married,Yes,Had COVID
+58,Female,Christian,Divorced,No,Had COVID
+29,Male,Christian,Divorced,Yes,Had COVID
+55,Female,Not answered,Married,No,None
+73,Female,Not answered,Single,No,None
+73,Female,No religion,Widowed,No,Bereaved
+29,Female,Christian,Single,No,None
+74,Female,Christian,Married,No,Had COVID
+29,Female,Christian,Married,No,None
+18,Male,Christian,Single,No,None
+60,Female,Muslim,Single,No,Had COVID
+41,Female,Not answered,Single,Yes,None
+29,Female,Muslim,Single,Yes,Bereaved
+50,Female,Christian,Married,No,Had COVID
+36,Male,No religion,Single,Yes,Long COVID
+35,Male,No religion,Married,No,None
+61,Female,Christian,Married,No,None
+41,Male,No religion,Married,Yes,Had COVID
+67,Male,No religion,Married,No,Had COVID
+35,Male,Not answered,Single,No,None
+61,Female,No religion,Married,No,None
+20,Female,No religion,Single,No,None
+46,Male,No religion,Single,Yes,Had COVID
+27,Female,Christian,Single,No,Had COVID
+52,Female,Christian,Married,No,None
+58,Female,No religion,Married,No,Bereaved
+53,Male,Christian,Married,No,None
+61,Male,Christian,Married,No,None
+26,Female,Christian,Single,No,Long COVID
+28,Female,No religion,Separated,Yes,None
+18,Female,No religion,Single,No,Bereaved
+44,Female,Christian,Married,No,None
+72,Female,Muslim,Widowed,No,None
+19,Male,Hindu,Single,No,None
+18,Male,No religion,Single,No,None
+33,Female,No religion,Married,Yes,Bereaved
+59,Male,Muslim,Married,No,Bereaved
+54,Female,Christian,Married,Yes,None
+46,Female,No religion,Single,No,Had COVID
+67,Female,Christian,Widowed,No,Long COVID
+90,Male,Muslim,Married,No,Had COVID
+21,Female,Christian,Single,No,None
+52,Male,No religion,Married,No,Had COVID
+54,Female,Christian,Married,No,Had COVID
+31,Male,Christian,Single,Yes,Had COVID
+19,Male,No religion,Single,No,Had COVID
+53,Female,Christian,Single,No,Had COVID
+43,Male,Christian,Single,No,Long COVID
+61,Female,No religion,Married,No,Had COVID
+24,Male,Christian,Single,No,None
+59,Female,Christian,Single,No,Had COVID
+90,Female,Christian,Divorced,No,Bereaved
+67,Female,Christian,Widowed,No,Had COVID
+58,Female,Not answered,Divorced,No,Bereaved
+63,Male,Christian,Married,No,Had COVID
+54,Female,Christian,Widowed,No,None
+35,Male,Christian,Married,Yes,Bereaved
+40,Male,Not answered,Married,No,Had COVID
+23,Male,Christian,Single,Yes,None
+53,Female,Christian,Married,No,Had COVID
+44,Male,Christian,Single,No,None
+60,Female,Christian,Divorced,No,None
+29,Male,Christian,Single,No,Had COVID
+31,Male,No religion,Married,No,Had COVID
+56,Female,No religion,Married,No,Had COVID
+51,Female,No religion,Divorced,No,None
+62,Male,Christian,Married,No,Had COVID
+75,Male,Christian,Widowed,No,None
+57,Male,No religion,Married,No,Bereaved
+42,Female,No religion,Married,No,Had COVID
+85,Female,No religion,Widowed,No,None
+40,Female,No religion,Married,Yes,None
+52,Male,No religion,Married,No,Had COVID
+80,Female,Christian,Widowed,No,Bereaved
+60,Female,No religion,Married,No,Had COVID
+65,Male,Christian,Married,No,Had COVID
+56,Female,Christian,Married,No,Had COVID
+68,Male,Christian,Married,No,Had COVID
+55,Female,Christian,Divorced,No,None
+25,Female,No religion,Single,No,Had COVID
+19,Male,Christian,Single,No,None
+63,Female,Muslim,Married,No,Had COVID
+67,Female,No religion,Divorced,No,Had COVID
+44,Female,No religion,Divorced,Yes,None
+54,Male,Christian,Married,Yes,None
+37,Male,Christian,Married,Yes,Had COVID
+57,Female,Christian,Married,No,Had COVID
+50,Female,Sikh,Divorced,Yes,Had COVID
+79,Female,No religion,Widowed,No,None
+49,Female,Christian,Married,Yes,Had COVID
+41,Male,No religion,Single,Yes,Had COVID
+60,Male,Christian,Divorced,No,Bereaved
+90,Male,Christian,Married,No,None
+68,Female,No religion,Divorced,No,Bereaved
+45,Male,No religion,Married,Yes,Had COVID
+36,Male,Christian,Married,No,None
+65,Male,Not answered,Married,No,None
+20,Male,Not answered,Single,No,None
+33,Female,Muslim,Separated,Yes,Bereaved
+65,Male,Muslim,Widowed,No,Had COVID
+81,Female,Christian,Widowed,No,Long COVID
+61,Female,Muslim,Married,No,Had COVID
+42,Female,No religion,Married,Yes,Had COVID
+48,Male,Christian,Married,No,Had COVID
+69,Male,Christian,Married,No,Had COVID
+71,Female,No religion,Married,No,None
+26,Male,Christian,Married,No,Had COVID
+27,Male,No religion,Single,No,Had COVID
+60,Female,Christian,Married,No,Had COVID
+27,Male,No religion,Single,No,Had COVID
+33,Male,No religion,Single,Yes,None
+40,Male,No religion,Married,No,Bereaved
+66,Female,No religion,Widowed,No,Bereaved
+54,Female,Christian,Married,No,Had COVID
+55,Female,No religion,Single,No,Long COVID
+40,Female,Christian,Single,No,Bereaved
+23,Male,Christian,Single,No,Had COVID
+25,Female,Christian,Single,No,None
+82,Female,Christian,Divorced,No,None
+30,Female,No religion,Married,Yes,Had COVID
+32,Male,Christian,Single,No,None
+40,Male,Christian,Widowed,Yes,Had COVID
+24,Female,Muslim,Single,No,Had COVID
+78,Male,Christian,Separated,No,None
+37,Female,No religion,Divorced,No,Had COVID
+34,Female,Other religion,Married,Yes,None
+26,Male,Christian,Single,No,Had COVID
+50,Male,Christian,Married,Yes,Had COVID
+63,Male,Christian,Divorced,No,Had COVID
+76,Female,Christian,Married,No,None
+20,Female,Christian,Single,No,Bereaved
+63,Female,No religion,Married,No,Bereaved
+64,Male,No religion,Married,No,None
+32,Male,Christian,Single,No,Bereaved
+30,Male,Christian,Single,No,Bereaved
+30,Female,Not answered,Married,Yes,Had COVID
+33,Female,Christian,Single,Yes,None
+43,Male,Christian,Married,Yes,None
+58,Female,Christian,Divorced,No,Had COVID
+67,Male,No religion,Single,No,Had COVID
+57,Male,No religion,Divorced,Yes,Had COVID
+74,Female,Christian,Widowed,No,Bereaved
+62,Male,No religion,Married,No,Bereaved
+29,Female,Muslim,Single,No,None
+42,Male,Not answered,Divorced,No,None
+33,Female,Christian,Divorced,No,None
+84,Female,Other religion,Married,No,Bereaved
+29,Male,Christian,Single,No,Bereaved
+34,Female,Muslim,Single,No,None
+68,Female,Christian,Married,No,None
+39,Male,Christian,Married,Yes,None
+19,Female,No religion,Single,No,None
+71,Female,No religion,Widowed,No,None
+30,Female,Christian,Single,No,Bereaved
+90,Male,Christian,Widowed,No,None
+79,Male,Christian,Widowed,No,Had COVID
+54,Male,No religion,Married,No,Had COVID
+54,Female,Sikh,Married,No,Bereaved
+75,Female,No religion,Widowed,No,Had COVID
+66,Female,Christian,Married,No,None
+23,Female,Christian,Single,No,Had COVID
+40,Female,Christian,Single,Yes,None
+49,Male,Christian,Married,No,Bereaved
+39,Male,No religion,Married,Yes,Had COVID
+83,Male,Christian,Married,No,Had COVID
+50,Female,No religion,Divorced,No,Had COVID
+51,Female,Christian,Married,No,Long COVID
+73,Female,Christian,Married,No,None
+23,Female,No religion,Single,No,Had COVID
+33,Male,Christian,Single,Yes,Had COVID
+82,Male,Christian,Widowed,No,None
+55,Male,No religion,Married,No,Bereaved
+61,Male,Christian,Single,No,None
+39,Female,Christian,Single,No,None
+88,Female,Christian,Married,No,Bereaved
+61,Female,Christian,Married,No,Long COVID
+57,Male,No religion,Married,Yes,Had COVID
+60,Female,Christian,Married,No,Had COVID
+80,Male,Christian,Married,No,None
+55,Female,Christian,Married,No,Long COVID
+50,Female,No religion,Divorced,No,Had COVID
+35,Male,Christian,Married,Yes,None
+56,Female,No religion,Married,No,Had COVID
+66,Male,Christian,Single,No,Had COVID
+29,Female,Christian,Widowed,Yes,None
+19,Male,Christian,Single,No,None
+49,Male,Muslim,Divorced,No,None
+73,Female,Christian,Widowed,No,None
+48,Male,Christian,Separated,Yes,Had COVID
+81,Female,Christian,Widowed,No,None
+35,Male,Jewish,Married,Yes,Had COVID
+45,Male,No religion,Divorced,No,None
+20,Female,Christian,Single,No,Had COVID
+70,Male,Not answered,Married,No,None
+30,Male,No religion,Single,No,None
+33,Male,No religion,Married,No,Had COVID
+24,Female,No religion,Single,No,Had COVID
+58,Male,Christian,Married,No,Had COVID
+79,Male,Christian,Widowed,Yes,Had COVID
+31,Female,No religion,Married,No,None
+76,Male,No religion,Single,No,Had COVID
+68,Female,Christian,Single,No,None
+82,Male,Muslim,Married,No,None
+39,Female,No religion,Married,Yes,Had COVID
+47,Female,Christian,Married,Yes,None
+26,Male,No religion,Married,No,Had COVID
+62,Male,No religion,Married,No,Had COVID
+30,Female,No religion,Single,No,Bereaved
+41,Female,Christian,Married,No,None
+34,Male,No religion,Single,Yes,Had COVID
+85,Male,No religion,Married,No,None
+23,Male,Christian,Single,No,Had COVID
+30,Female,Christian,Single,Yes,None
+24,Female,Christian,Single,No,None
+45,Female,Not answered,Single,No,Had COVID
+58,Female,No religion,Married,No,None
+90,Female,No religion,Divorced,No,Had COVID
+52,Male,No religion,Married,Yes,Had COVID
+42,Female,Christian,Married,Yes,Had COVID
+22,Male,Christian,Single,No,Had COVID
+22,Female,No religion,Single,No,None
+51,Female,Christian,Married,No,None
+58,Male,No religion,Married,No,Bereaved
+48,Male,Buddhist,Single,Yes,None
+64,Male,Christian,Divorced,No,Bereaved
+54,Male,Christian,Married,Yes,Had COVID
+37,Female,Christian,Married,No,Long COVID
+25,Male,Jewish,Single,No,Had COVID
+87,Female,No religion,Married,No,None
+78,Female,Christian,Married,No,Had COVID
+45,Male,Christian,Single,No,Had COVID
+41,Female,Christian,Married,No,None
+27,Female,No religion,Married,Yes,None
+73,Female,Not answered,Married,No,Bereaved
+45,Male,No religion,Married,No,None
+70,Male,Christian,Married,No,None
+70,Female,No religion,Married,No,None
+77,Male,Christian,Married,No,Had COVID
+31,Male,Christian,Married,Yes,None
+27,Male,Christian,Single,No,None
+31,Male,Jewish,Divorced,Yes,Had COVID
+47,Male,Christian,Married,No,Had COVID
+60,Female,No religion,Married,No,None
+36,Male,Hindu,Single,No,None
+72,Female,Christian,Married,No,None
+21,Male,Christian,Single,No,Had COVID
+34,Female,Christian,Single,No,None
+28,Female,Christian,Separated,Yes,None
+26,Female,No religion,Single,No,Bereaved
+48,Male,No religion,Married,No,None
+81,Male,Christian,Married,No,Bereaved
+40,Male,Muslim,Single,Yes,Had COVID
+38,Male,No religion,Divorced,Yes,Had COVID
+32,Male,Christian,Single,No,Had COVID
+43,Female,Christian,Married,Yes,None
+75,Male,Christian,Married,No,None
+54,Female,Christian,Married,No,Had COVID
+79,Male,Not answered,Married,No,Had COVID
+46,Male,No religion,Single,No,Had COVID
+44,Female,Christian,Single,No,Had COVID
+56,Female,No religion,Married,Yes,Had COVID
+26,Female,Not answered,Married,No,None
+44,Male,No religion,Divorced,No,None
+19,Female,No religion,Single,No,Bereaved
+68,Female,No religion,Married,No,Bereaved
+35,Female,Christian,Single,No,Bereaved
+60,Male,Christian,Married,No,None
+62,Male,Christian,Married,No,None
+41,Female,No religion,Married,Yes,Had COVID
+27,Female,No religion,Married,No,None
+22,Male,No religion,Single,No,None
+75,Male,Christian,Single,No,Bereaved
+73,Male,Not answered,Married,No,Had COVID
+31,Female,No religion,Single,No,Bereaved
+50,Male,No religion,Married,No,None
+33,Female,No religion,Married,Yes,Bereaved
+27,Male,Christian,Single,No,Had COVID
+68,Male,Christian,Married,No,Had COVID
+90,Female,No religion,Divorced,No,None
+67,Female,Christian,Widowed,No,Had COVID
+77,Female,Muslim,Divorced,No,Bereaved
+78,Female,Christian,Married,No,None
+82,Male,Christian,Single,No,None
+77,Male,Not answered,Single,No,None
+25,Male,No religion,Married,No,None
+51,Male,Christian,Married,No,Had COVID
+43,Female,Christian,Married,Yes,None
+75,Male,No religion,Married,No,None
+19,Female,Christian,Single,No,Had COVID
+27,Female,No religion,Single,No,Had COVID
+22,Male,No religion,Single,No,Had COVID
+65,Male,Christian,Married,No,Bereaved
+55,Male,Christian,Married,No,None
+85,Male,Christian,Widowed,No,None
+49,Female,No religion,Single,No,None
+57,Male,Christian,Single,No,None
+64,Male,Not answered,Married,No,Had COVID
+87,Female,Christian,Married,No,None
+26,Male,No religion,Divorced,Yes,Had COVID
+49,Male,Christian,Married,No,None
+34,Female,Christian,Single,No,Long COVID
+35,Male,Christian,Married,Yes,Had COVID
+47,Female,No religion,Married,Yes,None
+53,Female,No religion,Married,No,None
+77,Female,Christian,Married,No,None
+75,Male,Christian,Married,No,None
+21,Male,Hindu,Single,No,None
+28,Male,No religion,Married,No,Bereaved
+72,Male,Christian,Married,No,Bereaved
+67,Female,No religion,Widowed,No,None
+22,Male,No religion,Single,No,None
+66,Female,Christian,Married,No,None
+53,Female,Christian,Divorced,No,Had COVID
+22,Male,Christian,Single,No,None
+87,Female,Christian,Married,No,None
+46,Female,No religion,Single,Yes,Had COVID
+62,Female,Christian,Married,No,None
+51,Female,No religion,Widowed,Yes,Had COVID
+48,Female,No religion,Married,No,None
+21,Female,Christian,Single,No,None
+21,Male,Christian,Single,No,None
+53,Male,Muslim,Widowed,No,Had COVID
+57,Female,No religion,Single,No,Had COVID
+37,Male,Not answered,Married,No,Had COVID
+74,Male,No religion,Widowed,No,None
+85,Female,Hindu,Single,No,None
+41,Female,Christian,Separated,No,Had COVID
+59,Female,Christian,Divorced,No,Had COVID
+42,Male,Christian,Single,Yes,Had COVID
+76,Female,Christian,Divorced,No,None
+76,Female,No religion,Widowed,No,None
+52,Female,Hindu,Married,No,Had COVID
+25,Female,Hindu,Married,Yes,Had COVID
+68,Male,No religion,Married,No,None
+54,Female,Christian,Married,No,Bereaved
+54,Female,No religion,Married,No,Bereaved
+52,Female,No religion,Married,No,None
+42,Female,No religion,Divorced,Yes,Had COVID
+18,Male,Christian,Single,No,None
+66,Female,No religion,Married,No,Had COVID
+34,Female,Christian,Married,No,None
+82,Male,No religion,Single,No,Bereaved
+53,Male,No religion,Divorced,No,Had COVID
+47,Female,Christian,Separated,Yes,Long COVID
+90,Male,Christian,Married,No,None
+40,Male,Christian,Divorced,No,None
+43,Male,Christian,Married,Yes,None
+47,Female,No religion,Married,Yes,Long COVID
+58,Male,No religion,Married,No,None
+70,Female,No religion,Married,No,Had COVID
+43,Female,No religion,Single,No,None
+53,Male,Christian,Married,No,None
+45,Male,No religion,Married,Yes,Had COVID
+62,Male,Christian,Divorced,No,Had COVID
+63,Female,Buddhist,Single,No,Had COVID
+72,Female,No religion,Widowed,No,None
+68,Female,Christian,Divorced,No,None
+72,Female,Christian,Widowed,No,None
+34,Male,Christian,Divorced,Yes,None
+63,Male,No religion,Married,No,Had COVID
+29,Female,Christian,Married,No,None
+58,Male,No religion,Married,No,Had COVID
+26,Female,Christian,Married,No,None
+75,Male,No religion,Divorced,No,None
+34,Female,No religion,Single,Yes,Had COVID
+66,Female,Muslim,Single,No,None
+38,Female,Christian,Single,No,None
+32,Female,Christian,Single,No,None
+58,Female,No religion,Married,No,Had COVID
+80,Male,Not answered,Married,No,Had COVID
+44,Male,Christian,Divorced,No,Long COVID
+19,Male,No religion,Married,No,None
+61,Female,No religion,Widowed,No,Had COVID
+41,Female,Christian,Married,No,None
+48,Female,Christian,Divorced,Yes,Had COVID
+83,Male,No religion,Divorced,No,None
+56,Female,Christian,Married,No,Had COVID
+67,Female,No religion,Widowed,No,None
+26,Female,Christian,Single,No,Bereaved
+65,Female,Christian,Married,No,None
+22,Female,No religion,Single,No,Bereaved
+58,Male,No religion,Widowed,No,None
+37,Male,Christian,Widowed,Yes,Had COVID
+75,Female,Christian,Widowed,No,Bereaved
+73,Male,Christian,Widowed,No,Bereaved
+56,Female,Christian,Married,No,Had COVID
+23,Male,Sikh,Single,No,Had COVID
+28,Female,No religion,Single,No,None
+26,Male,Christian,Single,No,Bereaved
+63,Male,Christian,Married,No,Had COVID
+75,Male,No religion,Married,No,Bereaved
+55,Male,No religion,Divorced,No,Had COVID
+31,Female,Christian,Single,Yes,None
+65,Male,Christian,Married,No,None
+50,Female,Christian,Single,No,Had COVID
+60,Male,No religion,Single,No,Had COVID
+80,Female,Christian,Widowed,No,None
+56,Male,No religion,Married,No,Had COVID
+58,Female,Christian,Widowed,No,None
+18,Male,Christian,Single,No,None
+61,Male,Christian,Married,No,Had COVID
+57,Female,Christian,Married,No,Bereaved
+74,Male,No religion,Divorced,No,None
+29,Male,Christian,Single,Yes,Had COVID
+25,Female,Christian,Single,No,None
+74,Male,Christian,Widowed,No,Long COVID
+29,Male,Christian,Single,Yes,None
+33,Male,Not answered,Single,No,Had COVID
+55,Female,Christian,Married,Yes,Bereaved
+55,Female,No religion,Married,No,Had COVID
+57,Male,No religion,Married,No,Bereaved
+41,Male,No religion,Married,Yes,None
+61,Male,No religion,Married,No,None
+70,Female,No religion,Divorced,No,Had COVID
+48,Female,Not answered,Married,No,Had COVID
+53,Female,No religion,Married,No,Bereaved
+68,Female,No religion,Widowed,No,None
+31,Male,Christian,Single,No,Had COVID
+44,Male,Christian,Married,No,None
+42,Male,No religion,Married,No,None
+84,Male,Christian,Married,No,None
+31,Male,No religion,Single,No,None
+67,Female,No religion,Married,No,None
+53,Male,Christian,Divorced,No,Bereaved
+56,Male,No religion,Married,No,Bereaved
+37,Male,Christian,Married,No,None
+75,Female,Not answered,Widowed,No,None
+21,Female,Muslim,Single,No,None
+18,Female,Christian,Single,No,Had COVID
+58,Male,Hindu,Married,No,Had COVID
+85,Male,Christian,Single,No,Had COVID
+34,Male,Christian,Married,Yes,Had COVID
+55,Male,Christian,Married,No,Had COVID
+31,Male,No religion,Single,Yes,Had COVID
+33,Female,Christian,Married,Yes,None
+80,Male,Christian,Widowed,No,None
+45,Male,Christian,Married,Yes,Long COVID
+85,Male,Christian,Married,No,Had COVID
+19,Female,No religion,Single,No,None
+55,Male,No religion,Married,No,Had COVID
+67,Male,No religion,Married,No,Bereaved
+70,Male,Christian,Married,No,Bereaved
+34,Male,Christian,Married,Yes,None
+82,Male,Christian,Married,No,None
+25,Female,Muslim,Single,No,Long COVID
+57,Male,Christian,Married,Yes,None
+54,Male,Christian,Separated,No,None
+63,Female,No religion,Widowed,No,None
+37,Female,Not answered,Married,Yes,Had COVID
+65,Male,Christian,Married,No,None
+31,Male,No religion,Single,No,None
+50,Female,Buddhist,Single,No,None
+30,Male,No religion,Married,Yes,None
+37,Male,No religion,Divorced,No,Had COVID
+74,Female,Muslim,Single,No,Bereaved
+53,Male,Christian,Divorced,Yes,Had COVID
+56,Male,Christian,Married,No,Had COVID
+53,Male,Christian,Divorced,No,None
+31,Female,Christian,Married,Yes,Had COVID
+65,Male,No religion,Divorced,No,Long COVID
+59,Male,Muslim,Single,No,Had COVID
+33,Male,Christian,Single,Yes,Had COVID
+38,Male,No religion,Divorced,No,None
+45,Male,No religion,Single,Yes,None
+70,Female,No religion,Widowed,No,None
+67,Female,No religion,Married,No,Had COVID
+47,Female,Christian,Married,Yes,Had COVID
+60,Male,No religion,Married,No,Long COVID
+90,Female,Not answered,Widowed,No,None
+46,Male,Christian,Single,Yes,None
+47,Male,Christian,Divorced,Yes,Had COVID
+20,Male,Muslim,Single,No,None
+26,Female,Christian,Single,No,Had COVID
+43,Female,Christian,Married,Yes,Had COVID
+50,Female,Christian,Married,No,Had COVID
+55,Male,No religion,Divorced,No,None
+43,Female,Christian,Divorced,Yes,Had COVID
+74,Male,No religion,Widowed,No,Had COVID
+57,Female,Christian,Divorced,No,Had COVID
+47,Male,Christian,Married,Yes,Had COVID
+69,Female,Christian,Widowed,No,Had COVID
+36,Female,Hindu,Married,Yes,Had COVID
+60,Male,Christian,Married,No,None
+49,Female,Other religion,Married,No,None
+57,Female,No religion,Married,No,Had COVID
+53,Male,Christian,Married,No,Bereaved
+63,Female,Christian,Divorced,No,Had COVID
+71,Male,Christian,Married,No,None
+23,Male,Christian,Single,No,Had COVID
+30,Female,Muslim,Single,No,Had COVID
+26,Male,Christian,Single,No,None
+40,Female,Christian,Married,No,None
+78,Male,No religion,Divorced,No,None
+39,Male,Christian,Married,Yes,None
+44,Female,Hindu,Married,Yes,None
+39,Female,Christian,Separated,No,Had COVID
+80,Female,Christian,Divorced,No,Had COVID
+44,Female,Christian,Single,No,Bereaved
+24,Female,Christian,Single,No,Had COVID
+25,Male,No religion,Single,No,None
+76,Male,No religion,Married,No,None
+29,Male,Christian,Single,No,Had COVID
+24,Male,Christian,Single,No,None
+40,Female,Christian,Married,No,Had COVID
+40,Female,Christian,Single,No,Had COVID
+54,Male,No religion,Single,Yes,None
+50,Female,Christian,Divorced,No,None
+75,Male,Christian,Married,No,Bereaved
+69,Male,No religion,Divorced,No,None
+58,Male,No religion,Married,No,None
+24,Male,Muslim,Single,No,None
+70,Male,Christian,Divorced,No,None
+22,Male,No religion,Single,No,Long COVID
+44,Male,Muslim,Single,Yes,None
+52,Male,Christian,Married,Yes,None
+46,Female,Christian,Married,No,Long COVID
+28,Male,No religion,Single,No,None
+34,Male,Christian,Single,Yes,None
+77,Female,No religion,Married,No,Had COVID
+61,Female,Christian,Divorced,No,Had COVID
+44,Female,No religion,Married,Yes,None
+20,Male,No religion,Divorced,No,Had COVID
+54,Male,Other religion,Widowed,No,None
+59,Female,No religion,Married,No,Had COVID
+19,Female,No religion,Single,No,None
+57,Male,Christian,Married,No,Had COVID
+20,Female,Not answered,Single,No,Had COVID
+66,Female,Not answered,Married,No,Bereaved
+42,Female,Not answered,Widowed,No,Had COVID
+31,Male,Muslim,Married,Yes,Bereaved
+33,Male,Christian,Married,Yes,None
+35,Male,No religion,Single,No,None
+63,Female,Christian,Married,No,None
+23,Male,Christian,Single,No,Had COVID
+77,Male,Christian,Widowed,No,None
+36,Female,Christian,Married,Yes,None
+28,Male,No religion,Married,No,Had COVID
+30,Female,Christian,Single,No,None
+31,Female,No religion,Single,No,None
+62,Female,Not answered,Single,No,Bereaved
+61,Female,No religion,Married,No,None
+49,Male,Not answered,Single,Yes,None
+82,Female,No religion,Married,Yes,Had COVID
+20,Male,Christian,Single,No,None
+54,Female,Christian,Married,Yes,None
+29,Male,Christian,Single,No,None
+74,Female,Hindu,Married,No,None
+48,Male,No religion,Married,Yes,Had COVID
+57,Male,No religion,Single,No,None
+58,Female,Christian,Divorced,No,Had COVID
+34,Female,No religion,Single,Yes,None
+31,Female,Christian,Divorced,No,Bereaved
+77,Male,Not answered,Married,No,None
+75,Female,Christian,Married,No,Bereaved
+67,Female,Christian,Widowed,Yes,None
+29,Male,Christian,Single,No,None
+37,Female,Hindu,Married,Yes,None
+27,Female,Christian,Married,Yes,Had COVID
+34,Female,No religion,Single,No,Had COVID
+52,Male,No religion,Married,Yes,Had COVID
+57,Female,Christian,Married,No,Bereaved
+40,Male,No religion,Married,No,None
+86,Male,No religion,Married,No,Had COVID
+50,Female,Christian,Married,Yes,None
+51,Female,Not answered,Married,No,Bereaved
+49,Male,Christian,Married,No,None
+22,Female,Christian,Married,No,Bereaved
+59,Female,No religion,Divorced,No,Had COVID
+72,Female,Christian,Married,No,None
+63,Female,Not answered,Widowed,No,None
+57,Male,Christian,Married,Yes,Had COVID
+46,Male,No religion,Married,No,Had COVID
+73,Female,Christian,Widowed,No,None
+26,Male,No religion,Single,No,None
+44,Female,No religion,Married,No,None
+24,Male,Christian,Single,No,Had COVID
+87,Female,Christian,Married,No,None
+53,Male,Christian,Divorced,Yes,Long COVID
+43,Female,Christian,Single,Yes,None
+33,Female,Muslim,Widowed,No,Had COVID
+90,Female,Christian,Widowed,No,Had COVID
+70,Male,No religion,Married,No,None
+72,Male,No religion,Divorced,No,Bereaved
+67,Female,Christian,Married,No,Had COVID
+35,Female,No religion,Widowed,Yes,Had COVID
+87,Male,Christian,Widowed,No,None
+28,Male,Christian,Married,No,None
+61,Male,No religion,Single,No,None
+40,Female,No religion,Widowed,No,Had COVID
+30,Male,Christian,Married,Yes,None
+33,Female,Muslim,Single,Yes,None
+62,Male,Other religion,Married,No,Had COVID
+41,Female,No religion,Single,No,None
+42,Female,Christian,Married,Yes,Had COVID
+26,Female,No religion,Married,No,Had COVID
+60,Male,No religion,Married,No,None
+38,Female,Christian,Single,Yes,Had COVID
+36,Male,Christian,Widowed,Yes,Bereaved
+18,Male,Christian,Single,No,None
+54,Male,Christian,Married,No,Had COVID
+31,Male,No religion,Single,No,None
+28,Male,Christian,Single,No,None
+38,Male,Christian,Married,No,Had COVID
+56,Male,Christian,Married,No,None
+89,Female,Not answered,Married,No,None
+45,Female,No religion,Married,Yes,None
+49,Female,Hindu,Married,Yes,Had COVID
+73,Male,Christian,Divorced,No,None
+87,Female,Christian,Married,No,None
+55,Female,No religion,Married,No,Had COVID
+32,Female,Christian,Single,No,Had COVID
+31,Female,Christian,Married,Yes,Had COVID
+49,Male,Christian,Married,Yes,Had COVID
+60,Male,Christian,Married,No,Had COVID
+63,Male,No religion,Married,No,Had COVID
+32,Female,No religion,Single,Yes,Bereaved
+64,Female,Muslim,Single,No,Bereaved
+81,Female,No religion,Married,No,Had COVID
+79,Male,Christian,Married,No,Had COVID
+38,Female,Muslim,Married,Yes,Had COVID
+51,Female,Christian,Married,No,Had COVID
+40,Female,No religion,Single,No,None
+36,Male,Christian,Married,Yes,None
+34,Female,Christian,Divorced,No,None
+41,Female,Muslim,Married,Yes,Bereaved
+52,Female,No religion,Married,No,None
+77,Male,Christian,Married,No,None
+64,Female,No religion,Divorced,No,None
+43,Male,Christian,Married,No,Long COVID
+18,Female,Hindu,Single,No,None
+45,Female,No religion,Divorced,Yes,None
+78,Female,Christian,Widowed,No,Had COVID
+83,Female,No religion,Widowed,No,Had COVID
+30,Female,Christian,Single,Yes,None
+63,Female,Christian,Widowed,No,None
+62,Male,Christian,Married,No,Had COVID
+89,Female,Christian,Married,No,Had COVID
+37,Male,Christian,Married,No,Had COVID
+45,Female,Muslim,Married,No,None
+60,Male,No religion,Married,No,Bereaved
+56,Male,Not answered,Single,No,Had COVID
+39,Female,No religion,Married,No,None
+40,Female,No religion,Married,Yes,None
+37,Male,No religion,Married,No,None
+25,Male,Christian,Single,No,Had COVID
+55,Female,Muslim,Divorced,No,Had COVID
+40,Female,No religion,Married,No,None
+47,Female,Christian,Married,Yes,Had COVID
+67,Male,Christian,Married,No,Bereaved
+77,Male,Christian,Married,No,None
+32,Male,Not answered,Single,No,Had COVID
+35,Male,Christian,Married,Yes,Had COVID
+31,Female,Christian,Married,No,None
+30,Male,No religion,Married,No,Had COVID
+23,Female,Christian,Single,No,None
+90,Female,Christian,Married,No,None
+65,Female,Muslim,Widowed,No,None
+42,Male,No religion,Married,Yes,Had COVID
+37,Male,No religion,Married,No,Had COVID
+44,Female,No religion,Divorced,Yes,None
+29,Male,No religion,Single,No,Had COVID
+66,Male,No religion,Married,No,None
+67,Male,Christian,Married,Yes,Had COVID
+65,Male,Not answered,Married,No,Long COVID
+18,Male,Christian,Single,No,Bereaved
+39,Male,No religion,Married,Yes,Long COVID
+48,Male,Christian,Married,Yes,Had COVID
+29,Male,Christian,Married,No,Bereaved
+60,Female,No religion,Divorced,Yes,None
+51,Female,Christian,Married,No,Had COVID
+26,Female,No religion,Married,No,Long COVID
+22,Male,No religion,Single,No,None
+77,Male,Not answered,Married,No,None
+23,Female,Not answered,Single,No,Had COVID
+40,Male,Christian,Single,Yes,Had COVID
+58,Male,Christian,Married,No,None
+63,Male,No religion,Married,No,Bereaved
+36,Female,Muslim,Divorced,Yes,Had COVID
+43,Male,Christian,Married,No,None
+73,Male,No religion,Married,No,None
+58,Male,Christian,Married,No,Had COVID
+34,Female,Christian,Single,No,None
+50,Male,Muslim,Married,No,None
+68,Male,Christian,Widowed,No,None
+30,Male,Christian,Single,No,Had COVID
+21,Female,No religion,Single,No,Had COVID
+65,Female,No religion,Widowed,No,None
+30,Male,Christian,Single,No,Had COVID
+22,Female,Muslim,Single,Yes,Had COVID
+77,Male,Christian,Married,Yes,None
+27,Female,Christian,Single,No,Had COVID
+32,Female,Christian,Single,Yes,None
+82,Female,Christian,Widowed,No,Bereaved
+67,Female,No religion,Married,No,None
+66,Female,No religion,Widowed,No,None
+72,Female,Christian,Single,No,None
+34,Female,No religion,Single,Yes,Had COVID
+20,Female,Christian,Married,No,Bereaved
+25,Male,No religion,Divorced,No,Had COVID
+19,Male,Christian,Single,No,None
+57,Male,Muslim,Married,No,Had COVID
+75,Female,Sikh,Married,No,None
+28,Male,Christian,Divorced,No,None
+58,Male,Christian,Married,No,None
+38,Female,Not answered,Divorced,No,Had COVID
+48,Male,No religion,Single,No,Had COVID
+18,Male,Christian,Single,No,None
+59,Male,No religion,Single,No,Had COVID
+57,Male,Christian,Married,No,None
+24,Male,Christian,Single,No,None
+31,Female,No religion,Married,No,Had COVID
+68,Male,No religion,Married,No,None
+78,Female,No religion,Widowed,No,None
+34,Female,No religion,Single,Yes,Had COVID
+83,Female,No religion,Married,No,Had COVID
+90,Female,Christian,Widowed,No,None
+66,Female,Christian,Married,No,Bereaved
+53,Female,No religion,Married,No,Had COVID
+18,Female,Christian,Single,No,None
+46,Female,Not answered,Married,No,Had COVID
+55,Female,Christian,Divorced,No,None
+71,Male,Christian,Widowed,No,None
+74,Male,Christian,Divorced,No,None
+74,Male,Christian,Widowed,No,None
+71,Female,Hindu,Widowed,No,Had COVID
+23,Female,No religion,Single,No,Had COVID
+18,Female,Christian,Single,No,Had COVID
+53,Female,Christian,Single,No,None
+19,Male,Christian,Single,No,None
+52,Male,No religion,Married,No,None
+41,Male,Christian,Single,No,Had COVID
+54,Female,No religion,Single,Yes,Had COVID
+77,Female,Christian,Married,No,Had COVID
+56,Female,No religion,Divorced,No,Had COVID
+21,Female,No religion,Single,No,Bereaved
+59,Female,Christian,Married,Yes,Had COVID
+29,Male,No religion,Married,No,None
+70,Female,Christian,Widowed,No,None
+55,Female,Jewish,Married,Yes,None
+68,Female,Christian,Divorced,No,None
+35,Female,Muslim,Married,Yes,Long COVID
+75,Male,No religion,Married,No,Had COVID
+51,Female,Muslim,Married,No,None
+34,Female,Christian,Single,No,None
+59,Female,Christian,Married,Yes,Had COVID
+21,Male,Christian,Single,No,None
+56,Male,No religion,Divorced,No,None
+38,Male,No religion,Married,No,None
+80,Male,Christian,Married,No,None
+26,Male,No religion,Single,Yes,None
+18,Female,No religion,Single,No,None
+23,Female,Christian,Single,No,Bereaved
+35,Male,Christian,Married,No,None
+68,Female,Christian,Married,No,None
+59,Female,Christian,Married,No,None
+20,Female,Buddhist,Single,No,Had COVID
+30,Female,Christian,Single,No,Bereaved
+26,Male,Christian,Single,No,None
+62,Male,Not answered,Single,No,Bereaved
+54,Female,Christian,Married,No,Had COVID
+48,Male,Christian,Separated,No,Had COVID
+82,Male,Christian,Married,No,None
+37,Female,No religion,Married,Yes,Had COVID
+48,Male,No religion,Married,No,None
+41,Female,Christian,Single,Yes,None
+50,Male,No religion,Single,No,Had COVID
+57,Female,Christian,Single,No,Had COVID
+38,Female,Christian,Married,Yes,Had COVID
+76,Male,No religion,Married,No,Bereaved
+90,Female,Christian,Married,No,None
+60,Male,No religion,Married,No,None
+46,Female,Other religion,Separated,No,Had COVID
+42,Female,No religion,Widowed,Yes,None
+71,Female,No religion,Married,No,Had COVID
+80,Male,Christian,Divorced,No,Had COVID
+50,Female,Muslim,Divorced,No,Long COVID
+24,Male,Muslim,Single,Yes,Had COVID
+24,Male,No religion,Single,No,None
+55,Male,No religion,Divorced,No,Had COVID
+19,Male,No religion,Single,No,Bereaved
+20,Female,Christian,Single,No,Had COVID
+77,Female,Christian,Divorced,No,None
+37,Male,No religion,Married,Yes,Had COVID
+36,Male,Christian,Married,No,Had COVID
+21,Female,No religion,Single,No,Had COVID
+67,Female,Christian,Single,No,Bereaved
+79,Female,No religion,Widowed,No,None
+90,Male,Not answered,Married,No,None
+30,Female,Christian,Married,No,None
+85,Female,Christian,Married,No,None
+47,Male,Christian,Single,No,Bereaved
+25,Male,Christian,Single,No,None
+78,Female,Christian,Widowed,No,None
+47,Female,Hindu,Married,Yes,Bereaved
+60,Female,Christian,Divorced,No,None
+56,Female,Christian,Married,Yes,None
+31,Female,No religion,Single,No,Bereaved
+57,Female,No religion,Single,No,None
+53,Female,Muslim,Married,No,Had COVID
+35,Male,Christian,Married,No,Bereaved
+18,Female,Christian,Single,No,None
+37,Female,Muslim,Married,No,Had COVID
+81,Female,Christian,Married,No,None
+45,Female,No religion,Married,No,Had COVID
+37,Male,Christian,Single,No,Had COVID
+56,Male,No religion,Single,No,Bereaved
+58,Female,Christian,Married,No,None
+48,Female,Not answered,Married,Yes,None
+22,Male,No religion,Single,No,Bereaved
+73,Male,No religion,Single,No,Had COVID
+44,Male,Christian,Married,No,Had COVID
+38,Female,Christian,Single,No,Had COVID
+56,Male,No religion,Married,No,Had COVID
+59,Male,Christian,Single,No,Had COVID
+30,Female,No religion,Single,Yes,Had COVID
+36,Male,No religion,Married,No,None
+38,Male,Christian,Married,Yes,Had COVID
+90,Female,Not answered,Widowed,No,Had COVID
+63,Male,No religion,Single,Yes,None
+30,Male,Muslim,Single,No,Had COVID
+72,Female,Christian,Married,No,None
+61,Female,Muslim,Married,No,None
+69,Female,Christian,Married,No,Had COVID
+75,Female,No religion,Married,No,Had COVID
+58,Male,Christian,Married,No,None
+87,Female,Christian,Married,No,Had COVID
+45,Male,Christian,Married,Yes,None
+42,Female,Muslim,Divorced,No,Had COVID
+45,Female,No religion,Single,No,None
+32,Female,No religion,Married,No,Had COVID
+59,Female,No religion,Married,No,None
+44,Male,Christian,Married,No,None
+32,Female,No religion,Separated,Yes,Had COVID
+21,Female,Not answered,Single,No,None
+26,Female,Christian,Single,No,None
+90,Male,Christian,Married,No,None
+56,Male,Christian,Married,No,Had COVID
+66,Female,Christian,Widowed,No,None
+72,Female,Christian,Single,No,None
+40,Female,Christian,Single,Yes,Had COVID
+36,Male,Christian,Married,Yes,None
+69,Female,Christian,Married,No,None
+35,Male,Christian,Married,Yes,Had COVID
+52,Female,Christian,Widowed,No,Had COVID
+60,Male,Other religion,Married,No,Bereaved
+35,Male,Sikh,Married,No,None
+22,Female,Christian,Single,No,Bereaved
+68,Male,No religion,Divorced,No,Had COVID
+50,Female,Not answered,Married,No,Bereaved
+66,Male,Muslim,Married,No,Had COVID
+47,Female,No religion,Married,Yes,Long COVID
+83,Female,No religion,Divorced,No,None
+26,Male,Not answered,Married,No,None
+46,Female,Christian,Single,No,Had COVID
+65,Male,Christian,Married,No,Had COVID
+73,Male,No religion,Married,No,Bereaved
+48,Female,Christian,Married,Yes,Had COVID
+40,Female,No religion,Married,Yes,Bereaved
+28,Female,Hindu,Married,No,Had COVID
+58,Female,Sikh,Single,No,None
+32,Female,Not answered,Single,No,Had COVID
+42,Female,Not answered,Married,Yes,Bereaved
+20,Male,No religion,Single,No,None
+24,Female,No religion,Divorced,No,Had COVID
+42,Female,No religion,Single,No,Had COVID
+54,Male,Christian,Married,No,None
+86,Female,Christian,Married,No,Had COVID
+18,Female,Christian,Single,No,None
+58,Female,Not answered,Widowed,No,Had COVID
+78,Male,Christian,Widowed,No,None
+41,Female,Muslim,Single,Yes,Bereaved
+74,Female,No religion,Married,No,Bereaved
+42,Female,Hindu,Divorced,No,None
+67,Male,Christian,Married,No,None
+33,Male,No religion,Divorced,Yes,Had COVID
+65,Female,Not answered,Widowed,No,Had COVID
+40,Female,Christian,Married,No,Had COVID
+69,Male,No religion,Widowed,No,None
+80,Female,Muslim,Married,No,Long COVID
+50,Female,No religion,Married,Yes,Long COVID
+49,Female,Muslim,Single,No,Had COVID
+75,Female,Jewish,Single,No,None
+64,Male,No religion,Married,No,Had COVID
+53,Male,Christian,Married,Yes,Long COVID
+66,Female,Hindu,Married,No,None
+76,Female,Christian,Married,No,None
+58,Male,No religion,Single,No,Long COVID
+38,Female,Christian,Married,No,None
+23,Male,Muslim,Single,No,Had COVID
+38,Female,No religion,Single,No,None
+29,Male,Christian,Single,Yes,Had COVID
+23,Male,Christian,Single,No,Had COVID
+40,Male,Christian,Married,Yes,None
+45,Male,No religion,Single,No,None
+43,Female,Christian,Single,Yes,None
+24,Female,Christian,Single,No,Had COVID
+29,Female,Christian,Single,No,Had COVID
+23,Female,No religion,Single,No,Bereaved
+38,Female,No religion,Married,Yes,Had COVID
+56,Female,No religion,Married,No,Had COVID
+22,Female,Christian,Single,No,Bereaved
+37,Female,No religion,Married,Yes,None
+24,Male,No religion,Single,No,Bereaved
+62,Female,Muslim,Widowed,No,Had COVID
+47,Female,No religion,Married,No,None
+58,Female,No religion,Married,No,Had COVID
+46,Male,Christian,Married,No,Bereaved
+41,Male,Christian,Married,No,None
+57,Male,Not answered,Married,No,None
+83,Male,Christian,Married,No,Bereaved
+57,Male,Christian,Separated,No,None
+73,Female,Christian,Married,No,Bereaved
+69,Male,No religion,Married,No,Bereaved
+36,Male,Not answered,Divorced,Yes,Bereaved
+79,Female,Christian,Widowed,No,None
+36,Female,No religion,Married,No,Long COVID
+42,Male,Christian,Married,No,Had COVID
+28,Female,Hindu,Married,Yes,None
+57,Male,Christian,Married,No,Had COVID
+42,Male,Christian,Married,No,Had COVID
+33,Male,Christian,Single,Yes,None
+39,Female,No religion,Married,Yes,Bereaved
+63,Female,Christian,Married,No,None
+82,Female,No religion,Divorced,No,Bereaved
+56,Male,Muslim,Single,No,Had COVID
+55,Male,No religion,Separated,Yes,Bereaved
+48,Male,Christian,Married,Yes,Had COVID
+43,Female,Not answered,Married,Yes,Long COVID
+33,Male,Muslim,Single,No,Had COVID
+68,Male,Christian,Married,No,Had COVID
+23,Female,Christian,Single,No,Had COVID
+58,Male,Christian,Single,No,Had COVID
+26,Female,Christian,Married,No,None
+39,Female,No religion,Married,No,Had COVID
+21,Male,Christian,Married,No,None
+43,Female,No religion,Single,Yes,Bereaved
+81,Male,No religion,Married,No,Bereaved
+50,Male,Christian,Married,No,None
+74,Male,Muslim,Married,No,Had COVID
+75,Male,Christian,Married,No,None
+85,Female,No religion,Married,No,Had COVID
+25,Male,No religion,Single,No,None
+47,Male,No religion,Married,Yes,Had COVID
+73,Male,Christian,Married,No,Had COVID
+50,Female,No religion,Married,No,Had COVID
+46,Female,Christian,Divorced,No,Had COVID
+70,Female,Christian,Widowed,No,None
+36,Female,No religion,Married,Yes,None
+38,Female,No religion,Married,No,None
+42,Male,Christian,Married,Yes,Bereaved
+79,Female,No religion,Married,No,None
+60,Male,Christian,Married,No,Bereaved
+63,Male,Sikh,Married,No,Long COVID
+19,Male,No religion,Single,No,None
+63,Male,Christian,Married,No,Long COVID
+77,Female,Christian,Widowed,No,Had COVID
+47,Female,Christian,Married,No,None
+25,Female,Christian,Married,No,None
+75,Female,Christian,Widowed,No,Had COVID
+42,Male,No religion,Single,No,Had COVID
+62,Female,Other religion,Married,No,Had COVID
+19,Male,Christian,Single,No,Had COVID
+71,Male,Hindu,Single,No,Bereaved
+43,Male,No religion,Married,Yes,None
+54,Male,Muslim,Married,No,Had COVID
+40,Female,No religion,Single,Yes,Had COVID
+21,Male,Christian,Single,No,None
+62,Female,No religion,Divorced,No,None
+90,Female,Christian,Widowed,No,Bereaved
+34,Female,Muslim,Single,Yes,Bereaved
+45,Male,Christian,Married,No,None
+53,Female,Christian,Divorced,No,None
+34,Male,No religion,Single,Yes,Had COVID
+31,Female,Buddhist,Single,Yes,Had COVID
+54,Female,No religion,Widowed,No,None
+57,Male,Christian,Single,No,None
+32,Male,Christian,Single,No,None
+62,Male,No religion,Married,No,None
+55,Female,Not answered,Divorced,No,None
+61,Male,Muslim,Divorced,No,Had COVID
+82,Male,Not answered,Married,No,None
+58,Female,Not answered,Married,No,None
+44,Female,No religion,Single,Yes,Bereaved
+71,Female,Christian,Married,No,Bereaved
+39,Female,No religion,Single,No,Had COVID
+60,Male,Christian,Divorced,No,None
+31,Male,Muslim,Single,No,None
+70,Male,Christian,Married,No,Had COVID
+78,Male,Christian,Widowed,No,None
+28,Male,No religion,Single,No,None
+35,Male,Christian,Single,Yes,None
+40,Female,No religion,Married,Yes,None
+19,Male,Christian,Single,No,None
+64,Male,Christian,Married,No,Long COVID
+31,Female,Christian,Married,No,Had COVID
+22,Male,No religion,Single,No,None
+44,Male,No religion,Divorced,Yes,Had COVID
+70,Female,Christian,Widowed,No,Had COVID
+90,Male,Christian,Separated,No,None
+64,Male,No religion,Single,No,Had COVID
+70,Female,Christian,Married,No,None
+68,Male,Christian,Married,No,Had COVID
+49,Female,Christian,Single,No,Had COVID
+50,Female,Christian,Married,Yes,None
+67,Male,Christian,Married,No,Had COVID
+56,Male,Not answered,Married,No,Bereaved
+78,Female,Not answered,Divorced,No,None
+39,Female,Not answered,Married,Yes,Had COVID
+34,Female,Christian,Single,No,None
+61,Female,Muslim,Married,No,Had COVID
+55,Male,No religion,Divorced,No,Had COVID
+45,Male,Christian,Married,Yes,None
+88,Female,Christian,Widowed,No,Had COVID
+77,Male,No religion,Married,No,Bereaved
+47,Female,Christian,Married,Yes,None
+45,Female,Hindu,Married,No,None
+78,Female,Christian,Single,No,None
+73,Male,No religion,Divorced,No,Had COVID
+41,Male,Christian,Single,Yes,Had COVID
+50,Female,Christian,Divorced,No,Had COVID
+54,Female,Christian,Separated,No,Had COVID
+23,Female,Christian,Single,No,None
+65,Male,No religion,Divorced,No,Had COVID
+73,Female,No religion,Married,No,Had COVID
+55,Male,No religion,Widowed,No,Had COVID
+60,Male,Christian,Married,No,None
+42,Female,No religion,Widowed,Yes,None
+39,Female,No religion,Married,No,Had COVID
+61,Female,Sikh,Widowed,No,Bereaved
+63,Male,Christian,Divorced,Yes,Had COVID
+56,Male,No religion,Divorced,No,None
+39,Male,No religion,Single,Yes,None
+24,Female,Christian,Single,No,Bereaved
+25,Male,No religion,Single,Yes,Bereaved
+67,Female,Christian,Married,No,None
+65,Female,No religion,Divorced,No,Had COVID
+48,Female,Christian,Single,Yes,None
+61,Female,Muslim,Married,No,Bereaved
+71,Male,No religion,Married,No,None
+37,Male,No religion,Single,No,Bereaved
+57,Female,Muslim,Married,No,Bereaved
+75,Male,Not answered,Married,No,Bereaved
+45,Female,Christian,Married,Yes,None
+42,Male,No religion,Divorced,No,Long COVID
+72,Male,Hindu,Single,No,Had COVID
+58,Male,Christian,Married,No,None
+55,Male,Christian,Married,Yes,Long COVID
+21,Female,Christian,Single,No,Had COVID
+53,Male,Christian,Married,No,None
+44,Male,Christian,Single,Yes,None
+59,Male,Christian,Divorced,No,Bereaved
+65,Male,Christian,Married,No,None
+24,Female,No religion,Single,No,Had COVID
+38,Female,No religion,Single,Yes,None
+53,Female,No religion,Single,No,None
+56,Male,Christian,Married,No,Had COVID
+21,Male,Muslim,Single,No,Had COVID
+35,Female,No religion,Married,No,Had COVID
+64,Male,No religion,Married,No,Had COVID
+48,Male,Buddhist,Married,Yes,None
+57,Male,No religion,Married,Yes,Had COVID
+81,Male,Christian,Widowed,No,None
+60,Female,Christian,Married,No,None
+45,Female,Hindu,Married,Yes,Had COVID
+43,Male,No religion,Married,Yes,None
+47,Female,Hindu,Married,No,None
+84,Male,No religion,Married,No,Bereaved
+83,Male,Christian,Married,No,Had COVID
+40,Female,Muslim,Divorced,Yes,None
+40,Male,Christian,Single,No,Bereaved
+18,Male,Christian,Single,No,None
+57,Male,Christian,Married,No,Had COVID
+64,Female,Christian,Married,No,Had COVID
+56,Female,No religion,Married,Yes,Had COVID
+24,Female,No religion,Single,No,Had COVID
+73,Female,Muslim,Married,No,None
+35,Male,Christian,Married,No,Had COVID
+70,Male,No religion,Divorced,No,None
+66,Female,Christian,Widowed,No,None
+61,Male,Christian,Married,No,Had COVID
+46,Male,Muslim,Married,No,None
+90,Male,No religion,Married,No,None
+63,Male,Christian,Married,No,None
+41,Female,No religion,Divorced,No,None
+28,Female,No religion,Divorced,No,Had COVID
+32,Female,Not answered,Married,No,None
+38,Male,Christian,Married,Yes,Bereaved
+55,Female,No religion,Married,No,None
+27,Female,No religion,Married,No,None
+38,Male,Hindu,Married,Yes,Had COVID
+78,Female,No religion,Married,No,None
+35,Female,No religion,Married,Yes,Had COVID
+58,Male,Jewish,Separated,No,None
+76,Male,Christian,Married,No,None
+56,Male,No religion,Divorced,Yes,Had COVID
+65,Female,No religion,Divorced,No,Had COVID
+21,Male,No religion,Single,No,Had COVID
+36,Female,No religion,Married,No,Had COVID
+59,Female,Muslim,Married,No,None
+22,Female,Christian,Single,No,Had COVID
+53,Male,Christian,Divorced,No,Had COVID
+71,Female,Not answered,Divorced,No,Bereaved
+22,Female,Not answered,Single,No,Had COVID
+60,Female,Christian,Single,Yes,Had COVID
+43,Male,No religion,Married,No,None
+59,Male,Christian,Married,No,Had COVID
+25,Male,No religion,Married,No,Had COVID
+22,Female,Muslim,Single,No,None
+84,Female,Not answered,Single,No,Bereaved
+44,Male,Christian,Married,Yes,Bereaved
+21,Male,Christian,Single,No,Had COVID
+75,Female,Christian,Widowed,No,None
+31,Male,No religion,Single,Yes,Had COVID
+62,Male,No religion,Divorced,No,Bereaved
+59,Female,Christian,Divorced,No,None
+19,Female,Muslim,Single,No,None
+66,Female,No religion,Widowed,No,None
+70,Female,Christian,Married,No,None
+66,Female,Christian,Divorced,No,None
+34,Female,No religion,Divorced,Yes,None
+48,Male,No religion,Single,Yes,Long COVID
+65,Female,No religion,Married,No,Had COVID
+50,Male,Christian,Married,No,Had COVID
+58,Male,Muslim,Married,No,Had COVID
+61,Female,No religion,Married,No,Had COVID
+20,Male,No religion,Married,No,None
+61,Male,No religion,Single,No,None
+28,Female,Christian,Single,No,None
+47,Female,Christian,Married,Yes,Had COVID
+38,Male,No religion,Married,Yes,None
+64,Female,Christian,Married,No,Long COVID
+20,Male,Christian,Single,No,Bereaved
+74,Female,Not answered,Divorced,No,Had COVID
+21,Female,No religion,Single,No,None
+60,Male,Christian,Married,No,None
+25,Male,Not answered,Single,No,Had COVID
+26,Male,No religion,Divorced,No,Had COVID
+71,Male,Christian,Married,No,Bereaved
+18,Female,Christian,Single,No,None
+56,Male,No religion,Single,No,None
+28,Female,No religion,Single,No,Had COVID
+38,Male,No religion,Single,Yes,Had COVID
+58,Male,Christian,Married,No,Had COVID
+50,Male,No religion,Married,No,None
+59,Male,Christian,Divorced,No,None
+59,Male,Not answered,Married,No,Long COVID
+21,Male,Buddhist,Married,No,None
+25,Female,Sikh,Married,No,Had COVID
+41,Male,No religion,Single,Yes,Had COVID
+36,Female,No religion,Married,Yes,Had COVID
+71,Female,Christian,Widowed,No,None
+19,Female,Christian,Single,No,Had COVID
+70,Female,Not answered,Single,Yes,Had COVID
+60,Male,Not answered,Separated,No,Bereaved
+46,Male,No religion,Married,No,Had COVID
+41,Male,No religion,Divorced,Yes,Had COVID
+55,Female,Christian,Married,Yes,Long COVID
+30,Male,Christian,Single,Yes,None
+36,Female,Christian,Married,Yes,None
+50,Female,Christian,Married,No,Bereaved
+25,Female,No religion,Single,Yes,None
+19,Male,No religion,Single,No,None
+63,Male,No religion,Married,No,Had COVID
+77,Female,No religion,Married,No,Bereaved
+52,Female,Christian,Married,No,Had COVID
+82,Female,Christian,Married,No,None
+79,Female,Christian,Married,No,Bereaved
+33,Male,Christian,Single,No,Had COVID
+33,Male,Christian,Single,No,Had COVID
+29,Male,Christian,Married,No,Had COVID
+58,Female,Muslim,Married,No,None
+48,Male,Christian,Married,No,None
+82,Female,Not answered,Widowed,No,None
+41,Female,No religion,Married,No,Long COVID
+22,Female,No religion,Single,No,None
+29,Female,Not answered,Single,Yes,None
+37,Female,No religion,Married,No,Had COVID
+27,Female,No religion,Married,Yes,Had COVID
+67,Male,No religion,Widowed,No,Had COVID
+85,Female,No religion,Divorced,No,Had COVID
+38,Male,Christian,Married,No,None
+62,Female,No religion,Widowed,No,None
+35,Female,Muslim,Married,No,None
+25,Female,No religion,Single,No,Had COVID
+60,Female,No religion,Married,No,Had COVID
+37,Male,Christian,Married,No,None
+58,Male,Sikh,Divorced,No,Had COVID
+62,Male,No religion,Married,No,None
+70,Male,Christian,Widowed,No,None
+80,Female,Buddhist,Widowed,No,Bereaved
+46,Male,Christian,Married,Yes,None
+26,Female,No religion,Single,No,Had COVID
+65,Male,No religion,Married,No,Had COVID
+21,Female,Christian,Single,No,Had COVID
+53,Male,Christian,Separated,No,Had COVID
+75,Female,Christian,Married,No,None
+55,Female,No religion,Married,No,Bereaved
+52,Male,No religion,Married,No,None
+47,Male,Muslim,Married,Yes,Had COVID
+65,Female,Not answered,Divorced,No,Had COVID
+60,Female,Christian,Married,Yes,None
+60,Female,Christian,Divorced,No,Had COVID
+48,Male,Christian,Married,No,Had COVID
+58,Female,No religion,Married,No,None
+69,Female,Christian,Married,No,Long COVID
+71,Male,No religion,Married,No,None
+33,Female,Christian,Married,No,Had COVID
+41,Female,Other religion,Married,No,Bereaved
+59,Female,Christian,Single,No,None
+44,Female,Muslim,Married,Yes,None
+52,Female,No religion,Married,No,Bereaved
+65,Female,Christian,Widowed,No,Had COVID
+44,Female,No religion,Married,No,Had COVID
+44,Male,No religion,Married,No,Long COVID
+46,Female,No religion,Married,Yes,None
+22,Male,No religion,Single,No,Long COVID
+26,Male,Christian,Divorced,No,None
+48,Male,Christian,Single,No,None
+60,Female,No religion,Married,No,None
+73,Female,Christian,Widowed,No,None
+34,Male,Christian,Single,Yes,None
+64,Male,Not answered,Married,No,None
+20,Female,Christian,Single,No,Long COVID
+27,Female,Christian,Married,Yes,Bereaved
+64,Female,Christian,Married,No,Long COVID
+72,Male,Christian,Married,No,None
+45,Male,No religion,Separated,Yes,None
+22,Female,No religion,Single,No,None
+31,Male,Christian,Single,No,None
+37,Female,Christian,Married,Yes,None
+37,Female,No religion,Married,Yes,None
+25,Male,Christian,Single,No,None
+18,Male,Christian,Single,No,None
+90,Male,No religion,Married,No,Bereaved
+76,Male,No religion,Married,No,Had COVID
+49,Female,Christian,Single,No,Had COVID
+61,Male,Muslim,Married,No,None
+43,Female,No religion,Single,Yes,None
+32,Female,No religion,Single,Yes,Had COVID
+90,Female,Christian,Married,No,Had COVID
+57,Female,Christian,Married,No,Had COVID
+38,Male,No religion,Married,No,Had COVID
+45,Male,Not answered,Married,No,Had COVID
+75,Female,No religion,Single,No,Had COVID
+45,Male,Not answered,Single,Yes,Had COVID
+27,Male,No religion,Single,Yes,None
+53,Male,No religion,Married,No,Had COVID
+43,Female,Christian,Divorced,No,None
+40,Female,Christian,Married,Yes,Bereaved
+51,Male,Christian,Married,No,None
+56,Female,Christian,Married,No,None
+59,Female,No religion,Married,No,Had COVID
+77,Male,Other religion,Married,No,Had COVID
+31,Female,No religion,Divorced,No,None
+79,Female,Muslim,Married,No,None
+86,Male,Hindu,Widowed,No,Had COVID
+61,Female,Other religion,Married,No,None
+42,Female,Christian,Single,No,None
+81,Female,Christian,Widowed,No,None
+18,Male,Not answered,Single,No,None
+46,Female,Christian,Married,No,Bereaved
+71,Female,No religion,Married,No,None
+34,Female,No religion,Single,No,None
+27,Female,Christian,Married,No,None
+35,Male,Muslim,Single,Yes,Had COVID
+47,Male,No religion,Married,No,Long COVID
+27,Female,Christian,Single,No,Had COVID
+32,Female,No religion,Single,No,None
+29,Male,No religion,Single,No,None
+63,Male,Other religion,Single,No,None
+78,Female,No religion,Widowed,No,None
+49,Female,No religion,Married,Yes,None
+67,Male,No religion,Single,No,Bereaved
+29,Male,Christian,Single,No,Bereaved
+51,Female,No religion,Married,No,None
+68,Female,No religion,Single,No,Had COVID
+40,Male,No religion,Single,No,Had COVID
+70,Male,Christian,Married,No,Bereaved
+33,Male,Muslim,Single,No,Had COVID
+59,Female,Christian,Married,No,Had COVID
+73,Male,Christian,Widowed,No,None
+26,Male,No religion,Married,No,Had COVID
+54,Male,Christian,Divorced,No,Bereaved
+43,Male,Christian,Single,No,None
+32,Male,Christian,Single,No,None
+20,Male,Christian,Married,No,Had COVID
+36,Male,Christian,Single,Yes,Bereaved
+39,Female,No religion,Single,No,Had COVID
+83,Male,No religion,Married,No,None
+41,Male,Christian,Single,No,Had COVID
+51,Female,Christian,Widowed,No,None
+78,Female,Christian,Widowed,No,None
+68,Male,Not answered,Married,No,Bereaved
+69,Female,No religion,Widowed,No,None
+41,Female,No religion,Married,Yes,None
+80,Female,No religion,Married,No,None
+68,Male,No religion,Married,No,None
+57,Male,No religion,Married,No,None
+42,Male,Christian,Divorced,No,Bereaved
+18,Female,Hindu,Single,No,None
+50,Male,No religion,Divorced,No,None
+54,Female,No religion,Married,No,Bereaved
+58,Male,No religion,Divorced,No,Long COVID
+55,Female,Christian,Widowed,No,Had COVID
+69,Male,Muslim,Widowed,No,None
+37,Female,Christian,Married,No,Long COVID
+47,Female,No religion,Single,Yes,None
+47,Male,No religion,Married,Yes,Had COVID
+39,Male,No religion,Married,Yes,Had COVID
+58,Male,No religion,Divorced,No,Bereaved
+53,Female,No religion,Married,No,None
+21,Male,Christian,Single,No,None
+56,Male,Christian,Separated,No,Had COVID
+32,Male,Muslim,Single,No,Had COVID
+70,Male,No religion,Widowed,No,None
+52,Female,No religion,Married,No,Had COVID
+18,Male,No religion,Single,No,Had COVID
+26,Female,Christian,Single,No,Had COVID
+24,Male,Hindu,Single,No,None
+56,Female,Christian,Divorced,Yes,None
+54,Female,Muslim,Married,No,None
+25,Male,No religion,Married,No,None
+60,Male,No religion,Married,No,None
+35,Female,Christian,Married,Yes,None
+61,Male,No religion,Married,No,None
+67,Male,No religion,Married,Yes,None
+78,Male,Christian,Married,No,Had COVID
+63,Female,Christian,Divorced,No,None
+72,Female,Christian,Married,No,None
+83,Female,No religion,Widowed,No,Bereaved
+35,Male,Christian,Married,Yes,None
+32,Female,No religion,Married,Yes,None
+71,Male,Hindu,Married,No,None
+54,Female,Christian,Married,Yes,Had COVID
+30,Female,No religion,Single,No,Long COVID
+43,Female,Christian,Separated,Yes,None
+34,Female,Not answered,Single,Yes,Had COVID
+81,Male,Christian,Married,No,None
+83,Female,Christian,Widowed,No,Had COVID
+51,Female,Christian,Married,No,None
+55,Male,No religion,Married,No,Had COVID
+70,Female,Christian,Widowed,No,None
+42,Male,Christian,Married,No,None
+34,Female,Jewish,Single,No,None
+47,Male,Christian,Married,Yes,None
+90,Female,Christian,Married,No,Had COVID
+85,Female,No religion,Widowed,No,Had COVID
+89,Female,Christian,Divorced,No,None
+65,Female,No religion,Married,No,Long COVID
+62,Female,No religion,Married,No,Had COVID
+25,Female,Christian,Single,No,None
+55,Female,No religion,Separated,No,Long COVID
+19,Female,Christian,Single,No,None
+23,Male,Muslim,Single,No,Had COVID
+87,Female,Christian,Widowed,No,None
+29,Female,Christian,Single,No,Bereaved
+43,Male,No religion,Single,Yes,None
+78,Female,Buddhist,Married,No,None
+83,Female,No religion,Married,No,None
+32,Male,Christian,Single,No,Had COVID
+71,Female,Christian,Single,No,None
+60,Male,Christian,Married,No,None
+80,Female,Christian,Married,No,None
+55,Male,Not answered,Married,No,Had COVID
+18,Male,Christian,Single,No,Bereaved
+60,Female,Not answered,Married,No,None
+59,Female,Christian,Married,No,None
+53,Male,Muslim,Divorced,No,None
+87,Male,Muslim,Married,No,None
+24,Female,No religion,Single,Yes,Had COVID
+40,Male,Christian,Single,Yes,None
+60,Female,Not answered,Married,No,Had COVID
+55,Male,Christian,Married,No,Had COVID
+27,Male,No religion,Single,No,Had COVID
+71,Female,No religion,Married,No,None
+35,Male,Christian,Married,No,Bereaved
+64,Female,Christian,Married,No,Had COVID
+45,Male,No religion,Married,No,Had COVID
+54,Female,Christian,Separated,No,None
+29,Male,Christian,Widowed,No,Had COVID
+37,Male,Christian,Single,No,Bereaved
+28,Male,No religion,Married,Yes,Had COVID
+90,Female,Sikh,Widowed,No,Bereaved
+87,Male,No religion,Married,No,Had COVID
+56,Female,Christian,Divorced,No,Had COVID
+33,Female,Christian,Single,No,Bereaved
+43,Female,Not answered,Married,Yes,None
+68,Male,Christian,Divorced,No,Had COVID
+58,Female,Other religion,Divorced,No,None
+32,Male,No religion,Single,Yes,None
+22,Female,No religion,Single,No,Had COVID
+45,Female,No religion,Single,No,Long COVID
+48,Male,No religion,Separated,No,Bereaved
+76,Female,Christian,Divorced,No,None
+24,Male,Not answered,Single,No,Bereaved
+65,Male,No religion,Widowed,No,None
+37,Female,No religion,Divorced,No,Had COVID
+29,Female,Christian,Single,No,None
+48,Female,Christian,Married,Yes,Bereaved
+63,Female,Christian,Widowed,No,None
+27,Female,Christian,Single,No,Bereaved
+35,Female,No religion,Married,Yes,None
+27,Female,Christian,Single,No,None
+82,Male,Christian,Married,No,None
+27,Female,Christian,Single,No,None
+29,Male,Christian,Single,No,Had COVID
+22,Male,Christian,Single,Yes,Bereaved
+32,Female,Christian,Married,Yes,Had COVID
+86,Female,Sikh,Married,No,None
+21,Female,Christian,Single,No,None
+42,Male,Christian,Married,Yes,Had COVID
+62,Female,No religion,Married,No,Had COVID
+54,Female,Christian,Married,No,None
+37,Female,No religion,Single,Yes,Had COVID
+26,Male,Christian,Single,No,Bereaved
+27,Male,Christian,Married,No,Had COVID
+51,Female,Other religion,Married,No,Had COVID
+59,Male,No religion,Married,No,Had COVID
+31,Male,Christian,Single,No,None
+33,Female,No religion,Single,Yes,Had COVID
+27,Male,Muslim,Married,Yes,Had COVID
+33,Male,No religion,Married,No,Had COVID
+53,Female,Muslim,Married,No,None
+71,Female,Muslim,Widowed,No,Had COVID
+72,Male,Christian,Married,No,None
+48,Male,Christian,Married,No,None
+20,Female,Christian,Single,No,Bereaved
+90,Female,Not answered,Married,No,None
+20,Male,Christian,Single,No,Bereaved
+52,Male,Christian,Divorced,No,Had COVID
+79,Male,Christian,Married,No,Bereaved
+30,Female,Not answered,Single,Yes,None
+62,Male,No religion,Married,No,None
+48,Female,No religion,Divorced,Yes,Long COVID
+63,Male,No religion,Married,No,None
+70,Male,Christian,Married,No,Had COVID
+74,Male,No religion,Married,No,Bereaved
+41,Female,Christian,Single,No,None
+70,Male,No religion,Widowed,No,Had COVID
+76,Male,No religion,Married,No,Had COVID
+71,Male,Christian,Widowed,No,Had COVID
+65,Male,Christian,Single,No,Had COVID
+33,Male,No religion,Married,Yes,Had COVID
+18,Female,Christian,Single,No,None
+77,Female,Christian,Single,No,Bereaved
+52,Female,Christian,Divorced,No,None
+69,Male,No religion,Widowed,No,Had COVID
+48,Female,Christian,Married,No,Had COVID
+59,Male,No religion,Divorced,No,None
+43,Female,Christian,Married,Yes,None
+40,Female,Christian,Married,Yes,Bereaved
+79,Male,No religion,Married,No,Bereaved
+76,Female,Christian,Married,No,Had COVID
+60,Female,No religion,Married,No,None
+61,Male,Christian,Married,No,None
+90,Male,Christian,Divorced,No,Had COVID
+59,Male,Christian,Married,No,Bereaved
+88,Female,Other religion,Widowed,No,None
+66,Male,Muslim,Married,No,Had COVID
+56,Female,Christian,Married,No,Had COVID
+87,Female,Christian,Widowed,No,Bereaved
+18,Male,Hindu,Single,No,Had COVID
+66,Male,Christian,Widowed,No,None
+52,Female,Christian,Single,No,None
+21,Female,Not answered,Single,No,Bereaved
+31,Female,No religion,Single,Yes,None
+44,Female,No religion,Single,Yes,None
+86,Female,Christian,Married,No,None
+42,Female,Christian,Married,No,None
+32,Male,Christian,Married,Yes,Had COVID
+44,Male,Christian,Married,No,None
+30,Female,Christian,Single,No,None
+58,Female,No religion,Married,No,Long COVID
+82,Male,Christian,Divorced,No,None
+74,Male,Christian,Married,No,Bereaved
+55,Male,No religion,Married,No,None
+34,Female,No religion,Married,Yes,Long COVID
+70,Male,Not answered,Divorced,No,None
+28,Female,Sikh,Single,No,None
+23,Female,Christian,Single,No,Had COVID
+65,Female,No religion,Married,No,None
+60,Male,No religion,Divorced,Yes,None
+71,Male,Christian,Married,No,None
+43,Female,Christian,Married,Yes,Had COVID
+22,Female,Christian,Single,No,Had COVID
+50,Male,Christian,Married,No,Had COVID
+27,Female,Christian,Single,No,Had COVID
+65,Female,Muslim,Divorced,No,Had COVID
+33,Male,Hindu,Widowed,No,None
+75,Male,Christian,Married,No,Had COVID
+46,Female,Christian,Divorced,No,Had COVID
+75,Female,Christian,Widowed,No,Had COVID
+50,Male,No religion,Married,No,Had COVID
+65,Female,Christian,Widowed,No,Bereaved
+29,Female,No religion,Single,Yes,None
+61,Male,Christian,Divorced,No,None
+55,Female,Muslim,Married,No,None
+77,Female,Christian,Married,No,Had COVID
+19,Male,Christian,Single,No,None
+57,Female,Christian,Single,No,Had COVID
+56,Female,Muslim,Married,No,Bereaved
+50,Male,No religion,Widowed,No,None
+77,Male,Christian,Married,No,None
+75,Male,Christian,Married,No,None
+47,Male,No religion,Married,Yes,None
+32,Male,Christian,Married,Yes,Bereaved
+30,Female,Christian,Single,Yes,None
+40,Male,Christian,Married,No,Had COVID
+62,Male,Muslim,Separated,No,None
+42,Male,No religion,Single,No,None
+55,Male,No religion,Married,No,None
+24,Male,Not answered,Single,No,None
+45,Female,Christian,Married,No,Bereaved
+18,Female,Not answered,Single,No,Had COVID
+31,Female,Muslim,Single,No,Had COVID
+32,Female,Christian,Single,No,Had COVID
+18,Male,Not answered,Single,No,None
+24,Male,No religion,Single,No,Had COVID
+38,Male,Christian,Married,Yes,Had COVID
+74,Female,No religion,Married,No,None
+75,Male,No religion,Married,No,Had COVID
+36,Female,Christian,Married,Yes,Had COVID
+56,Female,Muslim,Married,No,Had COVID
+68,Female,Muslim,Divorced,No,None
+56,Male,Christian,Married,No,Long COVID
+73,Male,No religion,Widowed,No,None
+62,Male,No religion,Married,No,Had COVID
+29,Male,No religion,Single,Yes,None
+43,Female,Christian,Married,No,Had COVID
+74,Female,No religion,Widowed,No,Bereaved
+69,Female,No religion,Widowed,Yes,None
+82,Female,Christian,Divorced,No,Had COVID
+60,Female,Christian,Married,No,Had COVID
+26,Male,Christian,Single,No,Had COVID
+29,Male,Christian,Single,No,Bereaved
+32,Female,Christian,Single,No,Had COVID
+73,Female,No religion,Married,No,None
+33,Male,Christian,Single,Yes,Bereaved
+71,Male,No religion,Single,No,Had COVID
+33,Male,No religion,Single,No,None
+79,Female,Not answered,Married,No,None
+39,Female,Not answered,Single,Yes,Had COVID
+47,Female,Sikh,Married,No,Bereaved
+56,Male,Christian,Married,No,None
+19,Female,Christian,Single,No,None
+29,Male,Christian,Single,No,None
+76,Female,Muslim,Married,No,None
+43,Female,No religion,Divorced,No,Had COVID
+71,Female,Christian,Widowed,No,Had COVID
+31,Female,No religion,Single,Yes,None
+54,Female,Christian,Divorced,No,Had COVID
+83,Male,Muslim,Married,No,Had COVID
+82,Female,Christian,Widowed,No,Had COVID
+65,Male,No religion,Married,No,None
+75,Female,Christian,Single,No,None
+68,Male,Christian,Divorced,No,None
+32,Male,No religion,Single,No,None
+18,Male,Christian,Single,No,None
+63,Male,Christian,Married,No,None
+48,Female,Christian,Married,Yes,Had COVID
+23,Female,Christian,Single,No,None
+44,Male,No religion,Single,Yes,Had COVID
+45,Male,No religion,Married,No,Had COVID
+58,Female,Christian,Married,No,None
+84,Female,Christian,Married,No,Had COVID
+37,Female,Christian,Married,No,Had COVID
+80,Female,Christian,Married,No,Had COVID
+64,Male,Christian,Divorced,No,Had COVID
+53,Male,No religion,Married,No,Bereaved
+82,Female,Christian,Widowed,No,Bereaved
+23,Male,No religion,Married,No,None
+63,Male,Christian,Married,No,Had COVID
+76,Female,No religion,Widowed,No,Had COVID
+54,Female,Christian,Single,No,Had COVID
+51,Male,Sikh,Married,No,Bereaved
+32,Male,Christian,Single,Yes,None
+72,Male,No religion,Married,No,Bereaved
+60,Female,Christian,Married,No,Long COVID
+30,Female,Christian,Single,No,Had COVID
+88,Female,Christian,Widowed,No,Had COVID
+18,Female,Christian,Single,No,Bereaved
+27,Male,Christian,Married,Yes,Had COVID
+51,Male,Not answered,Single,No,Bereaved
+28,Female,Christian,Married,No,Had COVID
+54,Female,No religion,Single,No,Had COVID
+71,Female,No religion,Widowed,No,Bereaved
+22,Male,Christian,Single,No,Had COVID
+35,Male,No religion,Single,No,None
+34,Male,No religion,Married,No,Bereaved
+71,Female,No religion,Widowed,No,None
+32,Female,Christian,Single,Yes,Had COVID
+55,Female,Christian,Single,No,None
+64,Male,Muslim,Divorced,No,None
+29,Male,No religion,Single,Yes,Had COVID
+28,Male,Muslim,Single,Yes,Had COVID
+66,Male,Christian,Married,No,None
+31,Male,Christian,Single,No,Had COVID
+27,Male,Muslim,Single,No,Had COVID
+33,Male,Christian,Single,Yes,Had COVID
+53,Male,Christian,Married,No,None
+65,Male,Christian,Married,No,None
+27,Male,No religion,Single,Yes,Had COVID
+53,Female,Christian,Divorced,No,None
+89,Male,Christian,Married,No,Had COVID
+52,Male,Christian,Single,Yes,Had COVID
+51,Male,Christian,Divorced,Yes,Had COVID
+34,Male,Christian,Single,No,None
+29,Female,No religion,Married,No,None
+28,Female,No religion,Single,No,None
+23,Male,Muslim,Single,No,Long COVID
+28,Female,No religion,Single,No,Bereaved
+88,Female,Christian,Married,No,None
+70,Male,Christian,Single,No,Bereaved
+90,Male,Hindu,Married,No,Had COVID
+29,Female,No religion,Married,No,None
+55,Male,No religion,Married,No,Had COVID
+42,Female,Christian,Married,No,None
+85,Female,Christian,Widowed,No,Had COVID
+62,Male,No religion,Divorced,No,None
+19,Female,Christian,Single,No,None
+53,Female,Muslim,Single,No,None
+50,Male,No religion,Single,No,Bereaved
+57,Female,No religion,Married,Yes,None
+19,Male,No religion,Single,No,Had COVID
+67,Male,Christian,Married,No,Had COVID
+58,Female,Hindu,Married,Yes,Had COVID
+55,Female,Not answered,Married,No,None
+47,Female,Christian,Married,No,None
+53,Female,No religion,Married,Yes,None
+26,Female,No religion,Single,No,Had COVID
+33,Female,Christian,Married,No,Had COVID
+28,Male,Christian,Married,Yes,None
+36,Male,Christian,Married,Yes,Had COVID
+55,Male,No religion,Divorced,No,Had COVID
+72,Male,No religion,Married,No,None
+82,Female,No religion,Widowed,No,Bereaved
+60,Female,Muslim,Single,No,Had COVID
+34,Male,Buddhist,Separated,Yes,Had COVID
+68,Male,No religion,Married,No,Had COVID
+32,Male,Christian,Single,No,Had COVID
+39,Male,Muslim,Married,Yes,Had COVID
+85,Male,No religion,Divorced,No,None
+43,Male,Sikh,Married,Yes,Had COVID
+66,Female,No religion,Divorced,No,Bereaved
+23,Male,No religion,Single,No,Had COVID
+88,Female,No religion,Separated,No,None
+26,Female,No religion,Married,No,None
+58,Female,Christian,Married,Yes,Long COVID
+47,Female,Muslim,Single,Yes,Had COVID
+58,Male,Christian,Divorced,No,Had COVID
+37,Female,No religion,Married,Yes,Had COVID
+68,Female,Christian,Divorced,No,None
+82,Male,Christian,Widowed,No,Had COVID
+47,Female,Christian,Married,No,Long COVID
+73,Female,Not answered,Widowed,No,Had COVID
+64,Male,Muslim,Married,No,None
+30,Female,No religion,Married,No,Had COVID
+61,Male,Sikh,Married,No,Had COVID
+60,Male,Christian,Married,No,None
+90,Female,No religion,Divorced,No,Had COVID
+53,Male,No religion,Married,No,Had COVID
+44,Male,Christian,Divorced,No,None
+47,Male,Christian,Married,Yes,Bereaved
+90,Female,Not answered,Single,No,None
+39,Female,Christian,Married,Yes,None
+56,Female,Christian,Divorced,Yes,Had COVID
+30,Female,Christian,Widowed,No,Long COVID
+60,Male,Hindu,Married,No,Had COVID
+39,Female,Christian,Single,Yes,Had COVID
+43,Male,Christian,Married,No,Had COVID
+60,Male,No religion,Married,Yes,None
+59,Female,No religion,Married,No,Bereaved
+39,Female,Christian,Married,Yes,Long COVID
+60,Female,Christian,Married,No,None
+38,Female,No religion,Married,No,Had COVID
+56,Male,Christian,Married,No,Had COVID
+90,Male,No religion,Single,No,None
+34,Female,Christian,Married,No,Had COVID
+66,Male,No religion,Married,No,Had COVID
+35,Male,Jewish,Married,No,Bereaved
+55,Female,Christian,Separated,Yes,Had COVID
+52,Male,No religion,Married,No,Had COVID
+52,Female,No religion,Married,No,None
+78,Male,Muslim,Married,No,None
+24,Male,No religion,Married,Yes,None
+18,Female,Christian,Single,No,Had COVID
+43,Female,Christian,Married,No,None
+41,Male,Christian,Married,No,None
+46,Female,Christian,Married,Yes,Bereaved
+45,Male,No religion,Married,No,None
+25,Female,Christian,Single,No,Long COVID
+31,Female,Christian,Single,No,None
+70,Female,Not answered,Widowed,No,None
+38,Male,No religion,Married,No,Had COVID
+50,Female,Sikh,Married,No,Had COVID
+64,Female,Not answered,Widowed,No,None
+52,Male,No religion,Married,Yes,None
+74,Female,Christian,Married,No,Had COVID
+48,Male,Christian,Single,Yes,Bereaved
+40,Male,Christian,Married,No,Had COVID
+42,Female,No religion,Single,No,Had COVID
+53,Male,No religion,Married,No,Bereaved
+64,Male,Hindu,Single,No,None
+22,Male,No religion,Single,No,None
+30,Female,Hindu,Single,No,Bereaved
+26,Female,No religion,Single,No,None
+65,Female,Muslim,Married,No,None
+64,Male,Christian,Married,No,Long COVID
+42,Male,Christian,Married,Yes,None
+51,Female,Christian,Married,No,Had COVID
+28,Female,No religion,Married,Yes,Had COVID
+39,Male,Christian,Married,Yes,Long COVID
+56,Male,Christian,Married,No,None
+21,Female,Christian,Divorced,No,None
+51,Female,No religion,Married,No,Had COVID
+57,Male,Muslim,Married,No,None
+55,Male,No religion,Married,No,None
+18,Female,Christian,Single,No,None
+65,Female,Christian,Married,No,None
+72,Female,No religion,Widowed,No,Had COVID
+60,Male,Christian,Married,Yes,None
+32,Male,No religion,Married,No,Had COVID
+55,Female,Christian,Married,No,Bereaved
+26,Female,Other religion,Single,No,None
+25,Male,Christian,Divorced,Yes,Bereaved
+26,Female,Not answered,Single,No,None
+26,Male,Sikh,Single,No,Had COVID
+54,Female,Christian,Single,No,None
+52,Female,Christian,Single,No,None
+45,Male,No religion,Single,Yes,None
+19,Male,No religion,Single,No,None
+45,Male,Christian,Single,Yes,Bereaved
+56,Female,No religion,Divorced,No,Bereaved
+33,Female,Buddhist,Single,No,None
+19,Male,No religion,Single,No,Had COVID
+55,Female,Christian,Divorced,No,Long COVID
+20,Male,Christian,Single,No,Bereaved
+64,Female,No religion,Married,No,Had COVID
+67,Female,Christian,Widowed,No,None
+64,Male,Sikh,Married,No,Had COVID
+50,Female,Christian,Married,No,None
+58,Female,Christian,Widowed,No,None
+75,Male,Christian,Widowed,No,Bereaved
+24,Male,No religion,Single,No,None
+87,Female,Christian,Divorced,No,None
+73,Male,Christian,Single,No,Had COVID
+20,Female,Christian,Single,No,Bereaved
+44,Male,Muslim,Single,No,Had COVID
+46,Male,No religion,Single,No,Had COVID
+56,Female,No religion,Divorced,No,Had COVID
+42,Female,Christian,Married,Yes,Had COVID
+58,Male,Christian,Married,No,Had COVID
+58,Male,Christian,Separated,No,None
+22,Male,Christian,Single,No,Had COVID
+37,Male,Christian,Single,No,None
+70,Male,Christian,Married,No,None
+57,Male,Christian,Divorced,No,Had COVID
+33,Female,Not answered,Married,Yes,Had COVID
+66,Female,No religion,Widowed,No,None
+35,Female,Christian,Married,No,Had COVID
+37,Male,No religion,Married,Yes,None
+72,Female,Not answered,Divorced,No,Had COVID
+55,Male,Not answered,Separated,Yes,None
+43,Male,Christian,Married,No,Long COVID
+36,Female,No religion,Single,Yes,Had COVID
+66,Male,Christian,Married,No,None
+79,Male,Christian,Married,No,None
+27,Female,Not answered,Married,No,Bereaved
+60,Male,Christian,Married,No,Long COVID
+79,Male,Christian,Married,No,Bereaved
+59,Male,Muslim,Married,No,Had COVID
+52,Male,Not answered,Divorced,No,Had COVID
+65,Female,Christian,Divorced,No,None
+43,Female,No religion,Married,Yes,Had COVID
+54,Female,Christian,Separated,No,Had COVID
+90,Female,Muslim,Married,No,None
+21,Male,Christian,Single,No,None
+77,Male,Christian,Divorced,No,None
+51,Male,No religion,Married,No,Long COVID
+27,Female,Christian,Divorced,No,None
+25,Male,Christian,Single,Yes,None
+75,Male,Christian,Widowed,No,None
+61,Female,Christian,Married,No,None
+24,Male,Christian,Single,No,Bereaved
+24,Male,Christian,Single,No,Had COVID
+27,Male,Christian,Single,No,None
+77,Male,Christian,Widowed,No,Had COVID
+25,Male,No religion,Single,Yes,Bereaved
+46,Female,Christian,Single,No,Had COVID
+32,Male,Christian,Single,Yes,Had COVID
+65,Female,Christian,Widowed,No,Had COVID
+64,Male,No religion,Divorced,Yes,Had COVID
+77,Female,No religion,Divorced,No,Had COVID
+53,Male,No religion,Married,Yes,Had COVID
+34,Female,Christian,Single,Yes,None
+45,Female,Christian,Single,Yes,None
+48,Female,Christian,Married,No,None
+49,Male,Not answered,Single,No,Had COVID
+25,Female,No religion,Married,No,Had COVID
+41,Female,Muslim,Married,No,Long COVID
+77,Female,Christian,Married,Yes,Bereaved
+50,Male,Not answered,Married,No,None
+63,Female,Muslim,Married,No,None
+42,Male,No religion,Married,Yes,Had COVID
+73,Female,Christian,Divorced,No,Bereaved
+53,Female,No religion,Married,Yes,Had COVID
+41,Female,No religion,Married,Yes,Had COVID
+74,Male,Not answered,Married,No,None
+90,Female,Not answered,Widowed,No,Had COVID
+18,Female,No religion,Single,No,None
+81,Female,No religion,Married,No,None
+22,Male,Muslim,Single,No,None
+38,Female,Christian,Married,Yes,None
+48,Male,No religion,Married,No,Bereaved
+86,Female,Christian,Married,No,Had COVID
+24,Male,Christian,Single,No,None
+79,Male,Christian,Widowed,No,None
+53,Male,No religion,Married,No,Bereaved
+82,Male,Christian,Married,No,Had COVID
+29,Male,Christian,Single,No,Bereaved
+52,Male,Christian,Single,No,Had COVID
+29,Male,No religion,Single,Yes,None
+78,Female,No religion,Married,No,Had COVID
+48,Female,Christian,Married,No,None
+63,Male,Christian,Single,No,Bereaved
+89,Male,Christian,Married,No,None
+43,Female,No religion,Divorced,Yes,Long COVID
+53,Male,Christian,Married,No,None
+49,Female,Christian,Married,No,Had COVID
+52,Female,No religion,Married,No,Had COVID
+49,Female,Christian,Married,No,None
+77,Female,Christian,Divorced,No,Had COVID
+23,Female,Christian,Single,No,Had COVID
+35,Female,Christian,Single,No,None
+85,Male,Christian,Married,No,None
+43,Male,No religion,Single,Yes,None
+66,Male,Christian,Married,No,None
+48,Female,Christian,Single,No,Had COVID
+65,Female,Muslim,Widowed,No,Had COVID
+33,Male,No religion,Single,Yes,None
+39,Female,No religion,Married,No,None
+80,Female,Christian,Widowed,No,Bereaved
+38,Male,Hindu,Married,No,Had COVID
+33,Male,Muslim,Single,Yes,Had COVID
+61,Male,Christian,Married,No,None
+40,Male,No religion,Married,No,None
+24,Female,Not answered,Single,No,None
+90,Female,No religion,Widowed,No,None
+41,Female,No religion,Married,Yes,None
+78,Female,Christian,Widowed,No,None
+29,Male,Christian,Single,No,None
+18,Male,Christian,Single,No,None
+35,Male,Hindu,Married,No,Bereaved
+34,Female,Christian,Married,Yes,None
+76,Male,Christian,Married,No,Had COVID
+76,Male,Christian,Widowed,No,Bereaved
+70,Female,No religion,Widowed,No,None
+69,Female,Muslim,Widowed,No,None
+20,Male,Christian,Single,No,Had COVID
+68,Male,No religion,Married,No,None
+56,Male,No religion,Married,No,None
+30,Male,Christian,Single,No,None
+29,Female,Christian,Single,No,None
+32,Female,Christian,Single,No,None
+33,Female,No religion,Divorced,No,Had COVID
+24,Female,Christian,Single,No,None
+61,Female,Christian,Single,Yes,Bereaved
+59,Female,No religion,Single,No,None
+56,Female,Muslim,Married,No,Had COVID
+49,Female,No religion,Divorced,No,Had COVID
+73,Male,Not answered,Divorced,No,Bereaved
+51,Female,Christian,Married,No,None
+23,Male,Christian,Single,Yes,None
+38,Female,Christian,Divorced,Yes,Had COVID
+79,Female,Not answered,Married,No,Bereaved
+64,Female,Christian,Single,No,None
+40,Female,No religion,Married,Yes,Bereaved
+62,Male,No religion,Single,No,None
+22,Male,No religion,Single,No,Had COVID
+88,Male,Muslim,Married,No,Bereaved
+33,Male,No religion,Married,Yes,Had COVID
+52,Male,No religion,Married,No,None
+57,Male,No religion,Divorced,No,Had COVID
+39,Female,Christian,Married,No,Had COVID
+55,Female,Christian,Separated,No,None
+58,Male,No religion,Married,No,None
+62,Female,No religion,Divorced,No,None
+35,Male,Hindu,Married,Yes,None
+61,Male,No religion,Married,No,Had COVID
+33,Male,Christian,Single,No,None
+38,Male,Muslim,Married,No,Bereaved
+36,Female,No religion,Divorced,No,Had COVID
+72,Female,Christian,Married,No,Had COVID
+69,Female,Christian,Divorced,No,None
+82,Female,Muslim,Single,No,Had COVID
+61,Male,Not answered,Married,No,Bereaved
+40,Female,Christian,Married,Yes,None
+59,Female,No religion,Single,No,Bereaved
+85,Male,Christian,Widowed,No,Had COVID
+42,Female,Christian,Divorced,Yes,Had COVID
+78,Female,Christian,Widowed,Yes,Had COVID
+39,Male,No religion,Married,No,Had COVID
+60,Female,No religion,Separated,No,Had COVID
+67,Female,No religion,Separated,No,Had COVID
+48,Female,No religion,Married,No,Had COVID
+31,Male,No religion,Married,No,Had COVID
+20,Female,No religion,Single,No,Had COVID
+56,Female,No religion,Married,No,Had COVID
+62,Male,No religion,Widowed,No,Had COVID
+77,Male,Christian,Divorced,No,Had COVID
+32,Female,Christian,Single,No,None
+56,Male,No religion,Single,Yes,None
+74,Female,No religion,Married,No,Had COVID
+59,Male,No religion,Married,No,None
+50,Male,Hindu,Married,Yes,None
+31,Female,No religion,Widowed,No,Had COVID
+39,Male,No religion,Married,Yes,Bereaved
+28,Female,Christian,Married,No,Long COVID
+52,Female,Hindu,Divorced,No,None
+57,Male,Christian,Married,No,Had COVID
+85,Male,No religion,Divorced,No,Had COVID
+31,Male,No religion,Married,No,Had COVID
+65,Male,Christian,Married,Yes,Had COVID
+48,Male,No religion,Married,No,Had COVID
+70,Female,Christian,Widowed,No,None
+63,Female,Christian,Widowed,No,None
+33,Male,No religion,Single,No,Bereaved
+55,Male,No religion,Single,No,None
+22,Female,Christian,Single,No,Had COVID
+90,Female,Christian,Married,No,Had COVID
+34,Male,Not answered,Widowed,No,Had COVID
+78,Female,No religion,Married,No,Bereaved
+43,Male,Christian,Single,No,Had COVID
+43,Female,Christian,Married,Yes,Bereaved
+75,Female,No religion,Married,No,None
+28,Female,No religion,Divorced,No,Had COVID
+48,Male,No religion,Separated,No,None
+37,Female,Christian,Married,Yes,Had COVID
+85,Female,No religion,Married,No,Had COVID
+42,Female,Christian,Married,No,Had COVID
+71,Male,No religion,Married,No,Had COVID
+25,Female,Not answered,Single,No,Bereaved
+20,Male,Christian,Widowed,Yes,Had COVID
+30,Male,Muslim,Married,Yes,None
+30,Male,No religion,Single,Yes,Had COVID
+30,Male,No religion,Married,No,None
+90,Female,Christian,Widowed,No,None
+31,Male,No religion,Married,Yes,None
+37,Female,Christian,Married,Yes,Had COVID
+46,Male,No religion,Separated,No,None
+62,Male,No religion,Divorced,No,Bereaved
+40,Male,Hindu,Married,Yes,Bereaved
+82,Female,No religion,Widowed,Yes,None
+46,Female,Not answered,Separated,No,None
+24,Female,Muslim,Single,Yes,Bereaved
+57,Female,Muslim,Separated,No,Bereaved
+64,Female,Christian,Married,No,None
+22,Male,Christian,Single,No,Bereaved
+87,Male,Christian,Single,No,None
+46,Female,Christian,Divorced,No,Bereaved
+26,Male,Muslim,Single,Yes,Had COVID
+77,Male,Christian,Single,No,Had COVID
+42,Male,Christian,Separated,Yes,Had COVID
+20,Male,No religion,Single,No,None
