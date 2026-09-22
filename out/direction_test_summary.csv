@@ -4,52 +4,61 @@ condition,question,variant,mean,ci_lo,ci_hi,pct_agreeing_with_expectation,expect
 1. low-health lockdown vs high-health low-PHM,1b. duration harms more under lockdown (lockdown slope more negative),Dur_a,6.661338147750939e-18,-4.440892098500626e-16,4.440892098500626e-16,0.2455,negative
 1. low-health lockdown vs high-health low-PHM,1c. parents unhappier about weaker measures,Dur_a,NA,NA,NA,NA,not testable - no parent/children covariate in the fitted utility function
 2. low-health lockdown vs low-health low-PHM,"2a. fatigue (utility falls as duration rises, lockdown arm)",Dur_a,-1.049041208,-1.1081617499999998,-0.9910746999999998,1,negative
+2. low-health lockdown vs low-health low-PHM,2a-2. fatigue - low-PHM arm falls less than lockdown arm,Dur_a,-2.1094237467877974e-18,-4.440892098500626e-16,4.440892098500626e-16,0.2725,positive
 2. low-health lockdown vs low-health low-PHM,2b. econ cost counters PHM benefit direction,Dur_a,0.0085236979293,-0.059467095,0.07689594749999999,0.593,econ term negative while PHM term positive (opposing signs)
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - lockdown arm,Dur_b,0.58206581,0.24544850000000001,0.9087350000000002,1,positive
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - low-PHM arm,Dur_b,2.463533855,2.187275,2.74714275,1,positive
 1. low-health lockdown vs high-health low-PHM,1b. duration harms more under lockdown (lockdown slope more negative),Dur_b,-1.9984014443252816e-18,-1.3322676295501878e-15,1.3322676295501878e-15,0.347,negative
 1. low-health lockdown vs high-health low-PHM,1c. parents unhappier about weaker measures,Dur_b,NA,NA,NA,NA,not testable - no parent/children covariate in the fitted utility function
 2. low-health lockdown vs low-health low-PHM,"2a. fatigue (utility falls as duration rises, lockdown arm)",Dur_b,-1.0635082439999999,-1.12402365,-1.0027646999999997,1,negative
+2. low-health lockdown vs low-health low-PHM,2a-2. fatigue - low-PHM arm falls less than lockdown arm,Dur_b,-9.547918011776347e-18,-8.881784197001252e-16,8.881784197001252e-16,0.36,positive
 2. low-health lockdown vs low-health low-PHM,2b. econ cost counters PHM benefit direction,Dur_b,8.018530886499999e-4,-0.07074574,0.06904319999999975,0.5155,econ term negative while PHM term positive (opposing signs)
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - lockdown arm,Dur_b_convex,0.591334295,0.2634382500000001,0.9078507499999993,1,positive
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - low-PHM arm,Dur_b_convex,2.48209585,2.2372495000000003,2.7493707499999998,1,positive
 1. low-health lockdown vs high-health low-PHM,1b. duration harms more under lockdown (lockdown slope more negative),Dur_b_convex,-1.5543122344752192e-18,-8.881784197001252e-16,8.881784197001252e-16,0.31,negative
 1. low-health lockdown vs high-health low-PHM,1c. parents unhappier about weaker measures,Dur_b_convex,NA,NA,NA,NA,not testable - no parent/children covariate in the fitted utility function
 2. low-health lockdown vs low-health low-PHM,"2a. fatigue (utility falls as duration rises, lockdown arm)",Dur_b_convex,-1.0126076004,-1.07138376,-0.95025042,1,negative
+2. low-health lockdown vs low-health low-PHM,2a-2. fatigue - low-PHM arm falls less than lockdown arm,Dur_b_convex,2.7200464103316336e-18,-6.661338147750939e-16,6.661338147750939e-16,0.349,positive
 2. low-health lockdown vs low-health low-PHM,2b. econ cost counters PHM benefit direction,Dur_b_convex,-0.0074003000406,-0.0813208475,0.06434357749999992,0.425,econ term negative while PHM term positive (opposing signs)
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - lockdown arm,Dur_b_concave,0.589181025,0.27421700000000054,0.9008582499999993,1,positive
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - low-PHM arm,Dur_b_concave,2.441827945,2.183753249999999,2.7041227500000007,1,positive
 1. low-health lockdown vs high-health low-PHM,1b. duration harms more under lockdown (lockdown slope more negative),Dur_b_concave,8.215650382226158e-18,-8.881784197001252e-16,8.881784197001252e-16,0.1845,negative
 1. low-health lockdown vs high-health low-PHM,1c. parents unhappier about weaker measures,Dur_b_concave,NA,NA,NA,NA,not testable - no parent/children covariate in the fitted utility function
 2. low-health lockdown vs low-health low-PHM,"2a. fatigue (utility falls as duration rises, lockdown arm)",Dur_b_concave,-1.0818656583017667,-1.1458685201086407,-1.0201156347028162,1,negative
+2. low-health lockdown vs low-health low-PHM,2a-2. fatigue - low-PHM arm falls less than lockdown arm,Dur_b_concave,-4.218847493575595e-18,-8.881784197001252e-16,8.881784197001252e-16,0.402,positive
 2. low-health lockdown vs low-health low-PHM,2b. econ cost counters PHM benefit direction,Dur_b_concave,0.00432057626445,-0.068114695,0.07228844249999983,0.5545,econ term negative while PHM term positive (opposing signs)
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - lockdown arm,Dur_c,0.6544506415,0.32048569999999976,0.9739404250000001,1,positive
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - low-PHM arm,Dur_c,2.219631375,1.9687674999999998,2.4799125000000006,1,positive
 1. low-health lockdown vs high-health low-PHM,1b. duration harms more under lockdown (lockdown slope more negative),Dur_c,-1.678563816,-1.8107723999999998,-1.5511685999999996,1,negative
 1. low-health lockdown vs high-health low-PHM,1c. parents unhappier about weaker measures,Dur_c,NA,NA,NA,NA,not testable - no parent/children covariate in the fitted utility function
 2. low-health lockdown vs low-health low-PHM,"2a. fatigue (utility falls as duration rises, lockdown arm)",Dur_c,-1.678563816,-1.8107723999999998,-1.5511685999999996,1,negative
+2. low-health lockdown vs low-health low-PHM,2a-2. fatigue - low-PHM arm falls less than lockdown arm,Dur_c,1.678563816,1.5511685999999996,1.8107723999999996,1,positive
 2. low-health lockdown vs low-health low-PHM,2b. econ cost counters PHM benefit direction,Dur_c,0.04381407857925,-0.023510602499999998,0.11426712499999993,0.8995,econ term negative while PHM term positive (opposing signs)
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - lockdown arm,Dur_d,0.77102540334857,0.4768456424881184,1.0559335157096759,1,positive
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - low-PHM arm,Dur_d,1.9638035433485699,1.7068304504382201,2.222988580907526,1,positive
 1. low-health lockdown vs high-health low-PHM,1b. duration harms more under lockdown (lockdown slope more negative),Dur_d,0,0,0,0,negative
 1. low-health lockdown vs high-health low-PHM,1c. parents unhappier about weaker measures,Dur_d,NA,NA,NA,NA,not testable - no parent/children covariate in the fitted utility function
 2. low-health lockdown vs low-health low-PHM,"2a. fatigue (utility falls as duration rises, lockdown arm)",Dur_d,0,0,0,0,negative
+2. low-health lockdown vs low-health low-PHM,2a-2. fatigue - low-PHM arm falls less than lockdown arm,Dur_d,0,0,0,0,positive
 2. low-health lockdown vs low-health low-PHM,2b. econ cost counters PHM benefit direction,Dur_d,-0.12188314315,-0.18352569999999999,-0.05755586000000001,0,econ term negative while PHM term positive (opposing signs)
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - lockdown arm,Dur_e,0.9552868800000001,0.6444504999999998,1.28647975,1,positive
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - low-PHM arm,Dur_e,2.260429555,1.9984314999999995,2.524983749999999,1,positive
 1. low-health lockdown vs high-health low-PHM,1b. duration harms more under lockdown (lockdown slope more negative),Dur_e,-1.774356396,-1.9127325000000006,-1.6488783000000007,1,negative
 1. low-health lockdown vs high-health low-PHM,1c. parents unhappier about weaker measures,Dur_e,NA,NA,NA,NA,not testable - no parent/children covariate in the fitted utility function
 2. low-health lockdown vs low-health low-PHM,"2a. fatigue (utility falls as duration rises, lockdown arm)",Dur_e,-1.774356396,-1.9127325000000006,-1.6488783000000007,1,negative
+2. low-health lockdown vs low-health low-PHM,2a-2. fatigue - low-PHM arm falls less than lockdown arm,Dur_e,1.774356396,1.6488783000000005,1.9127325000000006,1,positive
 2. low-health lockdown vs low-health low-PHM,2b. econ cost counters PHM benefit direction,Dur_e,1.69385263,1.5471177500000002,1.84581875,1,econ term negative while PHM term positive (opposing signs)
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - lockdown arm,Dur_f,1.8507082945,1.45490875,2.2684505,1,positive
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - low-PHM arm,Dur_f,3.391758245,3.0761622500000003,3.7064559999999998,1,positive
 1. low-health lockdown vs high-health low-PHM,1b. duration harms more under lockdown (lockdown slope more negative),Dur_f,-2.254949064,-2.4663128400000005,-2.0537766,1,negative
 1. low-health lockdown vs high-health low-PHM,1c. parents unhappier about weaker measures,Dur_f,NA,NA,NA,NA,not testable - no parent/children covariate in the fitted utility function
 2. low-health lockdown vs low-health low-PHM,"2a. fatigue (utility falls as duration rises, lockdown arm)",Dur_f,-2.254949064,-2.4663128400000005,-2.0537766,1,negative
+2. low-health lockdown vs low-health low-PHM,2a-2. fatigue - low-PHM arm falls less than lockdown arm,Dur_f,2.254949064,2.0537765999999995,2.46631284,1,positive
 2. low-health lockdown vs low-health low-PHM,2b. econ cost counters PHM benefit direction,Dur_f,0.2503543265,0.16758315000000001,0.3297763999999999,1,econ term negative while PHM term positive (opposing signs)
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - lockdown arm,Dur_g,0.66105069,0.3473137499999999,0.9817254999999999,1,positive
 1. low-health lockdown vs high-health low-PHM,1a. vaccine more attractive - low-PHM arm,Dur_g,2.223159275,1.96192675,2.4795930000000004,1,positive
 1. low-health lockdown vs high-health low-PHM,1b. duration harms more under lockdown (lockdown slope more negative),Dur_g,-1.5344819496,-1.6589746799999998,-1.4106946320000004,1,negative
 1. low-health lockdown vs high-health low-PHM,1c. parents unhappier about weaker measures,Dur_g,NA,NA,NA,NA,not testable - no parent/children covariate in the fitted utility function
 2. low-health lockdown vs low-health low-PHM,"2a. fatigue (utility falls as duration rises, lockdown arm)",Dur_g,-1.5344819496,-1.6589746799999998,-1.4106946320000004,1,negative
+2. low-health lockdown vs low-health low-PHM,2a-2. fatigue - low-PHM arm falls less than lockdown arm,Dur_g,1.5344819496,1.4106946320000004,1.65897468,1,positive
 2. low-health lockdown vs low-health low-PHM,2b. econ cost counters PHM benefit direction,Dur_g,0.02429463548251,-0.04637747749999999,0.09512949999999999,0.758,econ term negative while PHM term positive (opposing signs)

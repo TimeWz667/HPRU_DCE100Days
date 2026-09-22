@@ -69,6 +69,15 @@ Expectation: the lockdown arm's utility slope from 3 to 9 months is
 negative. This tests fatigue directly, independent of Condition 1's
 lockdown-vs-basic comparison.
 
+**2a-2. Fatigue — does the low-PHM arm's utility fall less than the
+lockdown arm's as duration rises?**
+Computes the same 3-to-9-month utility slope for the low-PHM arm (Basic
+measures, same low health impact) and compares it to the lockdown arm's
+slope from 2a. Expectation: the low-PHM slope is less negative — i.e.
+`(low-PHM slope − lockdown slope) > 0` — since weaker measures should
+generate less fatigue to begin with, if the fitted Duration term responds
+to measure severity at all.
+
 **2b. Does the economic cost of lockdown work against the PHM benefit?**
 The PHM×Vaccine benefit of lockdown (`b_phmvac_lockdown_avail` relative to
 the Basic+Available reference) and the economic cost of the accompanying
@@ -154,6 +163,20 @@ this comparison holds vaccine at Available throughout. So `Dur_d` shows a
 mechanistic zero here, not an absence of fatigue; the same comparison run
 with vaccine unavailable would show its (currently untested) discounting
 effect instead.
+
+### 2a-2. Fatigue — does the low-PHM arm's utility fall less than the lockdown arm's?
+
+Splits exactly the way theory (and the model structure) predicts. `Dur_c`,
+`Dur_e`, `Dur_f` and `Dur_g` — the variants whose Duration term interacts
+with PHM severity or economic level — show a clean 100%-of-draws result:
+the low-PHM arm's slope is less negative than the lockdown arm's by
+1.5–2.3 utility units, i.e. weaker measures genuinely generate less
+fatigue in these fits. `Dur_d` again shows an exact zero, for the same
+vaccine-availability reason as 2a. The remaining variants (`Dur_a`,
+`Dur_b`, `Dur_b_convex`, `Dur_b_concave`) show a numerical-zero gap with
+only 27–40% of draws on the expected side — noise, not a real effect,
+because their Duration term has no mechanism to respond to PHM severity at
+all: fatigue in these fits is identical whatever the measures in place.
 
 ### 2b. Does the economic cost of lockdown work against the PHM benefit?
 

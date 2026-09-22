@@ -288,7 +288,7 @@ shared_coef_names <- c(
   "b_mor100", "b_mor150", "b_edu10"
 )
 
-coef_signs <- map_dfr(names(variant_files), \(variant) {
+coef_signs <- map_dfr(names(variant_files), function(variant) {
   pars <- load_draws(variant)
   if (is.null(pars)) return(NULL)
   tibble(
