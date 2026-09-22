@@ -1,57 +1,78 @@
-# 5_parameters_extraction.R
+# 6_parameters_extraction.R
 #
-# Extracts fitted posterior draws (out/Dur_*_2000.csv) into the parameter
-# package handed off to the simulation project: one JSON file per Duration
-# model variant, at Outputs4Sims/{Model}/Pars/Pars_{id}.csv
+# Rewritten parameter-extraction step for the simulation handoff package
+# (Outputs4Sims/). Supersedes 5_parameters_extraction.R. Differences:
+#   - Only three Duration variants are exported: Dur_a, Dur_d, Dur_f,
+#     relabelled Scenario_1, Scenario_2, Scenario_3 respectively.
+#   - Each respondent's demographic/survey info (Results/
+#     simulated_respondents_info_s001.csv) is combined with ONE posterior
+#     draw per respondent, sampled at random with replacement - i.e. the
+#     respondent-to-draw pairing is done here, once, rather than left for
+#     the simulation to do at run time.
+#   - Output is CSV, not JSON: one file per scenario, one row per
+#     respondent (2,000 rows), columns = respondent info + that
+#     respondent's assigned parameter set.
 #
-# Each Pars_{id}.csv is a csv array of parameter sets, one object per
-# posterior draw, field names matching that variant's Stan coefficients
-# exactly. {id} mirrors the survey-replication numbering upstream
-# (Results/simulated_respondents_ans_s*.csv); only "s001" exists today.
+# This bakes in a single Monte Carlo realisation of the respondent-draw
+# pairing (fixed by the seed below), rather than handing the simulation
+# project the full 2,000-draw array to resample from on every run - see
+# the note in Outputs4Sims/CLAUDE.md Section 5 on what this trades away.
 #
-# See Outputs4Sims/CLAUDE.md for the full data contract this script
-# produces.
+# Inputs:  Results/simulated_respondents_info_s001.csv  (2,000 respondents)
+#          out/Dur_a_2000.csv, out/Dur_d_2000.csv, out/Dur_f_2000.csv
+# Outputs: Outputs4Sims/Scenario_1/Pars/Pars_s001.csv  (was Dur_a)
+#          Outputs4Sims/Scenario_2/Pars/Pars_s001.csv  (was Dur_d)
+#          Outputs4Sims/Scenario_3/Pars/Pars_s001.csv  (was Dur_f)
 
-library(jsonlite)
+library(readr)
+library(dplyr)
 
-# ---- configuration ----------------------------------------------------
+replication_id <- "s002"
+seed <- 20260922  # fixed so the respondent-to-draw pairing is reproducible
 
-# Duration model variant -> posterior draw CSV under out/
-models <- list(
-  Scenario_1        = "Dur_a_2000.csv",
-  Scenario_2        = "Dur_d_2000.csv",
-  Scenario_3        = "Dur_f_2000.csv"
+# Duration model variant -> scenario label -> posterior draw CSV under out/
+scenario_map <- list(
+  Dur_a = list(scenario = "Scenario_1", file = "Dur_a_2000.csv"),
+  Dur_d = list(scenario = "Scenario_2", file = "Dur_d_2000.csv"),
+  Dur_f = list(scenario = "Scenario_3", file = "Dur_f_2000.csv")
 )
 
 src_dir <- "out"
-out_dir <- "Outputs4Sims"
 info_dir <- "Results"
+out_dir <- "Outputs4Sims"
 
-# ---- extraction ---------------------------------------------------------
+info_path <- file.path(info_dir, sprintf("simulated_respondents_info_%s.csv", replication_id))
+info <- read_csv(info_path, show_col_types = FALSE)
+n_resp <- nrow(info)
 
-for (replication_id in c("s002")) {
-  info <- read.csv(file.path(info_dir, sprintf("simulated_respondents_info_%s.csv", replication_id)), check.names = FALSE)
-  
-  for (model in names(models)) {
-    csv_path <- file.path(src_dir, models[[model]])
-    
-    if (!file.exists(csv_path)) {
-      warning(sprintf("Skipping %s: %s not found", model, csv_path))
-      next
-    }
-    
-    draws <- read.csv(csv_path, check.names = FALSE)
-    draws <- draws[sample.int(nrow(info), replace = T), ]
-    pars <- bind_cols(info, draws)
+set.seed(seed)
 
-    pars_dir <- file.path(out_dir, model)
-    dir.create(pars_dir, recursive = TRUE, showWarnings = FALSE)
-    
-    out_path <- file.path(pars_dir, sprintf("Pars_%s.csv", replication_id))
-    write_csv(pars, out_path)
-    
-    message(sprintf("%s: wrote %d draws to %s", model, nrow(draws), out_path))
+for (model in names(scenario_map)) {
+  scenario <- scenario_map[[model]]$scenario
+  csv_path <- file.path(src_dir, scenario_map[[model]]$file)
+
+  if (!file.exists(csv_path)) {
+    warning(sprintf("Skipping %s (%s): %s not found", model, scenario, csv_path))
+    next
   }
+
+  draws <- read_csv(csv_path, show_col_types = FALSE)
+
+  # One posterior draw per respondent, at random, with replacement.
+  draw_idx <- sample.int(nrow(draws), size = n_resp, replace = TRUE)
+
+  combined <- bind_cols(
+    info,
+    draw_id = draw_idx,
+    draws[draw_idx, ]
+  )
+
+  pars_dir <- file.path(out_dir, scenario, "Pars")
+  dir.create(pars_dir, recursive = TRUE, showWarnings = FALSE)
+
+  out_path <- file.path(pars_dir, sprintf("Pars_%s.csv", replication_id))
+  write_csv(combined, out_path)
+
+  message(sprintf("%s -> %s: wrote %d respondents x %d columns to %s",
+                   model, scenario, nrow(combined), ncol(combined), out_path))
 }
-
-
