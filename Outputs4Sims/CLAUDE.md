@@ -21,5 +21,5 @@ Read, in this order:
 3. **`duration-variants.md`** — full detail on all nine Duration model
    variants, referenced by `README.md`.
 
-Parameter files: `Scenario_1/Pars_s002.csv`,
-`Scenario_2/Pars_s002.csv`, `Scenario_3/Pars_s002.csv`.
+Parameter files: `Scenario_1/Pars_s001.csv`,
+`Scenario_2/Pars_s001.csv`, `Scenario_3/Pars_s001.csv`.

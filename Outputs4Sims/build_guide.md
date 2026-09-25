@@ -21,26 +21,25 @@ outbreak, across three named scenarios.**
 ./build_guide.md       <- this file
 ./README.md            <- extraction method, underlying models, selection reasons
 ./duration-variants.md <- full detail on all 9 Duration model variants
-./Scenario_1/Pars/Pars_s002.csv   <- parameters, one row per respondent
-./Scenario_2/Pars/Pars_s002.csv
-./Scenario_3/Pars/Pars_s002.csv
+./Scenario_1/Pars_s001.csv   <- parameters, one row per respondent
+./Scenario_2/Pars_s001.csv
+./Scenario_3/Pars_s001.csv
 ```
 
-Only the three `./Scenario_{n}/Pars/Pars_s002.csv` files and the tables in
+Only the three `./Scenario_{n}/Pars_s001.csv` files and the tables in
 this document are needed to build and run the simulation. Use relative
 paths from wherever this folder is placed:
 
 ```
-./Scenario_1/Pars_s002.csv
-./Scenario_2/Pars_s002.csv
-./Scenario_3/Pars_s002.csv
+./Scenario_1/Pars_s001.csv
+./Scenario_2/Pars_s001.csv
+./Scenario_3/Pars_s001.csv
 ```
 
 Confirm the file exists at that relative path before loading it — each
-`Scenario_{n}/` folder must contain a `Pars/` subfolder with the
-`Pars_s001.csv` file inside it (not directly under `Scenario_{n}/`). If a
-future replication is added, it will appear alongside as
-`Scenario_{n}/Pars/Pars_s002.csv` etc. — treat the set of available `s*`
+`Scenario_{n}/` folder must contain a `Pars_s001.csv` file directly inside
+it. If a future replication is added, it will appear alongside as
+`Scenario_{n}/Pars_s002.csv` etc. — treat the set of available `s*`
 files as discoverable, not fixed at one.
 
 Each `Scenario_{n}/` is one fitted specification of the DCE utility
@@ -50,7 +49,7 @@ folder path passed in), not a hard-coded assumption.
 
 ---
 
-## 2. Parameter file columns (`Pars_s002.csv`)
+## 2. Parameter file columns (`Pars_s001.csv`)
 
 One row per simulated individual (2,000 rows), combining that individual's
 demographic covariates with one parameter set already assigned to them:
@@ -165,7 +164,7 @@ the choice.
 
 ## 5. Build checklist
 
-1. Pick a scenario and load `./Scenario_{n}/Pars/Pars_s001.csv` — verify
+1. Pick a scenario and load `./Scenario_{n}/Pars_s001.csv` — verify
    the file exists at that relative path before proceeding.
 2. For each row, compute `male`, `age3554`, `age55p` from `Sex`/`Age`
    (Section 2).

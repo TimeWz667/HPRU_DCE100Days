@@ -294,10 +294,18 @@ coef_signs <- map_dfr(names(variant_files), function(variant) {
   tibble(
     variant = variant,
     coefficient = shared_coef_names,
-    posterior_mean = map_dbl(shared_coef_names, ~ if (.x %in% names(pars)) mean(pars[[.x]]) else NA_real_)
+    posterior_mean = map_dbl(shared_coef_names, ~ if (.x %in% names(pars)) mean(pars[[.x]]) else NA_real_),
+    ci_lo = map_dbl(shared_coef_names, ~ if (.x %in% names(pars)) quantile(pars[[.x]], 0.025) else NA_real_),
+    ci_hi = map_dbl(shared_coef_names, ~ if (.x %in% names(pars)) quantile(pars[[.x]], 0.975) else NA_real_)
   )
 }) %>%
-  mutate(sign = sign(posterior_mean))
+  mutate(
+    sign = sign(posterior_mean),
+    # "crosses zero" - the 95% credible interval spans zero, i.e. this
+    # variant's fit cannot rule out this coefficient being zero (or the
+    # opposite sign), even though sign() above uses only the point mean.
+    crosses_zero = ci_lo < 0 & ci_hi > 0
+  )
 
 sign_consistency <- coef_signs %>%
   group_by(coefficient) %>%
@@ -306,6 +314,7 @@ sign_consistency <- coef_signs %>%
     n_negative = sum(sign < 0, na.rm = TRUE),
     n_positive = sum(sign > 0, na.rm = TRUE),
     consistent = n_negative == 0 || n_positive == 0,
+    n_crosses_zero = sum(crosses_zero, na.rm = TRUE),
     .groups = "drop"
   )
 
@@ -317,6 +326,21 @@ if (!all(sign_consistency$consistent)) {
   inconsistent <- sign_consistency %>% filter(!consistent) %>% pull(coefficient)
   warning(sprintf("Sign inconsistent across Duration variants for: %s",
                    paste(inconsistent, collapse = ", ")))
+}
+
+# A coefficient whose sign disagrees across variants (above) is one kind of
+# instability; a coefficient whose 95% credible interval crosses zero in
+# some variant is a related but distinct one - the fit itself is uncertain
+# about that coefficient's sign, independent of what other variants say.
+# Report both together so a "consistent" sign that is nonetheless
+# imprecisely estimated in some variants isn't mistaken for a clean result.
+if (any(sign_consistency$n_crosses_zero > 0)) {
+  message("\nCoefficients whose 95% credible interval crosses zero in at least one variant:")
+  print(sign_consistency %>% filter(n_crosses_zero > 0) %>%
+          select(coefficient, n_models, n_crosses_zero), n = Inf)
+  message("\nPer-variant detail (coefficient, variant, 95% CI):")
+  print(coef_signs %>% filter(crosses_zero) %>%
+          select(coefficient, variant, posterior_mean, ci_lo, ci_hi), n = Inf)
 }
 
 # ---- 5. bar plot grid, one panel per scenario question -------------------

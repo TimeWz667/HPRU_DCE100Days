@@ -21,7 +21,7 @@ simulated survey replication (`Results/simulated_respondents_ans_s001.csv`
 `scripts_LLM_gen/6_parameters_extraction.R` turns three of those draw
 files into this package's `Pars_s001.csv` files:
 
-1. Loads `Results/simulated_respondents_info_s002.csv` — the 2,000
+1. Loads `Results/simulated_respondents_info_s001.csv` — the 2,000
    respondents' demographics, survey block, and ideology assignment.
 2. For each of the three selected Duration variants, loads that variant's
    2,000 posterior draws (`out/Dur_a_2000.csv`, `out/Dur_d_2000.csv`,
@@ -50,7 +50,7 @@ with a different seed produces one.
 `Results/simulated_respondents_info_s*.csv` / `_ans_s*.csv` upstream. Only
 `s001` has been fitted and extracted today; if further replications are
 fitted, additional files (`Pars_s002.csv`, ...) may appear in the same
-`Pars/` folders.
+`Scenario_{n}/` folders.
 
 ---
 

@@ -212,3 +212,31 @@ collinearity between Econ level and the Duration terms that also involve
 `Econ_level`, e.g. `Dur_e`). This instability is exactly what is driving
 the mixed 2b results above and is worth checking before the economic
 attribute is used for anything beyond illustrative scenario plots.
+
+**Does the sign disagreement reflect real uncertainty, or just noisy point
+estimates?** For each coefficient and variant, the 95% credible interval
+(2.5th–97.5th percentile across the 2,000 draws) was checked for whether
+it spans zero — i.e. whether that variant's own fit can rule out the
+coefficient being zero, independent of what any other variant estimates.
+
+Ten of the twelve coefficients never cross zero in any of the nine
+variants — their sign disagreement (or agreement) is a genuine, precisely
+estimated feature of each fit, not an artefact of a wide interval. Three
+coefficients do cross zero in at least one variant:
+
+| Coefficient | Sign-consistent? | Variants where the 95% CI crosses zero |
+|---|---|---|
+| `b_econ20` | No (6 negative / 3 positive) | `Dur_c`, `Dur_f`, `Dur_g` (3 of 9) |
+| `b_econ40` | No (2 negative / 7 positive) | `Dur_a`, `Dur_b`, `Dur_b_convex`, `Dur_b_concave`, `Dur_c`, `Dur_g` (6 of 9) |
+| `b_edu10` | Yes (9 of 9 negative) | `Dur_e`, `Dur_g` (2 of 9) |
+
+This sharpens, rather than contradicts, the sign-consistency finding:
+`b_econ40`'s credible interval crosses zero in two-thirds of the fitted
+variants, meaning most of those fits cannot distinguish it from zero at
+all — the sign flips seen above are consistent with a coefficient the
+model has not pinned down, not with two groups of variants confidently
+disagreeing with each other. `b_econ20` is directionally unstable but
+better identified (crosses zero in only 3 of 9). `b_edu10`, by contrast,
+is sign-consistent across every variant and its interval crosses zero in
+only 2 of 9 — its point estimate is small in some fits, but the direction
+is not in serious doubt the way the economic-cost coefficients are.
