@@ -26,11 +26,17 @@
 |:----------------------:|:----------------------:|:----------------------:|
 | ![](Attr_Infection_25.png) | ![](Attr_Infection_50.png) | ![](Attr_Infection_90.png) |
 
-### Overal mortality
+### Overall mortality (elderly scenario)
 
 | Low | Mid | High |
 |:----------------------:|:----------------------:|:----------------------:|
 | ![](Attr_Death_50.png) | ![](Attr_Death_100.png) | ![](Attr_Death_150.png) |
+
+### Overal hospitalisation (children scenario)
+
+| Low | Mid | High |
+|:----------------------:|:----------------------:|:----------------------:|
+| ![](Attr_Hosp_50.png) | ![](Attr_Hosp_100.png) | ![](Attr_Hosp_150.png) |
 
 ### Education
 
@@ -47,3 +53,4 @@
 ## Source
 
 The icons were created with or modified from icons sourced from [UXWing](https://uxwing.com/)
+
