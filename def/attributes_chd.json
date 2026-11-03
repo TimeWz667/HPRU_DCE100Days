@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Public health measures",
+    "name_short": "PHSM",
+    "levels": [
+      {"value": 0, "text": "Basic measures"},
+      {"value": 1, "text": "Reduced social contact"},
+      {"value": 2, "text": "Lockdown"}
+    ]
+  },
+  {
+    "name": "Duration of measures",
+    "name_short": "DURATION",
+    "levels": [
+      {"value": 3, "text": "3 months"},
+      {"value": 6, "text": "6 months"},
+      {"value": 9, "text": "9 months"}
+    ]
+  },
+  {
+    "name": "Long term education impact",
+    "name_short": "EDUCATION",
+    "levels": [
+      {"value": 5, "text": "5 in 25 fall behind"},
+      {"value": 10, "text": "10 in 25 fall behind"}
+    ]
+  },
+  {
+    "name": "Family infection risk in the next 12 months",
+    "name_short": "INFECTION",
+    "levels": [
+      {"value": 25, "text": "25% risk"},
+      {"value": 50, "text": "50% risk"},
+      {"value": 90, "text": "90% risk"}
+    ]
+  },
+  {
+    "name": "Hospitalisation per day",
+    "name_short": "HOSP",
+    "levels": [
+      {"value": 50, "text": "50 admissions"},
+      {"value": 100, "text": "100 admissions"},
+      {"value": 150, "text": "150 admissions"}
+    ]
+  },
+  {
+    "name": "Vaccine availability",
+    "name_short": "VACCINE",
+    "levels": [
+      {"value": 0, "text": "Not available"},
+      {"value": 1, "text": "Probably available"}
+    ]
+  }
+]

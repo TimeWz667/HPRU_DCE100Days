@@ -6,9 +6,6 @@ res <- read_csv(here::here("Surveys", "uk_survey_choices_chd.csv"))
 
 
 
-
-
-
 data("Fishing", package = "mlogit")
 Fish <- dfidx(Fishing, varying = 2:9, shape = "wide", choice = "mode")
 

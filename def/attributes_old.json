@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Public health measures",
+    "name_short": "PHSM",
+    "levels": [
+      {"value": 0, "text": "Basic measures"},
+      {"value": 1, "text": "Reduced social contact"},
+      {"value": 2, "text": "Lockdown"}
+    ]
+  },
+  {
+    "name": "Duration of measures",
+    "name_short": "DURATION",
+    "levels": [
+      {"value": 3, "text": "3 months"},
+      {"value": 6, "text": "6 months"},
+      {"value": 9, "text": "9 months"}
+    ]
+  },
+  {
+    "name": "Family infection risk in the next 12 months",
+    "name_short": "INFECTION",
+    "levels": [
+      {"value": 25, "text": "25% risk"},
+      {"value": 50, "text": "50% risk"},
+      {"value": 90, "text": "90% risk"}
+    ]
+  },
+  {
+    "name": "Excess deaths per day",
+    "name_short": "DEATH",
+    "levels": [
+      {"value": 50, "text": "50 deaths"},
+      {"value": 100, "text": "100 deaths"},
+      {"value": 150, "text": "150 deaths"}
+    ]
+  },
+  {
+    "name": "Local businesses",
+    "name_short": "FINANCES",
+    "levels": [
+      {"value": 0, "text": "No impact"},
+      {"value": 1, "text": "1 in 5 close"},
+      {"value": 2, "text": "2 in 5 close"}
+    ]
+  },
+  {
+    "name": "Vaccine availability",
+    "name_short": "VACCINE",
+    "levels": [
+      {"value": 0, "text": "Not available"},
+      {"value": 1, "text": "Probably available"}
+    ]
+  }
+]
