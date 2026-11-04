@@ -142,13 +142,13 @@ cnts = list(
   "if Alt1.Att1 = list(1A) AND Alt2.Att2 = list(1C) then Alt1.Att3 = list(3B) AND Alt2.Att3 = list(3B) AND Alt1.Att4 = list(4B) AND Alt2.Att4 = list(4B)",
   
   
-  "if Alt1.Att1 = list(1B) AND Alt2.Att2 = list(1A) AND Alt1.Att3 = list(3A) then Alt2.Att6 = list(3A, 3B)",
-  "if Alt1.Att1 = list(1B) AND Alt2.Att2 = list(1A) AND Alt1.Att3 = list(3B) then Alt2.Att6 = list(3B)",
+  "if Alt1.Att1 = list(1B) AND Alt2.Att2 = list(1A) AND Alt1.Att3 = list(3A) then Alt2.Att3 = list(3A, 3B)",
+  "if Alt1.Att1 = list(1B) AND Alt2.Att2 = list(1A) AND Alt1.Att3 = list(3B) then Alt2.Att3 = list(3B)",
   "if Alt1.Att1 = list(1B) AND Alt2.Att2 = list(1A) AND Alt1.Att4 = list(4A) then Alt2.Att4 = list(4A, 4B)",
   "if Alt1.Att1 = list(1B) AND Alt2.Att2 = list(1A) AND Alt1.Att4 = list(4B) then Alt2.Att4 = list(4B)",
   
-  "if Alt1.Att1 = list(1B) AND Alt2.Att2 = list(1C) AND Alt1.Att3 = list(3B) then Alt2.Att6 = list(3B)",
-  "if Alt1.Att1 = list(1B) AND Alt2.Att2 = list(1C) AND Alt1.Att3 = list(3C) then Alt2.Att6 = list(3B, 3C)",
+  "if Alt1.Att1 = list(1B) AND Alt2.Att2 = list(1C) AND Alt1.Att3 = list(3B) then Alt2.Att3 = list(3B)",
+  "if Alt1.Att1 = list(1B) AND Alt2.Att2 = list(1C) AND Alt1.Att3 = list(3C) then Alt2.Att3 = list(3B, 3C)",
   "if Alt1.Att1 = list(1B) AND Alt2.Att2 = list(1C) AND Alt1.Att4 = list(4B) then Alt2.Att4 = list(4B)",
   "if Alt1.Att1 = list(1B) AND Alt2.Att2 = list(1C) AND Alt1.Att4 = list(4C) then Alt2.Att4 = list(4B, 4C)", 
   

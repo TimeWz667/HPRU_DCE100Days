@@ -1,0 +1,97 @@
+Block,Set,Alt,PHSM,DURATION,INFECTION,DEATH,FINANCES,VACCINE,PHSM_C,DURATION_C,INFECTION_C,DEATH_C,FINANCES_C,VACCINE_C
+1,set19,alt1,Reduced social contact,6 months,25% risk,150 deaths,1 in 5 close,Probably available,1,6,25,150,1,1
+1,set19,alt2,Reduced social contact,9 months,90% risk,50 deaths,No impact,Not available,1,9,90,50,0,0
+1,set2,alt1,Basic measures,3 months,25% risk,50 deaths,No impact,Probably available,0,3,25,50,0,1
+1,set2,alt2,Reduced social contact,9 months,50% risk,100 deaths,2 in 5 close,Not available,1,9,50,100,2,0
+1,set22,alt1,Basic measures,6 months,25% risk,50 deaths,2 in 5 close,Probably available,0,6,25,50,2,1
+1,set22,alt2,Lockdown,3 months,50% risk,100 deaths,No impact,Not available,2,3,50,100,0,0
+1,set3,alt1,Basic measures,9 months,50% risk,50 deaths,1 in 5 close,Not available,0,9,50,50,1,0
+1,set3,alt2,Reduced social contact,3 months,25% risk,100 deaths,2 in 5 close,Probably available,1,3,25,100,2,1
+1,set30,alt1,Reduced social contact,9 months,90% risk,100 deaths,1 in 5 close,Not available,1,9,90,100,1,0
+1,set30,alt2,Basic measures,6 months,25% risk,50 deaths,No impact,Probably available,0,6,25,50,0,1
+1,set36,alt1,Reduced social contact,6 months,90% risk,50 deaths,1 in 5 close,Probably available,1,6,90,50,1,1
+1,set36,alt2,Reduced social contact,3 months,25% risk,150 deaths,No impact,Not available,1,3,25,150,0,0
+1,set37,alt1,Reduced social contact,6 months,25% risk,150 deaths,2 in 5 close,Probably available,1,6,25,150,2,1
+1,set37,alt2,Lockdown,3 months,90% risk,100 deaths,No impact,Not available,2,3,90,100,0,0
+1,set38,alt1,Basic measures,9 months,50% risk,100 deaths,1 in 5 close,Probably available,0,9,50,100,1,1
+1,set38,alt2,Lockdown,6 months,90% risk,150 deaths,No impact,Not available,2,6,90,150,0,0
+1,set39,alt1,Lockdown,3 months,50% risk,100 deaths,2 in 5 close,Probably available,2,3,50,100,2,1
+1,set39,alt2,Reduced social contact,6 months,90% risk,150 deaths,No impact,Not available,1,6,90,150,0,0
+1,set45,alt1,Lockdown,9 months,50% risk,150 deaths,1 in 5 close,Not available,2,9,50,150,1,0
+1,set45,alt2,Reduced social contact,3 months,90% risk,50 deaths,2 in 5 close,Probably available,1,3,90,50,2,1
+1,set46,alt1,Reduced social contact,9 months,50% risk,150 deaths,No impact,Probably available,1,9,50,150,0,1
+1,set46,alt2,Basic measures,6 months,25% risk,50 deaths,2 in 5 close,Not available,0,6,25,50,2,0
+1,set9,alt1,Basic measures,3 months,50% risk,100 deaths,2 in 5 close,Probably available,0,3,50,100,2,1
+1,set9,alt2,Lockdown,9 months,90% risk,150 deaths,1 in 5 close,Probably available,2,9,90,150,1,1
+2,set13,alt1,Reduced social contact,3 months,90% risk,100 deaths,2 in 5 close,Probably available,1,3,90,100,2,1
+2,set13,alt2,Basic measures,6 months,25% risk,50 deaths,1 in 5 close,Not available,0,6,25,50,1,0
+2,set15,alt1,Lockdown,3 months,50% risk,150 deaths,2 in 5 close,Not available,2,3,50,150,2,0
+2,set15,alt2,Reduced social contact,9 months,90% risk,100 deaths,No impact,Probably available,1,9,90,100,0,1
+2,set21,alt1,Reduced social contact,3 months,90% risk,50 deaths,1 in 5 close,Probably available,1,3,90,50,1,1
+2,set21,alt2,Basic measures,9 months,25% risk,100 deaths,No impact,Not available,0,9,25,100,0,0
+2,set23,alt1,Reduced social contact,6 months,25% risk,50 deaths,No impact,Not available,1,6,25,50,0,0
+2,set23,alt2,Lockdown,3 months,90% risk,150 deaths,1 in 5 close,Probably available,2,3,90,150,1,1
+2,set29,alt1,Reduced social contact,3 months,25% risk,50 deaths,1 in 5 close,Not available,1,3,25,50,1,0
+2,set29,alt2,Basic measures,6 months,50% risk,100 deaths,No impact,Probably available,0,6,50,100,0,1
+2,set31,alt1,Lockdown,6 months,50% risk,100 deaths,2 in 5 close,Not available,2,6,50,100,2,0
+2,set31,alt2,Basic measures,9 months,25% risk,50 deaths,1 in 5 close,Probably available,0,9,25,50,1,1
+2,set34,alt1,Reduced social contact,3 months,50% risk,150 deaths,No impact,Not available,1,3,50,150,0,0
+2,set34,alt2,Lockdown,6 months,90% risk,100 deaths,1 in 5 close,Probably available,2,6,90,100,1,1
+2,set35,alt1,Reduced social contact,3 months,90% risk,150 deaths,2 in 5 close,Probably available,1,3,90,150,2,1
+2,set35,alt2,Basic measures,9 months,25% risk,50 deaths,1 in 5 close,Not available,0,9,25,50,1,0
+2,set4,alt1,Basic measures,3 months,50% risk,100 deaths,No impact,Probably available,0,3,50,100,0,1
+2,set4,alt2,Reduced social contact,9 months,25% risk,50 deaths,2 in 5 close,Not available,1,9,25,50,2,0
+2,set42,alt1,Reduced social contact,6 months,50% risk,150 deaths,1 in 5 close,Not available,1,6,50,150,1,0
+2,set42,alt2,Lockdown,9 months,90% risk,100 deaths,No impact,Probably available,2,9,90,100,0,1
+2,set5,alt1,Basic measures,3 months,25% risk,50 deaths,No impact,Not available,0,3,25,50,0,0
+2,set5,alt2,Lockdown,6 months,50% risk,150 deaths,2 in 5 close,Probably available,2,6,50,150,2,1
+2,set7,alt1,Basic measures,6 months,50% risk,50 deaths,No impact,Probably available,0,6,50,50,0,1
+2,set7,alt2,Reduced social contact,9 months,25% risk,100 deaths,1 in 5 close,Not available,1,9,25,100,1,0
+3,set1,alt1,Reduced social contact,3 months,50% risk,50 deaths,No impact,Probably available,1,3,50,50,0,1
+3,set1,alt2,Basic measures,6 months,25% risk,100 deaths,1 in 5 close,Not available,0,6,25,100,1,0
+3,set10,alt1,Basic measures,3 months,25% risk,100 deaths,2 in 5 close,Not available,0,3,25,100,2,0
+3,set10,alt2,Reduced social contact,9 months,50% risk,50 deaths,1 in 5 close,Probably available,1,9,50,50,1,1
+3,set12,alt1,Reduced social contact,9 months,25% risk,100 deaths,2 in 5 close,Probably available,1,9,25,100,2,1
+3,set12,alt2,Basic measures,6 months,50% risk,50 deaths,No impact,Not available,0,6,50,50,0,0
+3,set16,alt1,Reduced social contact,6 months,25% risk,50 deaths,No impact,Probably available,1,6,25,50,0,1
+3,set16,alt2,Basic measures,3 months,50% risk,100 deaths,1 in 5 close,Not available,0,3,50,100,1,0
+3,set17,alt1,Lockdown,9 months,50% risk,150 deaths,No impact,Probably available,2,9,50,150,0,1
+3,set17,alt2,Reduced social contact,6 months,90% risk,100 deaths,1 in 5 close,Not available,1,6,90,100,1,0
+3,set20,alt1,Basic measures,3 months,50% risk,50 deaths,2 in 5 close,Not available,0,3,50,50,2,0
+3,set20,alt2,Lockdown,6 months,90% risk,100 deaths,No impact,Probably available,2,6,90,100,0,1
+3,set24,alt1,Reduced social contact,3 months,50% risk,50 deaths,No impact,Probably available,1,3,50,50,0,1
+3,set24,alt2,Lockdown,6 months,90% risk,150 deaths,2 in 5 close,Not available,2,6,90,150,2,0
+3,set27,alt1,Reduced social contact,3 months,25% risk,150 deaths,No impact,Probably available,1,3,25,150,0,1
+3,set27,alt2,Basic measures,9 months,50% risk,50 deaths,2 in 5 close,Not available,0,9,50,50,2,0
+3,set32,alt1,Basic measures,9 months,25% risk,100 deaths,2 in 5 close,Probably available,0,9,25,100,2,1
+3,set32,alt2,Reduced social contact,3 months,90% risk,50 deaths,No impact,Not available,1,3,90,50,0,0
+3,set33,alt1,Reduced social contact,3 months,90% risk,150 deaths,No impact,Probably available,1,3,90,150,0,1
+3,set33,alt2,Lockdown,6 months,50% risk,100 deaths,1 in 5 close,Not available,2,6,50,100,1,0
+3,set48,alt1,Reduced social contact,3 months,25% risk,100 deaths,1 in 5 close,Not available,1,3,25,100,1,0
+3,set48,alt2,Lockdown,9 months,90% risk,150 deaths,No impact,Probably available,2,9,90,150,0,1
+3,set6,alt1,Reduced social contact,9 months,25% risk,50 deaths,2 in 5 close,Probably available,1,9,25,50,2,1
+3,set6,alt2,Reduced social contact,3 months,90% risk,150 deaths,1 in 5 close,Not available,1,3,90,150,1,0
+4,set11,alt1,Reduced social contact,9 months,90% risk,150 deaths,2 in 5 close,Not available,1,9,90,150,2,0
+4,set11,alt2,Lockdown,3 months,50% risk,100 deaths,1 in 5 close,Probably available,2,3,50,100,1,1
+4,set14,alt1,Reduced social contact,9 months,25% risk,50 deaths,No impact,Not available,1,9,25,50,0,0
+4,set14,alt2,Reduced social contact,6 months,90% risk,150 deaths,1 in 5 close,Probably available,1,6,90,150,1,1
+4,set18,alt1,Basic measures,9 months,50% risk,100 deaths,No impact,Not available,0,9,50,100,0,0
+4,set18,alt2,Reduced social contact,3 months,25% risk,50 deaths,1 in 5 close,Probably available,1,3,25,50,1,1
+4,set25,alt1,Reduced social contact,6 months,50% risk,150 deaths,2 in 5 close,Not available,1,6,50,150,2,0
+4,set25,alt2,Basic measures,3 months,25% risk,50 deaths,1 in 5 close,Probably available,0,3,25,50,1,1
+4,set26,alt1,Reduced social contact,6 months,50% risk,50 deaths,No impact,Not available,1,6,50,50,0,0
+4,set26,alt2,Basic measures,9 months,25% risk,100 deaths,2 in 5 close,Probably available,0,9,25,100,2,1
+4,set28,alt1,Lockdown,3 months,50% risk,100 deaths,No impact,Not available,2,3,50,100,0,0
+4,set28,alt2,Reduced social contact,9 months,90% risk,150 deaths,1 in 5 close,Probably available,1,9,90,150,1,1
+4,set40,alt1,Lockdown,9 months,90% risk,150 deaths,2 in 5 close,Probably available,2,9,90,150,2,1
+4,set40,alt2,Reduced social contact,3 months,25% risk,100 deaths,1 in 5 close,Not available,1,3,25,100,1,0
+4,set41,alt1,Basic measures,6 months,50% risk,100 deaths,No impact,Probably available,0,6,50,100,0,1
+4,set41,alt2,Lockdown,3 months,90% risk,150 deaths,1 in 5 close,Not available,2,3,90,150,1,0
+4,set43,alt1,Reduced social contact,9 months,25% risk,150 deaths,No impact,Probably available,1,9,25,150,0,1
+4,set43,alt2,Reduced social contact,3 months,90% risk,50 deaths,2 in 5 close,Not available,1,3,90,50,2,0
+4,set44,alt1,Basic measures,9 months,25% risk,50 deaths,2 in 5 close,Not available,0,9,25,50,2,0
+4,set44,alt2,Reduced social contact,6 months,50% risk,100 deaths,No impact,Probably available,1,6,50,100,0,1
+4,set47,alt1,Basic measures,3 months,50% risk,50 deaths,2 in 5 close,Probably available,0,3,50,50,2,1
+4,set47,alt2,Reduced social contact,6 months,25% risk,100 deaths,No impact,Not available,1,6,25,100,0,0
+4,set8,alt1,Basic measures,3 months,25% risk,100 deaths,No impact,Not available,0,3,25,100,0,0
+4,set8,alt2,Reduced social contact,6 months,90% risk,50 deaths,2 in 5 close,Probably available,1,6,90,50,2,1
