@@ -1,0 +1,111 @@
+<div>
+<h4>Question: 1</h4>
+
+<table style="width: 100%; border-collapse: collapse; border: 1px solid rgb(204, 204, 204); font-family: Arial, sans-serif;">
+	<colgroup>
+		<col style="width: 20%;">
+		<col style="width: 40%;">
+		<col style="width: 40%;">
+	</colgroup>
+	<thead>
+		<tr style="background-color: rgb(242, 242, 242);">
+			<th style="border: 1px solid rgb(204, 204, 204); padding: 8px; text-align: left;">Attribute</th>
+			<th style="border: 1px solid rgb(204, 204, 204); padding: 8px; text-align: left;">Scenario 1</th>
+			<th style="border: 1px solid rgb(204, 204, 204); padding: 8px; text-align: left;">Scenario 2</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px; font-weight: bold;">MEASURES</td>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px;">
+			<div><img src="https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/Attr_PHSM_2.png" style="width: 35%;">
+			<div>Lockdown</div>
+			</div>
+			</td>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px;">
+			<div><img src="https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/Attr_PHSM_0.png" style="width: 35%;">
+			<div>Basic measures</div>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px; font-weight: bold;">DURATION</td>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px;">
+			<div><img src="https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/Attr_Duration_3.png" style="width: 35%;">
+			<div>3 months</div>
+			</div>
+			</td>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px;">
+			<div><img src="https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/Attr_Duration_6.png" style="width: 35%;">
+			<div>6 months</div>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px; font-weight: bold;">VACCINE</td>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px;">
+			<div><img src="https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/Attr_Vaccine_0.png" style="width: 35%;">
+			<div>Not available</div>
+			</div>
+			</td>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px;">
+			<div><img src="https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/Attr_Vaccine_1.png" style="width: 35%;">
+			<div>Available</div>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px; font-weight: bold;">INFECTION</td>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px;">
+			<div><img src="https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/Attr_Infection_90.png" style="width: 35%;">
+			<div>90%</div>
+			</div>
+			</td>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px;">
+			<div><img src="https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/Attr_Infection_50.png" style="width: 35%;">
+			<div>50%</div>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px; font-weight: bold;">HOSPITALISATION</td>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px;">
+			<div><img src="https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/Attr_Hosp_150.png" style="width: 35%;">
+			<div>150 hospitalised per day</div>
+			</div>
+			</td>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px;">
+			<div><img src="https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/Attr_Hosp_100.png" style="width: 35%;">
+			<div>100 hospitalised per day</div>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px; font-weight: bold;">FINANCES</td>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px;">
+			<div><img src="https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/Attr_Finances_2.png" style="width: 35%;">
+			<div>2 in 5 businesses close</div>
+			</div>
+			</td>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px;">
+			<div><img src="https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/Attr_Finances_0.png" style="width: 35%;">
+			<div>No businesses close</div>
+			</div>
+			</td>
+		</tr>
+		<tr>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px; font-weight: bold;">EDUCATION</td>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px;">
+			<div><img src="https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/Attr_Education_5.png" style="width: 35%;">
+			<div>5 falling behind in 25 children</div>
+			</div>
+			</td>
+			<td style="border: 1px solid rgb(204, 204, 204); padding: 8px;">
+			<div><img src="https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/Attr_Education_10.png" style="width: 35%;">
+			<div>10 falling behind in 25 children</div>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>

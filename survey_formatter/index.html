@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Survey formatter</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Survey formatter</h1>
+    <label>Survey version
+      <select id="version"></select>
+    </label>
+    <button id="reset" type="button" class="link">Reset copied marks</button>
+  </header>
+
+  <p id="message" role="alert" hidden></p>
+
+  <nav id="tabs" role="tablist" aria-label="Blocks"></nav>
+  <section id="questions" aria-label="Questions"></section>
+
+  <section>
+    <h2 id="preview-title">Preview</h2>
+    <div id="preview"></div>
+  </section>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
