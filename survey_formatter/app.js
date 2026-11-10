@@ -94,14 +94,15 @@ ${renderCell(key, set.alt2)}
 \t<thead>
 \t\t<tr style="background-color: rgb(242, 242, 242);">
 \t\t\t<th style="${CELL} text-align: left;">Attribute</th>
-\t\t\t<th style="${CELL} text-align: left;">Option 1</th>
-\t\t\t<th style="${CELL} text-align: left;">Option 2</th>
+\t\t\t<th style="${CELL} text-align: left;">Version 1</th>
+\t\t\t<th style="${CELL} text-align: left;">Version 2</th>
 \t\t</tr>
 \t</thead>
 \t<tbody>
 ${rows}
 \t</tbody>
 </table>
+Which version would you choose?
 </div>`;
 }
 
