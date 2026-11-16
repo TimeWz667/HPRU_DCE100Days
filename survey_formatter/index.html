@@ -13,6 +13,7 @@
       <select id="version"></select>
     </label>
     <label><input type="checkbox" id="legacy"> Icon + text (legacy, no compiled images)</label>
+    <label><input type="checkbox" id="pipe"> Use <code>${e://Field/block}</code> instead of the block number</label>
     <button id="reset" type="button" class="link">Reset copied marks</button>
   </header>
 
@@ -23,6 +24,7 @@
 
   <section>
     <h2 id="preview-title">Preview</h2>
+    <textarea id="raw" readonly hidden rows="8" style="width: 100%;" aria-label="HTML to copy"></textarea>
     <div id="preview"></div>
   </section>
 

@@ -6,7 +6,7 @@ const DEF_DIR = '../def/';
 // Where compiled images are served; override locally with ?base=/survey_formatter/dist/
 const IMAGE_BASE = new URLSearchParams(location.search).get('base')
   ?? 'https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/survey_formatter/dist/';
-// Qualtrics pipes the respondent's block from embedded data "block" into the image URL
+// Optional: Qualtrics pipes the respondent's block from embedded data "block" into the image URL
 const BLOCK_PIPE = '${e://Field/block}';
 
 const CELL = 'border: 1px solid rgb(204, 204, 204); padding: 8px;';
@@ -64,16 +64,19 @@ Which version would you choose?
 </div>`;
 }
 
+// Returns true if the text reached the clipboard
 async function copyText(text) {
   try {
     await navigator.clipboard.writeText(text);
+    return true;
   } catch {
     const ta = document.createElement('textarea');
     ta.value = text;
     document.body.appendChild(ta);
     ta.select();
-    document.execCommand('copy');
+    const ok = document.execCommand('copy');
     ta.remove();
+    return ok;
   }
 }
 
@@ -105,12 +108,25 @@ function renderQuestions() {
     btn.textContent = `Q${n}`;
     btn.classList.toggle('copied', state.copied.has(copiedKey(state.block, n)));
     btn.onclick = async () => {
-      const legacy = el('legacy').checked;
-      await copyText(renderQuestion(n, set, { block: BLOCK_PIPE, legacy }));
-      el('preview').innerHTML = renderQuestion(n, set, { block: state.block, legacy });
-      el('preview-title').textContent = `Preview: Block ${state.block}, Question ${n}`;
-      state.copied.add(copiedKey(state.block, n));
-      btn.classList.add('copied');
+      try {
+        const legacy = el('legacy')?.checked ?? false;
+        // Copied HTML carries the selected block's number; the pipe is only for surveys with embedded data "block"
+        const copyBlock = el('pipe')?.checked ? BLOCK_PIPE : state.block;
+        const html = renderQuestion(n, set, { block: copyBlock, legacy });
+        const ok = await copyText(html);
+        el('preview').innerHTML = renderQuestion(n, set, { block: state.block, legacy });
+        el('preview-title').textContent = `Preview: Block ${state.block}, Question ${n}`;
+        el('raw').value = html;
+        el('raw').hidden = ok;
+        showMessage(ok ? '' : 'The browser blocked copying. Copy the HTML from the box below instead.');
+        if (ok) {
+          state.copied.add(copiedKey(state.block, n));
+          btn.classList.add('copied');
+        }
+      } catch (err) {
+        console.error(err);
+        showMessage(`Could not build question ${n}: ${err.message}`);
+      }
     };
     return btn;
   }));
