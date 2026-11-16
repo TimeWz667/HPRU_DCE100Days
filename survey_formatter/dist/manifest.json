@@ -1,0 +1,62 @@
+{
+ "CHD/b1/q01/a1_PHSM.png": {
+  "label": "Basic measures",
+  "set": "set5",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b1/q01/a1_DURATION.png": {
+  "label": "9 months",
+  "set": "set5",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b1/q01/a1_INFECTION.png": {
+  "label": "25% risk",
+  "set": "set5",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b1/q01/a1_HOSP.png": {
+  "label": "100 admissions",
+  "set": "set5",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b1/q01/a1_EDUCATION.png": {
+  "label": "10 in 25 fall behind",
+  "set": "set5",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b1/q01/a1_VACCINE.png": {
+  "label": "Probably available",
+  "set": "set5",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b1/q01/a2_PHSM.png": {
+  "label": "Reduced social contact",
+  "set": "set5",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b1/q01/a2_DURATION.png": {
+  "label": "3 months",
+  "set": "set5",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b1/q01/a2_INFECTION.png": {
+  "label": "50% risk",
+  "set": "set5",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b1/q01/a2_HOSP.png": {
+  "label": "50 admissions",
+  "set": "set5",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b1/q01/a2_EDUCATION.png": {
+  "label": "5 in 25 fall behind",
+  "set": "set5",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b1/q01/a2_VACCINE.png": {
+  "label": "Not available",
+  "set": "set5",
+  "icon": "Attr_Vaccine_0.png"
+ }
+}
