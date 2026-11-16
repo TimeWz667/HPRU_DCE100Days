@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# survey_formatter build
+survey_formatter/node_modules/

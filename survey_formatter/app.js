@@ -1,71 +1,21 @@
-const SURVEY_DIR = '../Surveys/';
-const ICON_BASE = 'https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/Icons/';
+import { ACTIVE_VERSIONS, ATTRIBUTES, ICON_BASE, VERSIONS, groupByBlock, imagePath, parseCsv } from './shared.js';
 
+const SURVEY_DIR = '../Surveys/';
 const DEF_DIR = '../def/';
 
-// attrs: attribute definition file whose order sets the table row order
-const VERSIONS = [
-  { label: 'CHD pilot', file: 'Survey_CHD_pilot.csv', attrs: 'attributes_chd.json' },
-  { label: 'CHD pilot (no cross)', file: 'Survey_CHD_pilot.csv_nocross.csv', attrs: 'attributes_chd.json' },
-  { label: 'OLD pilot', file: 'Survey_OLD_pilot.csv', attrs: 'attributes_old.json' },
-  { label: 'OLD pilot (no cross)', file: 'Survey_OLD_pilot.csv_nocross.csv', attrs: 'attributes_old.json' },
-];
-
-const ATTRIBUTES = {
-  PHSM: { title: 'Measures', icon: 'PHSM' },
-  DURATION: { title: 'Duration', icon: 'Duration' },
-  VACCINE: { title: 'Vaccine', icon: 'Vaccine' },
-  INFECTION: { title: 'Infection', icon: 'Infection' },
-  HOSP: { title: 'Hospitalisation', icon: 'Hosp' },
-  DEATH: { title: 'Death', icon: 'Death' },
-  FINANCES: { title: 'Finances', icon: 'Finances' },
-  EDUCATION: { title: 'Education', icon: 'Education' },
-};
+// Where compiled images are served; override locally with ?base=/survey_formatter/dist/
+const IMAGE_BASE = new URLSearchParams(location.search).get('base')
+  ?? 'https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/survey_formatter/dist/';
+// Qualtrics pipes the respondent's block from embedded data "block" into the image URL
+const BLOCK_PIPE = '${e://Field/block}';
 
 const CELL = 'border: 1px solid rgb(204, 204, 204); padding: 8px;';
 
 const el = id => document.getElementById(id);
 const state = { order: [], blocks: {}, block: null, copied: new Set() };
+const currentVersion = () => VERSIONS.find(v => v.file === el('version').value);
 
-function parseCsv(text) {
-  const rows = [];
-  let row = [], field = '', quoted = false;
-  for (let i = 0; i < text.length; i++) {
-    const c = text[i];
-    if (quoted) {
-      if (c === '"' && text[i + 1] === '"') { field += '"'; i++; }
-      else if (c === '"') quoted = false;
-      else field += c;
-    } else if (c === '"') quoted = true;
-    else if (c === ',') { row.push(field); field = ''; }
-    else if (c === '\n' || c === '\r') {
-      if (c === '\r' && text[i + 1] === '\n') i++;
-      row.push(field); field = '';
-      if (row.some(v => v !== '')) rows.push(row);
-      row = [];
-    } else field += c;
-  }
-  if (field !== '' || row.length) { row.push(field); rows.push(row); }
-  const [header, ...body] = rows;
-  return { header, rows: body.map(r => Object.fromEntries(header.map((h, i) => [h, (r[i] ?? '').trim()]))) };
-}
-
-const setNumber = s => parseInt(s.replace(/\D/g, ''), 10);
-
-// { block: [ {alt1: row, alt2: row}, ... ] } with sets ordered numerically
-function groupByBlock(rows) {
-  const blocks = {};
-  for (const r of rows) {
-    const sets = (blocks[r.Block] ??= {});
-    (sets[r.Set] ??= {})[r.Alt] = r;
-  }
-  return Object.fromEntries(Object.entries(blocks).map(([b, sets]) => [
-    b,
-    Object.keys(sets).sort((a, c) => setNumber(a) - setNumber(c)).map(s => sets[s]),
-  ]));
-}
-
-function renderCell(key, row) {
+function renderLegacyCell(key, row) {
   const code = row[`${key}_C`];
   const img = code === undefined || code === ''
     ? ''
@@ -76,11 +26,19 @@ function renderCell(key, row) {
 \t\t\t\t</td>`;
 }
 
-function renderQuestion(n, set) {
+function renderImageCell(key, n, alt, block) {
+  const src = IMAGE_BASE + imagePath(currentVersion().id, block, n, alt, key);
+  return `				<td style="${CELL}">
+				<img src="${src}" alt="${ATTRIBUTES[key].title}, option ${alt}" style="width: 95%; display: block; margin: 0 auto;">
+				</td>`;
+}
+
+// block: the value written into the image URL (BLOCK_PIPE for Qualtrics, a number for previews)
+function renderQuestion(n, set, { block, legacy = false }) {
   const rows = state.order.map(key => `\t\t\t<tr>
 \t\t\t\t<td style="${CELL}">${ATTRIBUTES[key].title}</td>
-${renderCell(key, set.alt1)}
-${renderCell(key, set.alt2)}
+${legacy ? renderLegacyCell(key, set.alt1) : renderImageCell(key, n, 1, block)}
+${legacy ? renderLegacyCell(key, set.alt2) : renderImageCell(key, n, 2, block)}
 \t\t\t</tr>`).join('\n');
   return `<div>
 <h4>Question: ${n}</h4>
@@ -147,9 +105,9 @@ function renderQuestions() {
     btn.textContent = `Q${n}`;
     btn.classList.toggle('copied', state.copied.has(copiedKey(state.block, n)));
     btn.onclick = async () => {
-      const html = renderQuestion(n, set);
-      await copyText(html);
-      el('preview').innerHTML = html;
+      const legacy = el('legacy').checked;
+      await copyText(renderQuestion(n, set, { block: BLOCK_PIPE, legacy }));
+      el('preview').innerHTML = renderQuestion(n, set, { block: state.block, legacy });
       el('preview-title').textContent = `Preview: Block ${state.block}, Question ${n}`;
       state.copied.add(copiedKey(state.block, n));
       btn.classList.add('copied');
@@ -184,7 +142,7 @@ async function loadVersion(file) {
 }
 
 const select = el('version');
-select.replaceChildren(...VERSIONS.map(v => new Option(v.label, v.file)));
+select.replaceChildren(...ACTIVE_VERSIONS.map(v => new Option(v.label, v.file)));
 select.onchange = () => loadVersion(select.value);
 el('reset').onclick = () => { state.copied.clear(); renderQuestions(); };
 loadVersion(select.value);
