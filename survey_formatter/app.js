@@ -10,9 +10,12 @@ const IMAGE_BASE = new URLSearchParams(location.search).get('base')
 const BLOCK_PIPE = '${e://Field/block}';
 
 const CELL = 'border: 1px solid rgb(204, 204, 204); padding: 8px;';
+// First column: font scales with the viewport (inline styles cannot use media queries) and long words wrap
+const CELL_FIRST = 'border: 1px solid rgb(204, 204, 204); padding: 8px 4px; font-size: clamp(11px, 3.4vw, 16px); overflow-wrap: break-word; hyphens: auto;';
 
 const el = id => document.getElementById(id);
 const state = { order: [], blocks: {}, block: null, copied: new Set() };
+const escapeAttr = s => s.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
 const currentVersion = () => VERSIONS.find(v => v.file === el('version').value);
 
 function renderLegacyCell(key, row) {
@@ -26,32 +29,34 @@ function renderLegacyCell(key, row) {
 \t\t\t\t</td>`;
 }
 
-function renderImageCell(key, n, alt, block) {
-  const src = IMAGE_BASE + imagePath(currentVersion().id, block, n, alt, key);
+// alt text carries the same label that is drawn into the image
+function renderImageCell(key, n, altNo, block, row) {
+  const src = IMAGE_BASE + imagePath(currentVersion().id, block, n, altNo, key);
+  const alt = escapeAttr(`${ATTRIBUTES[key].title}: ${row[key]}`);
   return `				<td style="${CELL}">
-				<img src="${src}" alt="${ATTRIBUTES[key].title}, option ${alt}" style="width: 95%; display: block; margin: 0 auto;">
+				<img src="${src}" alt="${alt}" style="width: 95%; display: block; margin: 0 auto;">
 				</td>`;
 }
 
 // block: the value written into the image URL (BLOCK_PIPE for Qualtrics, a number for previews)
 function renderQuestion(n, set, { block, legacy = false }) {
   const rows = state.order.map(key => `\t\t\t<tr>
-\t\t\t\t<td style="${CELL}">${ATTRIBUTES[key].title}</td>
-${legacy ? renderLegacyCell(key, set.alt1) : renderImageCell(key, n, 1, block)}
-${legacy ? renderLegacyCell(key, set.alt2) : renderImageCell(key, n, 2, block)}
+\t\t\t\t<td style="${CELL_FIRST}">${ATTRIBUTES[key].title}</td>
+${legacy ? renderLegacyCell(key, set.alt1) : renderImageCell(key, n, 1, block, set.alt1)}
+${legacy ? renderLegacyCell(key, set.alt2) : renderImageCell(key, n, 2, block, set.alt2)}
 \t\t\t</tr>`).join('\n');
   return `<div>
 <h4>Question: ${n}</h4>
 
 <table style="width: 100%; border-collapse: collapse; border: 1px solid rgb(204, 204, 204); font-family: Arial, sans-serif;">
 \t<colgroup>
-\t\t<col style="width: 20%;">
-\t\t<col style="width: 40%;">
-\t\t<col style="width: 40%;">
+\t\t<col style="width: 26%;">
+\t\t<col style="width: 37%;">
+\t\t<col style="width: 37%;">
 \t</colgroup>
 \t<thead>
 \t\t<tr style="background-color: rgb(242, 242, 242);">
-\t\t\t<th style="${CELL} text-align: left;">Attribute</th>
+\t\t\t<th style="${CELL_FIRST} text-align: left;">Attribute</th>
 \t\t\t<th style="${CELL} text-align: left;">Version 1</th>
 \t\t\t<th style="${CELL} text-align: left;">Version 2</th>
 \t\t</tr>

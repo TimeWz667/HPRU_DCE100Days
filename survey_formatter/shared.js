@@ -19,7 +19,7 @@ export const ATTRIBUTES = {
   DURATION: { title: 'Duration', icon: 'Duration' },
   VACCINE: { title: 'Vaccine', icon: 'Vaccine' },
   INFECTION: { title: 'Infection', icon: 'Infection' },
-  HOSP: { title: 'Hospitalisation', icon: 'Hosp' },
+  HOSP: { title: 'Hospital admissions', icon: 'Hosp' },
   DEATH: { title: 'Death', icon: 'Death' },
   FINANCES: { title: 'Finances', icon: 'Finances' },
   EDUCATION: { title: 'Education', icon: 'Education' },
