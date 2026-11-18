@@ -6,7 +6,7 @@ const REPO = 'TimeWz667/HPRU_DCE100Days';
 const BRANCH = 'release';
 const DIST = 'survey_formatter/dist';
 
-const git = (...args) => execFileSync('git', args, { encoding: 'utf8' }).trim();
+const git = (...args) => execFileSync('git', args, { encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] }).trim();
 const fail = msg => { console.error(`Aborted: ${msg}`); process.exit(1); };
 
 if (git('status', '--porcelain')) fail('working tree has uncommitted changes. Commit them first.');
