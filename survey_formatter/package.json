@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "compile": "node build/compile.mjs"
+    "compile": "node build/compile.mjs",
+    "release": "node build/release.mjs"
   },
   "dependencies": {
     "@napi-rs/canvas": "^1.1.1",

@@ -5,7 +5,7 @@ const DEF_DIR = '../def/';
 
 // Where compiled images are served; override locally with ?base=/survey_formatter/dist/
 const IMAGE_BASE = new URLSearchParams(location.search).get('base')
-  ?? 'https://raw.githubusercontent.com/TimeWz667/HPRU_DCE100Days/refs/heads/main/survey_formatter/dist/';
+  ?? 'https://cdn.jsdelivr.net/gh/TimeWz667/HPRU_DCE100Days@release/survey_formatter/dist/';
 // Optional: Qualtrics pipes the respondent's block from embedded data "block" into the image URL
 const BLOCK_PIPE = '${e://Field/block}';
 
