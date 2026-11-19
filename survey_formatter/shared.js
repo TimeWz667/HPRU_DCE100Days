@@ -67,3 +67,6 @@ export function groupByBlock(rows) {
 export function imagePath(id, block, n, alt, key) {
   return `${id}/b${block}/q${String(n).padStart(2, '0')}/a${alt}_${key}.png`;
 }
+
+// Alt text of a compiled cell image; also recorded in dist/manifest.json to detect when pasted HTML is out of date
+export const altText = (key, label) => `${ATTRIBUTES[key].title}: ${label}`;

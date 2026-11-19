@@ -1,4 +1,4 @@
-import { ACTIVE_VERSIONS, ATTRIBUTES, ICON_BASE, VERSIONS, groupByBlock, imagePath, parseCsv } from './shared.js';
+import { ACTIVE_VERSIONS, ATTRIBUTES, ICON_BASE, VERSIONS, altText, groupByBlock, imagePath, parseCsv } from './shared.js';
 
 const SURVEY_DIR = '../Surveys/';
 const DEF_DIR = '../def/';
@@ -32,7 +32,7 @@ function renderLegacyCell(key, row) {
 // alt text carries the same label that is drawn into the image
 function renderImageCell(key, n, altNo, block, row) {
   const src = IMAGE_BASE + imagePath(currentVersion().id, block, n, altNo, key);
-  const alt = escapeAttr(`${ATTRIBUTES[key].title}: ${row[key]}`);
+  const alt = escapeAttr(altText(key, row[key]));
   return `				<td style="${CELL}">
 				<img src="${src}" alt="${alt}" style="width: 95%; display: block; margin: 0 auto;">
 				</td>`;

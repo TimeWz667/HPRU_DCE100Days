@@ -6,7 +6,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { GlobalFonts, createCanvas, loadImage } from '@napi-rs/canvas';
 import sharp from 'sharp';
-import { ACTIVE_VERSIONS, ATTRIBUTES, groupByBlock, imagePath, parseCsv } from '../shared.js';
+import { ACTIVE_VERSIONS, ATTRIBUTES, altText, groupByBlock, imagePath, parseCsv } from '../shared.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const OUT = path.join(ROOT, 'survey_formatter', 'dist');
@@ -145,7 +145,7 @@ for (const version of ACTIVE_VERSIONS) {
           const png = await drawCell(row[key], iconFile, TRIM.has(key));
           await mkdir(path.dirname(path.join(OUT, rel)), { recursive: true });
           await writeFile(path.join(OUT, rel), png);
-          manifest[rel] = { label: row[key], set: row.Set, icon: iconFile && path.basename(iconFile) };
+          manifest[rel] = { alt: altText(key, row[key]), label: row[key], set: row.Set, icon: iconFile && path.basename(iconFile) };
           count++; bytes += png.length;
         }
       }
