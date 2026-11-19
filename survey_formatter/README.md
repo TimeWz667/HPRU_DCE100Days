@@ -32,6 +32,10 @@ The copied HTML has the selected block number in the image URLs. Tick the checkb
 - The first column font scales with screen width.
 - Alt text is `<attribute>: <label>` and is fixed when pasted. Changing an image's file never needs a re-paste (the URL stays the same), but changing a label does.
 
+## iframe version (alternative)
+
+Tick **iframe snippet (needs GitHub Pages)** to copy a one-line `<iframe>` pointing at `q.html` instead of the table. `q.html?design=CHD&block=3&q=7` builds that question live from `Surveys/`, `def/` and `Icons/`. See [HOSTING.md](HOSTING.md) for setup and trade-offs.
+
 ## Keeping the pasted HTML up to date
 
 After you paste questions into Qualtrics, record the commit: `npm run changed -- --mark` (then commit `last_pasted.txt`). After later changes, `npm run changed` lists the questions whose alt text changed, so you re-paste only those. It also says which questions only had their images updated (no re-paste; run `npm run release`).

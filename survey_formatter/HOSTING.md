@@ -12,6 +12,27 @@ The pasted Qualtrics HTML always uses `@release`, so it never needs re-pasting w
 - To freeze for fielding: stop publishing, add a GitHub branch protection rule on `release` that blocks pushes, tag the frozen commit (for example `pilot-v1`) and record its commit hash in the study records.
 - A design change after launch is a new study version: use a new branch (for example `release-v2`) and paste again.
 
+## Alternative to try: iframe version
+
+Instead of pasting a table of images, paste a one-line `<iframe>` that loads `q.html`, which builds the question from the CSV, attribute definitions and icons in the repo (real text, no compiled images, no alt text to keep in sync). The existing image and icon-plus-text outputs are unchanged.
+
+1. Serve `q.html` from GitHub Pages. jsDelivr does not serve HTML pages, so Pages is needed:
+   GitHub repo **Settings -> Pages -> Build and deployment -> Source: Deploy from a branch**, branch `release` (or `main` while testing), folder `/ (root)`.
+2. In the app, tick **iframe snippet (needs GitHub Pages)**, pick the version, block and question, and paste the copied snippet into the Qualtrics HTML view:
+
+   ```html
+   <iframe src="https://timewz667.github.io/HPRU_DCE100Days/survey_formatter/q.html?design=CHD&amp;block=3&amp;q=7"
+           title="Choice question 7" style="width: 100%; height: min(150vw, 880px); border: 0;"></iframe>
+   ```
+
+3. Publishing works as before: `npm run release` moves `release`, and Pages redeploys it (about a minute; the CDN may cache for a few minutes more).
+
+Notes:
+- The iframe height is a fixed rule (150% of the page width, at most 880 px), measured from `q.html` at 320-700 px wide. It leaves some blank space under the table on wider screens. `q.html` also posts its height to the parent page, which only helps if Qualtrics custom JavaScript is allowed.
+- Your Qualtrics account must allow iframes in questions.
+- The block number comes from the URL (a literal number, or the `${e://Field/block}` pipe with the checkbox ticked).
+- Test locally with `python -m http.server 8000` and open `http://localhost:8000/survey_formatter/q.html?design=CHD&block=1&q=1`, or start the app with `?pages=/`.
+
 ## Full data collection: move to the Qualtrics graphics library
 
 Do this once the design is frozen, because the URLs cannot be edited after upload.

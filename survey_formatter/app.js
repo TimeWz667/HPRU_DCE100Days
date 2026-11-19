@@ -9,6 +9,11 @@ const IMAGE_BASE = new URLSearchParams(location.search).get('base')
 // Optional: Qualtrics pipes the respondent's block from embedded data "block" into the image URL
 const BLOCK_PIPE = '${e://Field/block}';
 
+// iframe version: q.html must be served from GitHub Pages (jsDelivr does not serve HTML pages). Override locally with ?pages=/
+const PAGES_BASE = new URLSearchParams(location.search).get('pages') ?? 'https://timewz667.github.io/HPRU_DCE100Days/';
+// Height measured from q.html at 320-700 px wide: 150% of the width fits phones, capped for desktop
+const IFRAME_STYLE = 'width: 100%; height: min(150vw, 880px); border: 0;';
+
 const CELL = 'border: 1px solid rgb(204, 204, 204); padding: 8px;';
 // First column: font scales with the viewport (inline styles cannot use media queries) and long words wrap
 const CELL_FIRST = 'border: 1px solid rgb(204, 204, 204); padding: 8px 4px; font-size: clamp(11px, 3.4vw, 16px); overflow-wrap: break-word; hyphens: auto;';
@@ -69,6 +74,12 @@ Which version would you choose?
 </div>`;
 }
 
+// base: everything before q.html in the URL
+function iframeSnippet(n, block, base) {
+  const src = `${base}q.html?design=${currentVersion().id}&amp;block=${block}&amp;q=${n}`;
+  return `<iframe src="${src}" title="Choice question ${n}" style="${IFRAME_STYLE}"></iframe>`;
+}
+
 // Returns true if the text reached the clipboard
 async function copyText(text) {
   try {
@@ -117,9 +128,15 @@ function renderQuestions() {
         const legacy = el('legacy')?.checked ?? false;
         // Copied HTML carries the selected block's number; the pipe is only for surveys with embedded data "block"
         const copyBlock = el('pipe')?.checked ? BLOCK_PIPE : state.block;
-        const html = renderQuestion(n, set, { block: copyBlock, legacy });
+        const useIframe = el('iframe')?.checked ?? false;
+        const html = useIframe
+          ? iframeSnippet(n, copyBlock, `${PAGES_BASE}survey_formatter/`)
+          : renderQuestion(n, set, { block: copyBlock, legacy });
         const ok = await copyText(html);
-        el('preview').innerHTML = renderQuestion(n, set, { block: state.block, legacy });
+        // The iframe preview loads the local q.html so it shows the current files, not what is on GitHub Pages
+        el('preview').innerHTML = useIframe
+          ? iframeSnippet(n, state.block, '')
+          : renderQuestion(n, set, { block: state.block, legacy });
         el('preview-title').textContent = `Preview: Block ${state.block}, Question ${n}`;
         el('raw').value = html;
         el('raw').hidden = ok;

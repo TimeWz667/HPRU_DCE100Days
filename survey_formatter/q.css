@@ -1,0 +1,38 @@
+/* Page shown inside the Qualtrics iframe (q.html). Sizes in rem so the font scales with the narrow viewport. */
+html { font-size: clamp(11px, 3.4vw, 16px); }
+
+body {
+  margin: 0;
+  padding: 0 1px;
+  font-family: Arial, sans-serif;
+  font-size: 1rem;
+  color: #000;
+  background: transparent;
+}
+
+h4 { margin: 0 0 0.75rem; font-size: 1.1rem; }
+
+table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  border: 1px solid rgb(204, 204, 204);
+}
+
+th, td {
+  border: 1px solid rgb(204, 204, 204);
+  padding: 0.5rem;
+  text-align: left;
+  vertical-align: middle;
+}
+
+thead tr { background-color: rgb(242, 242, 242); }
+th:first-child, td:first-child { width: 26%; padding-inline: 0.3rem; overflow-wrap: break-word; }
+th:not(:first-child), td:not(:first-child) { width: 37%; text-align: center; }
+th:not(:first-child) { text-align: left; }
+
+td img { display: block; width: 42%; max-width: 110px; margin: 0 auto 0.3rem; }
+
+p { margin: 0.75rem 0 0; }
+
+.error { color: #b3261e; }
