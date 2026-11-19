@@ -1,0 +1,6914 @@
+{
+ "CHD/b1/q01/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set5",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b1/q01/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set5",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b1/q01/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set5",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b1/q01/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set5",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b1/q01/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set5",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b1/q01/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set5",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b1/q01/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set5",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b1/q01/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set5",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b1/q01/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set5",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b1/q01/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set5",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b1/q01/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set5",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b1/q01/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set5",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b1/q02/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set6",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b1/q02/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set6",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b1/q02/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set6",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b1/q02/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set6",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b1/q02/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set6",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b1/q02/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set6",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b1/q02/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set6",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b1/q02/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set6",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b1/q02/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set6",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b1/q02/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set6",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b1/q02/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set6",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b1/q02/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set6",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b1/q03/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set7",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b1/q03/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set7",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b1/q03/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set7",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b1/q03/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set7",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b1/q03/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set7",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b1/q03/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set7",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b1/q03/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set7",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b1/q03/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set7",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b1/q03/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set7",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b1/q03/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set7",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b1/q03/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set7",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b1/q03/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set7",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b1/q04/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set12",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b1/q04/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set12",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b1/q04/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set12",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b1/q04/a1_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set12",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b1/q04/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set12",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b1/q04/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set12",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b1/q04/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set12",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b1/q04/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set12",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b1/q04/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set12",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b1/q04/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set12",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b1/q04/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set12",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b1/q04/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set12",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b1/q05/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set18",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b1/q05/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set18",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b1/q05/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set18",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b1/q05/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set18",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b1/q05/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set18",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b1/q05/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set18",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b1/q05/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set18",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b1/q05/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set18",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b1/q05/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set18",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b1/q05/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set18",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b1/q05/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set18",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b1/q05/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set18",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b1/q06/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set28",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b1/q06/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set28",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b1/q06/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set28",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b1/q06/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set28",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b1/q06/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set28",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b1/q06/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set28",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b1/q06/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set28",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b1/q06/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set28",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b1/q06/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set28",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b1/q06/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set28",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b1/q06/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set28",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b1/q06/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set28",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b1/q07/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set29",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b1/q07/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set29",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b1/q07/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set29",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b1/q07/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set29",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b1/q07/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set29",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b1/q07/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set29",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b1/q07/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set29",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b1/q07/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set29",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b1/q07/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set29",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b1/q07/a2_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set29",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b1/q07/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set29",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b1/q07/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set29",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b1/q08/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set32",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b1/q08/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set32",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b1/q08/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set32",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b1/q08/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set32",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b1/q08/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set32",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b1/q08/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set32",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b1/q08/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set32",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b1/q08/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set32",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b1/q08/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set32",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b1/q08/a2_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set32",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b1/q08/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set32",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b1/q08/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set32",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b1/q09/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set45",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b1/q09/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set45",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b1/q09/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set45",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b1/q09/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set45",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b1/q09/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set45",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b1/q09/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set45",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b1/q09/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set45",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b1/q09/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set45",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b1/q09/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set45",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b1/q09/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set45",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b1/q09/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set45",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b1/q09/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set45",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b1/q10/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set46",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b1/q10/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set46",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b1/q10/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set46",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b1/q10/a1_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set46",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b1/q10/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set46",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b1/q10/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set46",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b1/q10/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set46",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b1/q10/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set46",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b1/q10/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set46",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b1/q10/a2_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set46",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b1/q10/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set46",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b1/q10/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set46",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b1/q11/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set47",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b1/q11/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set47",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b1/q11/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set47",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b1/q11/a1_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set47",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b1/q11/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set47",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b1/q11/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set47",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b1/q11/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set47",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b1/q11/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set47",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b1/q11/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set47",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b1/q11/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set47",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b1/q11/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set47",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b1/q11/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set47",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b1/q12/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set48",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b1/q12/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set48",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b1/q12/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set48",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b1/q12/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set48",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b1/q12/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set48",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b1/q12/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set48",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b1/q12/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set48",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b1/q12/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set48",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b1/q12/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set48",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b1/q12/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set48",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b1/q12/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set48",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b1/q12/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set48",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b2/q01/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set8",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b2/q01/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set8",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b2/q01/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set8",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b2/q01/a1_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set8",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b2/q01/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set8",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b2/q01/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set8",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b2/q01/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set8",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b2/q01/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set8",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b2/q01/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set8",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b2/q01/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set8",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b2/q01/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set8",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b2/q01/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set8",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b2/q02/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set10",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b2/q02/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set10",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b2/q02/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set10",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b2/q02/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set10",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b2/q02/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set10",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b2/q02/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set10",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b2/q02/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set10",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b2/q02/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set10",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b2/q02/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set10",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b2/q02/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set10",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b2/q02/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set10",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b2/q02/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set10",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b2/q03/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set14",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b2/q03/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set14",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b2/q03/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set14",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b2/q03/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set14",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b2/q03/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set14",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b2/q03/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set14",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b2/q03/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set14",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b2/q03/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set14",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b2/q03/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set14",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b2/q03/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set14",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b2/q03/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set14",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b2/q03/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set14",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b2/q04/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set17",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b2/q04/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set17",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b2/q04/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set17",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b2/q04/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set17",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b2/q04/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set17",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b2/q04/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set17",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b2/q04/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set17",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b2/q04/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set17",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b2/q04/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set17",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b2/q04/a2_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set17",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b2/q04/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set17",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b2/q04/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set17",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b2/q05/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set19",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b2/q05/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set19",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b2/q05/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set19",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b2/q05/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set19",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b2/q05/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set19",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b2/q05/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set19",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b2/q05/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set19",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b2/q05/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set19",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b2/q05/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set19",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b2/q05/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set19",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b2/q05/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set19",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b2/q05/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set19",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b2/q06/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set24",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b2/q06/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set24",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b2/q06/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set24",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b2/q06/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set24",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b2/q06/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set24",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b2/q06/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set24",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b2/q06/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set24",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b2/q06/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set24",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b2/q06/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set24",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b2/q06/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set24",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b2/q06/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set24",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b2/q06/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set24",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b2/q07/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set25",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b2/q07/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set25",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b2/q07/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set25",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b2/q07/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set25",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b2/q07/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set25",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b2/q07/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set25",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b2/q07/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set25",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b2/q07/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set25",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b2/q07/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set25",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b2/q07/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set25",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b2/q07/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set25",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b2/q07/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set25",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b2/q08/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set26",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b2/q08/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set26",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b2/q08/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set26",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b2/q08/a1_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set26",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b2/q08/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set26",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b2/q08/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set26",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b2/q08/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set26",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b2/q08/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set26",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b2/q08/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set26",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b2/q08/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set26",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b2/q08/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set26",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b2/q08/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set26",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b2/q09/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set27",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b2/q09/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set27",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b2/q09/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set27",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b2/q09/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set27",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b2/q09/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set27",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b2/q09/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set27",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b2/q09/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set27",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b2/q09/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set27",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b2/q09/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set27",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b2/q09/a2_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set27",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b2/q09/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set27",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b2/q09/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set27",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b2/q10/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set30",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b2/q10/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set30",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b2/q10/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set30",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b2/q10/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set30",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b2/q10/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set30",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b2/q10/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set30",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b2/q10/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set30",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b2/q10/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set30",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b2/q10/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set30",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b2/q10/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set30",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b2/q10/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set30",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b2/q10/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set30",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b2/q11/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set37",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b2/q11/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set37",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b2/q11/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set37",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b2/q11/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set37",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b2/q11/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set37",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b2/q11/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set37",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b2/q11/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set37",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b2/q11/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set37",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b2/q11/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set37",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b2/q11/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set37",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b2/q11/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set37",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b2/q11/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set37",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b2/q12/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set42",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b2/q12/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set42",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b2/q12/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set42",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b2/q12/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set42",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b2/q12/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set42",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b2/q12/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set42",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b2/q12/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set42",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b2/q12/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set42",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b2/q12/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set42",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b2/q12/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set42",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b2/q12/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set42",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b2/q12/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set42",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b3/q01/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set1",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b3/q01/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set1",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b3/q01/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set1",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b3/q01/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set1",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b3/q01/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set1",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b3/q01/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set1",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b3/q01/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set1",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b3/q01/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set1",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b3/q01/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set1",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b3/q01/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set1",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b3/q01/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set1",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b3/q01/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set1",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b3/q02/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set2",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b3/q02/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set2",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b3/q02/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set2",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b3/q02/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set2",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b3/q02/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set2",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b3/q02/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set2",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b3/q02/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set2",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b3/q02/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set2",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b3/q02/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set2",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b3/q02/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set2",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b3/q02/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set2",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b3/q02/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set2",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b3/q03/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set4",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b3/q03/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set4",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b3/q03/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set4",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b3/q03/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set4",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b3/q03/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set4",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b3/q03/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set4",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b3/q03/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set4",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b3/q03/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set4",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b3/q03/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set4",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b3/q03/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set4",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b3/q03/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set4",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b3/q03/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set4",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b3/q04/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set13",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b3/q04/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set13",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b3/q04/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set13",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b3/q04/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set13",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b3/q04/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set13",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b3/q04/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set13",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b3/q04/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set13",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b3/q04/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set13",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b3/q04/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set13",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b3/q04/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set13",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b3/q04/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set13",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b3/q04/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set13",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b3/q05/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set16",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b3/q05/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set16",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b3/q05/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set16",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b3/q05/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set16",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b3/q05/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set16",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b3/q05/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set16",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b3/q05/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set16",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b3/q05/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set16",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b3/q05/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set16",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b3/q05/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set16",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b3/q05/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set16",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b3/q05/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set16",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b3/q06/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set21",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b3/q06/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set21",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b3/q06/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set21",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b3/q06/a1_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set21",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b3/q06/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set21",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b3/q06/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set21",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b3/q06/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set21",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b3/q06/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set21",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b3/q06/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set21",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b3/q06/a2_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set21",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b3/q06/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set21",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b3/q06/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set21",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b3/q07/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set22",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b3/q07/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set22",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b3/q07/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set22",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b3/q07/a1_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set22",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b3/q07/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set22",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b3/q07/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set22",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b3/q07/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set22",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b3/q07/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set22",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b3/q07/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set22",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b3/q07/a2_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set22",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b3/q07/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set22",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b3/q07/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set22",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b3/q08/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set31",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b3/q08/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set31",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b3/q08/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set31",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b3/q08/a1_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set31",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b3/q08/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set31",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b3/q08/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set31",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b3/q08/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set31",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b3/q08/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set31",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b3/q08/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set31",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b3/q08/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set31",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b3/q08/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set31",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b3/q08/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set31",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b3/q09/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set35",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b3/q09/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set35",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b3/q09/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set35",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b3/q09/a1_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set35",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b3/q09/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set35",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b3/q09/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set35",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b3/q09/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set35",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b3/q09/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set35",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b3/q09/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set35",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b3/q09/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set35",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b3/q09/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set35",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b3/q09/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set35",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b3/q10/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set38",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b3/q10/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set38",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b3/q10/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set38",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b3/q10/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set38",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b3/q10/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set38",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b3/q10/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set38",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b3/q10/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set38",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b3/q10/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set38",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b3/q10/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set38",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b3/q10/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set38",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b3/q10/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set38",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b3/q10/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set38",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b3/q11/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set39",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b3/q11/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set39",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b3/q11/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set39",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b3/q11/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set39",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b3/q11/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set39",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b3/q11/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set39",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b3/q11/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set39",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b3/q11/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set39",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b3/q11/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set39",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b3/q11/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set39",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b3/q11/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set39",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b3/q11/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set39",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b3/q12/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set43",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b3/q12/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set43",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b3/q12/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set43",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b3/q12/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set43",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b3/q12/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set43",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b3/q12/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set43",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b3/q12/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set43",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b3/q12/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set43",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b3/q12/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set43",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b3/q12/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set43",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b3/q12/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set43",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b3/q12/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set43",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b4/q01/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set3",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b4/q01/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set3",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b4/q01/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set3",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b4/q01/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set3",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b4/q01/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set3",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b4/q01/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set3",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b4/q01/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set3",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b4/q01/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set3",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b4/q01/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set3",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b4/q01/a2_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set3",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b4/q01/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set3",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b4/q01/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set3",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b4/q02/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set9",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b4/q02/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set9",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b4/q02/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set9",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b4/q02/a1_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set9",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b4/q02/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set9",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b4/q02/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set9",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b4/q02/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set9",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b4/q02/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set9",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b4/q02/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set9",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b4/q02/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set9",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b4/q02/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set9",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b4/q02/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set9",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b4/q03/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set11",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b4/q03/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set11",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b4/q03/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set11",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b4/q03/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set11",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b4/q03/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set11",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b4/q03/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set11",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b4/q03/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set11",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b4/q03/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set11",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b4/q03/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set11",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b4/q03/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set11",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b4/q03/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set11",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b4/q03/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set11",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b4/q04/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set15",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b4/q04/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set15",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b4/q04/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set15",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b4/q04/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set15",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b4/q04/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set15",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b4/q04/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set15",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b4/q04/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set15",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b4/q04/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set15",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b4/q04/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set15",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b4/q04/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set15",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b4/q04/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set15",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b4/q04/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set15",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b4/q05/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set20",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b4/q05/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set20",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b4/q05/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set20",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b4/q05/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set20",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b4/q05/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set20",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b4/q05/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set20",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b4/q05/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set20",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b4/q05/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set20",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b4/q05/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set20",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b4/q05/a2_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set20",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b4/q05/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set20",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b4/q05/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set20",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b4/q06/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set23",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b4/q06/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set23",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b4/q06/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set23",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b4/q06/a1_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set23",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b4/q06/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set23",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b4/q06/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set23",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b4/q06/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set23",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b4/q06/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set23",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b4/q06/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set23",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b4/q06/a2_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set23",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b4/q06/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set23",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b4/q06/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set23",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b4/q07/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set33",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b4/q07/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set33",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b4/q07/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set33",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b4/q07/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set33",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b4/q07/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set33",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b4/q07/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set33",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b4/q07/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set33",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b4/q07/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set33",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b4/q07/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set33",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b4/q07/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set33",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b4/q07/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set33",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b4/q07/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set33",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b4/q08/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set34",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b4/q08/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set34",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b4/q08/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set34",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b4/q08/a1_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set34",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b4/q08/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set34",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b4/q08/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set34",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b4/q08/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set34",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b4/q08/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set34",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b4/q08/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set34",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b4/q08/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set34",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b4/q08/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set34",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b4/q08/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set34",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b4/q09/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set36",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b4/q09/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set36",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b4/q09/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set36",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b4/q09/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set36",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b4/q09/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set36",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b4/q09/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set36",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b4/q09/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set36",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b4/q09/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set36",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b4/q09/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set36",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b4/q09/a2_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set36",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b4/q09/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set36",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b4/q09/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set36",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b4/q10/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set40",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b4/q10/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set40",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b4/q10/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set40",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b4/q10/a1_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set40",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b4/q10/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set40",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b4/q10/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set40",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b4/q10/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set40",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b4/q10/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set40",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b4/q10/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set40",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b4/q10/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set40",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b4/q10/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set40",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b4/q10/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set40",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b4/q11/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set41",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b4/q11/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set41",
+  "icon": "Attr_Duration_3.png"
+ },
+ "CHD/b4/q11/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set41",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b4/q11/a1_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set41",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b4/q11/a1_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set41",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b4/q11/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set41",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "CHD/b4/q11/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set41",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "CHD/b4/q11/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set41",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b4/q11/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set41",
+  "icon": "Attr_Infection_90.png"
+ },
+ "CHD/b4/q11/a2_HOSP.png": {
+  "alt": "Hospital admissions: 150 admissions",
+  "label": "150 admissions",
+  "set": "set41",
+  "icon": "Attr_Hosp_150.png"
+ },
+ "CHD/b4/q11/a2_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set41",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b4/q11/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set41",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b4/q12/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set44",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "CHD/b4/q12/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set44",
+  "icon": "Attr_Duration_9.png"
+ },
+ "CHD/b4/q12/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set44",
+  "icon": "Attr_Infection_25.png"
+ },
+ "CHD/b4/q12/a1_HOSP.png": {
+  "alt": "Hospital admissions: 50 admissions",
+  "label": "50 admissions",
+  "set": "set44",
+  "icon": "Attr_Hosp_50.png"
+ },
+ "CHD/b4/q12/a1_EDUCATION.png": {
+  "alt": "Education: 5 in 25 fall behind",
+  "label": "5 in 25 fall behind",
+  "set": "set44",
+  "icon": "Attr_Education_5.png"
+ },
+ "CHD/b4/q12/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set44",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "CHD/b4/q12/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set44",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "CHD/b4/q12/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set44",
+  "icon": "Attr_Duration_6.png"
+ },
+ "CHD/b4/q12/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set44",
+  "icon": "Attr_Infection_50.png"
+ },
+ "CHD/b4/q12/a2_HOSP.png": {
+  "alt": "Hospital admissions: 100 admissions",
+  "label": "100 admissions",
+  "set": "set44",
+  "icon": "Attr_Hosp_100.png"
+ },
+ "CHD/b4/q12/a2_EDUCATION.png": {
+  "alt": "Education: 10 in 25 fall behind",
+  "label": "10 in 25 fall behind",
+  "set": "set44",
+  "icon": "Attr_Education_10.png"
+ },
+ "CHD/b4/q12/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set44",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b1/q01/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set4",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b1/q01/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set4",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b1/q01/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set4",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b1/q01/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set4",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b1/q01/a1_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set4",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b1/q01/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set4",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b1/q01/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set4",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b1/q01/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set4",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b1/q01/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set4",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b1/q01/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set4",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b1/q01/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set4",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b1/q01/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set4",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b1/q02/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set5",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b1/q02/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set5",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b1/q02/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set5",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b1/q02/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set5",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b1/q02/a1_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set5",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b1/q02/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set5",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b1/q02/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set5",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b1/q02/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set5",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b1/q02/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set5",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b1/q02/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set5",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b1/q02/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set5",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b1/q02/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set5",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b1/q03/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set7",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b1/q03/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set7",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b1/q03/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set7",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b1/q03/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set7",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b1/q03/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set7",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b1/q03/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set7",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b1/q03/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set7",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b1/q03/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set7",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b1/q03/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set7",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b1/q03/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set7",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b1/q03/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set7",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b1/q03/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set7",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b1/q04/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set16",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b1/q04/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set16",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b1/q04/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set16",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b1/q04/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set16",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b1/q04/a1_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set16",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b1/q04/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set16",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b1/q04/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set16",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b1/q04/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set16",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b1/q04/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set16",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b1/q04/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set16",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b1/q04/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set16",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b1/q04/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set16",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b1/q05/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set18",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b1/q05/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set18",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b1/q05/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set18",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b1/q05/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set18",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b1/q05/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set18",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b1/q05/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set18",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b1/q05/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set18",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b1/q05/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set18",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b1/q05/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set18",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b1/q05/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set18",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b1/q05/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set18",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b1/q05/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set18",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b1/q06/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set19",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b1/q06/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set19",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b1/q06/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set19",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b1/q06/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set19",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b1/q06/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set19",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b1/q06/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set19",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b1/q06/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set19",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b1/q06/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set19",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b1/q06/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set19",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b1/q06/a2_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set19",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b1/q06/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set19",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b1/q06/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set19",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b1/q07/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set29",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b1/q07/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set29",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b1/q07/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set29",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b1/q07/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set29",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b1/q07/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set29",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b1/q07/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set29",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b1/q07/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set29",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b1/q07/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set29",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b1/q07/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set29",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b1/q07/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set29",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b1/q07/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set29",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b1/q07/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set29",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b1/q08/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set33",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b1/q08/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set33",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b1/q08/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set33",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b1/q08/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set33",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b1/q08/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set33",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b1/q08/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set33",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b1/q08/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set33",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b1/q08/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set33",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b1/q08/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set33",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b1/q08/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set33",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b1/q08/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set33",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b1/q08/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set33",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b1/q09/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set34",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b1/q09/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set34",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b1/q09/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set34",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b1/q09/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set34",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b1/q09/a1_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set34",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b1/q09/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set34",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b1/q09/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set34",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b1/q09/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set34",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b1/q09/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set34",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b1/q09/a2_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set34",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b1/q09/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set34",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b1/q09/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set34",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b1/q10/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set35",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b1/q10/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set35",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b1/q10/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set35",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b1/q10/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set35",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b1/q10/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set35",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b1/q10/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set35",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b1/q10/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set35",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b1/q10/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set35",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b1/q10/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set35",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b1/q10/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set35",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b1/q10/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set35",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b1/q10/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set35",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b1/q11/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set41",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b1/q11/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set41",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b1/q11/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set41",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b1/q11/a1_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set41",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b1/q11/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set41",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b1/q11/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set41",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b1/q11/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set41",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b1/q11/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set41",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b1/q11/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set41",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b1/q11/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set41",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b1/q11/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set41",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b1/q11/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set41",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b1/q12/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set48",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b1/q12/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set48",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b1/q12/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set48",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b1/q12/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set48",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b1/q12/a1_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set48",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b1/q12/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set48",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b1/q12/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set48",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b1/q12/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set48",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b1/q12/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set48",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b1/q12/a2_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set48",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b1/q12/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set48",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b1/q12/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set48",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b2/q01/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set11",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b2/q01/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set11",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b2/q01/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set11",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b2/q01/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set11",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b2/q01/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set11",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b2/q01/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set11",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b2/q01/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set11",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b2/q01/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set11",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b2/q01/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set11",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b2/q01/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set11",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b2/q01/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set11",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b2/q01/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set11",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b2/q02/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set14",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b2/q02/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set14",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b2/q02/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set14",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b2/q02/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set14",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b2/q02/a1_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set14",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b2/q02/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set14",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b2/q02/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set14",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b2/q02/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set14",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b2/q02/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set14",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b2/q02/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set14",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b2/q02/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set14",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b2/q02/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set14",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b2/q03/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set15",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b2/q03/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set15",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b2/q03/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set15",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b2/q03/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set15",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b2/q03/a1_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set15",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b2/q03/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set15",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b2/q03/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set15",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b2/q03/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set15",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b2/q03/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set15",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b2/q03/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set15",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b2/q03/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set15",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b2/q03/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set15",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b2/q04/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set21",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b2/q04/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set21",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b2/q04/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set21",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b2/q04/a1_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set21",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b2/q04/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set21",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b2/q04/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set21",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b2/q04/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set21",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b2/q04/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set21",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b2/q04/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set21",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b2/q04/a2_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set21",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b2/q04/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set21",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b2/q04/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set21",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b2/q05/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set26",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b2/q05/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set26",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b2/q05/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set26",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b2/q05/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set26",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b2/q05/a1_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set26",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b2/q05/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set26",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b2/q05/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set26",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b2/q05/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set26",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b2/q05/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set26",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b2/q05/a2_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set26",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b2/q05/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set26",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b2/q05/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set26",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b2/q06/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set32",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b2/q06/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set32",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b2/q06/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set32",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b2/q06/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set32",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b2/q06/a1_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set32",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b2/q06/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set32",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b2/q06/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set32",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b2/q06/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set32",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b2/q06/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set32",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b2/q06/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set32",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b2/q06/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set32",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b2/q06/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set32",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b2/q07/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set37",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b2/q07/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set37",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b2/q07/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set37",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b2/q07/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set37",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b2/q07/a1_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set37",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b2/q07/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set37",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b2/q07/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set37",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b2/q07/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set37",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b2/q07/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set37",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b2/q07/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set37",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b2/q07/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set37",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b2/q07/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set37",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b2/q08/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set38",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b2/q08/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set38",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b2/q08/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set38",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b2/q08/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set38",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b2/q08/a1_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set38",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b2/q08/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set38",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b2/q08/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set38",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b2/q08/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set38",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b2/q08/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set38",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b2/q08/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set38",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b2/q08/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set38",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b2/q08/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set38",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b2/q09/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set40",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b2/q09/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set40",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b2/q09/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set40",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b2/q09/a1_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set40",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b2/q09/a1_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set40",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b2/q09/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set40",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b2/q09/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set40",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b2/q09/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set40",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b2/q09/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set40",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b2/q09/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set40",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b2/q09/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set40",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b2/q09/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set40",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b2/q10/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set43",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b2/q10/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set43",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b2/q10/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set43",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b2/q10/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set43",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b2/q10/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set43",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b2/q10/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set43",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b2/q10/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set43",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b2/q10/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set43",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b2/q10/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set43",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b2/q10/a2_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set43",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b2/q10/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set43",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b2/q10/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set43",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b2/q11/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set45",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b2/q11/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set45",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b2/q11/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set45",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b2/q11/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set45",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b2/q11/a1_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set45",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b2/q11/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set45",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b2/q11/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set45",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b2/q11/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set45",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b2/q11/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set45",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b2/q11/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set45",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b2/q11/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set45",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b2/q11/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set45",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b2/q12/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set46",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b2/q12/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set46",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b2/q12/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set46",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b2/q12/a1_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set46",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b2/q12/a1_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set46",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b2/q12/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set46",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b2/q12/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set46",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b2/q12/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set46",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b2/q12/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set46",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b2/q12/a2_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set46",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b2/q12/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set46",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b2/q12/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set46",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b3/q01/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set1",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b3/q01/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set1",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b3/q01/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set1",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b3/q01/a1_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set1",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b3/q01/a1_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set1",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b3/q01/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set1",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b3/q01/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set1",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b3/q01/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set1",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b3/q01/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set1",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b3/q01/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set1",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b3/q01/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set1",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b3/q01/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set1",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b3/q02/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set2",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b3/q02/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set2",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b3/q02/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set2",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b3/q02/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set2",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b3/q02/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set2",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b3/q02/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set2",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b3/q02/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set2",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b3/q02/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set2",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b3/q02/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set2",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b3/q02/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set2",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b3/q02/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set2",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b3/q02/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set2",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b3/q03/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set9",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b3/q03/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set9",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b3/q03/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set9",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b3/q03/a1_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set9",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b3/q03/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set9",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b3/q03/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set9",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b3/q03/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set9",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b3/q03/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set9",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b3/q03/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set9",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b3/q03/a2_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set9",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b3/q03/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set9",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b3/q03/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set9",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b3/q04/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set12",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b3/q04/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set12",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b3/q04/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set12",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b3/q04/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set12",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b3/q04/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set12",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b3/q04/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set12",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b3/q04/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set12",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b3/q04/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set12",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b3/q04/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set12",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b3/q04/a2_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set12",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b3/q04/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set12",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b3/q04/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set12",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b3/q05/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set13",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b3/q05/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set13",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b3/q05/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set13",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b3/q05/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set13",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b3/q05/a1_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set13",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b3/q05/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set13",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b3/q05/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set13",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b3/q05/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set13",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b3/q05/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set13",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b3/q05/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set13",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b3/q05/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set13",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b3/q05/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set13",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b3/q06/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set23",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b3/q06/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set23",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b3/q06/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set23",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b3/q06/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set23",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b3/q06/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set23",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b3/q06/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set23",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b3/q06/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set23",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b3/q06/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set23",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b3/q06/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set23",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b3/q06/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set23",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b3/q06/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set23",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b3/q06/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set23",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b3/q07/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set25",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b3/q07/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set25",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b3/q07/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set25",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b3/q07/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set25",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b3/q07/a1_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set25",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b3/q07/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set25",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b3/q07/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set25",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b3/q07/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set25",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b3/q07/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set25",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b3/q07/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set25",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b3/q07/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set25",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b3/q07/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set25",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b3/q08/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set27",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b3/q08/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set27",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b3/q08/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set27",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b3/q08/a1_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set27",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b3/q08/a1_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set27",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b3/q08/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set27",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b3/q08/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set27",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b3/q08/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set27",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b3/q08/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set27",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b3/q08/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set27",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b3/q08/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set27",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b3/q08/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set27",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b3/q09/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set31",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b3/q09/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set31",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b3/q09/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set31",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b3/q09/a1_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set31",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b3/q09/a1_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set31",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b3/q09/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set31",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b3/q09/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set31",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b3/q09/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set31",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b3/q09/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set31",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b3/q09/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set31",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b3/q09/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set31",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b3/q09/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set31",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b3/q10/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set36",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b3/q10/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set36",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b3/q10/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set36",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b3/q10/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set36",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b3/q10/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set36",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b3/q10/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set36",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b3/q10/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set36",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b3/q10/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set36",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b3/q10/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set36",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b3/q10/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set36",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b3/q10/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set36",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b3/q10/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set36",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b3/q11/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set39",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b3/q11/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set39",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b3/q11/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set39",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b3/q11/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set39",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b3/q11/a1_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set39",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b3/q11/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set39",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b3/q11/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set39",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b3/q11/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set39",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b3/q11/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set39",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b3/q11/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set39",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b3/q11/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set39",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b3/q11/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set39",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b3/q12/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set42",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b3/q12/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set42",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b3/q12/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set42",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b3/q12/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set42",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b3/q12/a1_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set42",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b3/q12/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set42",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b3/q12/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set42",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b3/q12/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set42",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b3/q12/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set42",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b3/q12/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set42",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b3/q12/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set42",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b3/q12/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set42",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b4/q01/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set3",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b4/q01/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set3",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b4/q01/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set3",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b4/q01/a1_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set3",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b4/q01/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set3",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b4/q01/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set3",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b4/q01/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set3",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b4/q01/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set3",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b4/q01/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set3",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b4/q01/a2_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set3",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b4/q01/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set3",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b4/q01/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set3",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b4/q02/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set6",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b4/q02/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set6",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b4/q02/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set6",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b4/q02/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set6",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b4/q02/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set6",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b4/q02/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set6",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b4/q02/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set6",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b4/q02/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set6",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b4/q02/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set6",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b4/q02/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set6",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b4/q02/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set6",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b4/q02/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set6",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b4/q03/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set8",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b4/q03/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set8",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b4/q03/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set8",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b4/q03/a1_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set8",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b4/q03/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set8",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b4/q03/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set8",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b4/q03/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set8",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b4/q03/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set8",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b4/q03/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set8",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b4/q03/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set8",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b4/q03/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set8",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b4/q03/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set8",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b4/q04/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set10",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b4/q04/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set10",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b4/q04/a1_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set10",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b4/q04/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set10",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b4/q04/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set10",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b4/q04/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set10",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b4/q04/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set10",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b4/q04/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set10",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b4/q04/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set10",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b4/q04/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set10",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b4/q04/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set10",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b4/q04/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set10",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b4/q05/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set17",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b4/q05/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set17",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b4/q05/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set17",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b4/q05/a1_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set17",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b4/q05/a1_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set17",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b4/q05/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set17",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b4/q05/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set17",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b4/q05/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set17",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b4/q05/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set17",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b4/q05/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set17",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b4/q05/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set17",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b4/q05/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set17",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b4/q06/a1_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set20",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b4/q06/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set20",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b4/q06/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set20",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b4/q06/a1_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set20",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b4/q06/a1_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set20",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b4/q06/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set20",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b4/q06/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set20",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b4/q06/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set20",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b4/q06/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set20",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b4/q06/a2_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set20",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b4/q06/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set20",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b4/q06/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set20",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b4/q07/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set22",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b4/q07/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set22",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b4/q07/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set22",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b4/q07/a1_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set22",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b4/q07/a1_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set22",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b4/q07/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set22",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b4/q07/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set22",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b4/q07/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set22",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b4/q07/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set22",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b4/q07/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set22",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b4/q07/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set22",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b4/q07/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set22",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b4/q08/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set24",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b4/q08/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set24",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b4/q08/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set24",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b4/q08/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set24",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b4/q08/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set24",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b4/q08/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set24",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b4/q08/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set24",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b4/q08/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set24",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b4/q08/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set24",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b4/q08/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set24",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b4/q08/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set24",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b4/q08/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set24",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b4/q09/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set28",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b4/q09/a1_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set28",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b4/q09/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set28",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b4/q09/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set28",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b4/q09/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set28",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b4/q09/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set28",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b4/q09/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set28",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b4/q09/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set28",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b4/q09/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set28",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b4/q09/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set28",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b4/q09/a2_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set28",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b4/q09/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set28",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b4/q10/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set30",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b4/q10/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set30",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b4/q10/a1_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set30",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b4/q10/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set30",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b4/q10/a1_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set30",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b4/q10/a1_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set30",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b4/q10/a2_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set30",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b4/q10/a2_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set30",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b4/q10/a2_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set30",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b4/q10/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set30",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b4/q10/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set30",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b4/q10/a2_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set30",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b4/q11/a1_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set44",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b4/q11/a1_DURATION.png": {
+  "alt": "Duration: 6 months",
+  "label": "6 months",
+  "set": "set44",
+  "icon": "Attr_Duration_6.png"
+ },
+ "OLD/b4/q11/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set44",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b4/q11/a1_DEATH.png": {
+  "alt": "Death: 150 deaths",
+  "label": "150 deaths",
+  "set": "set44",
+  "icon": "Attr_Death_150.png"
+ },
+ "OLD/b4/q11/a1_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set44",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b4/q11/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set44",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b4/q11/a2_PHSM.png": {
+  "alt": "Measures: Lockdown",
+  "label": "Lockdown",
+  "set": "set44",
+  "icon": "Attr_PHSM_2.png"
+ },
+ "OLD/b4/q11/a2_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set44",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b4/q11/a2_INFECTION.png": {
+  "alt": "Infection: 90% risk",
+  "label": "90% risk",
+  "set": "set44",
+  "icon": "Attr_Infection_90.png"
+ },
+ "OLD/b4/q11/a2_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set44",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b4/q11/a2_FINANCES.png": {
+  "alt": "Finances: No impact",
+  "label": "No impact",
+  "set": "set44",
+  "icon": "Attr_Finances_0.png"
+ },
+ "OLD/b4/q11/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set44",
+  "icon": "Attr_Vaccine_0.png"
+ },
+ "OLD/b4/q12/a1_PHSM.png": {
+  "alt": "Measures: Basic measures",
+  "label": "Basic measures",
+  "set": "set47",
+  "icon": "Attr_PHSM_0.png"
+ },
+ "OLD/b4/q12/a1_DURATION.png": {
+  "alt": "Duration: 9 months",
+  "label": "9 months",
+  "set": "set47",
+  "icon": "Attr_Duration_9.png"
+ },
+ "OLD/b4/q12/a1_INFECTION.png": {
+  "alt": "Infection: 25% risk",
+  "label": "25% risk",
+  "set": "set47",
+  "icon": "Attr_Infection_25.png"
+ },
+ "OLD/b4/q12/a1_DEATH.png": {
+  "alt": "Death: 100 deaths",
+  "label": "100 deaths",
+  "set": "set47",
+  "icon": "Attr_Death_100.png"
+ },
+ "OLD/b4/q12/a1_FINANCES.png": {
+  "alt": "Finances: 2 in 5 close",
+  "label": "2 in 5 close",
+  "set": "set47",
+  "icon": "Attr_Finances_2.png"
+ },
+ "OLD/b4/q12/a1_VACCINE.png": {
+  "alt": "Vaccine: Probably available",
+  "label": "Probably available",
+  "set": "set47",
+  "icon": "Attr_Vaccine_1.png"
+ },
+ "OLD/b4/q12/a2_PHSM.png": {
+  "alt": "Measures: Reduced social contact",
+  "label": "Reduced social contact",
+  "set": "set47",
+  "icon": "Attr_PHSM_1.png"
+ },
+ "OLD/b4/q12/a2_DURATION.png": {
+  "alt": "Duration: 3 months",
+  "label": "3 months",
+  "set": "set47",
+  "icon": "Attr_Duration_3.png"
+ },
+ "OLD/b4/q12/a2_INFECTION.png": {
+  "alt": "Infection: 50% risk",
+  "label": "50% risk",
+  "set": "set47",
+  "icon": "Attr_Infection_50.png"
+ },
+ "OLD/b4/q12/a2_DEATH.png": {
+  "alt": "Death: 50 deaths",
+  "label": "50 deaths",
+  "set": "set47",
+  "icon": "Attr_Death_50.png"
+ },
+ "OLD/b4/q12/a2_FINANCES.png": {
+  "alt": "Finances: 1 in 5 close",
+  "label": "1 in 5 close",
+  "set": "set47",
+  "icon": "Attr_Finances_1.png"
+ },
+ "OLD/b4/q12/a2_VACCINE.png": {
+  "alt": "Vaccine: Not available",
+  "label": "Not available",
+  "set": "set47",
+  "icon": "Attr_Vaccine_0.png"
+ }
+}
