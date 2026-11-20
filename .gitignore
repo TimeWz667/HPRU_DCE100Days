@@ -50,3 +50,6 @@ rsconnect/
 
 # survey_formatter build
 survey_formatter/node_modules/
+
+# Claude Code worktrees
+.claude/worktrees/
